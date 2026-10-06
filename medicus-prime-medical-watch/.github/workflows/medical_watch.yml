@@ -1,6 +1,12 @@
 name: MEDICUS PRIME - Medical Watch
 
 on:
+  push:
+    paths:
+      - 'medicus-prime-medical-watch/.github/workflows/medical_watch.yml'
+      - 'medicus-prime-medical-watch/src/**'
+      - 'medicus-prime-medical-watch/config.yaml'
+      - 'medicus-prime-medical-watch/requirements.txt'
   workflow_dispatch:
   schedule:
     - cron: '0 8 * * *'
@@ -23,18 +29,18 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r medicus-prime-medical-watch/requirements.txt
 
       - name: Run MEDICUS PRIME
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-        run: python src/medical_watch.py
+        run: python medicus-prime-medical-watch/src/medical_watch.py
 
       - name: Commit knowledge update
         run: |
           git config user.name 'medicus-prime-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add knowledge/ state/
+          git add medicus-prime-medical-watch/knowledge/ medicus-prime-medical-watch/state/
           git diff --cached --quiet || git commit -m 'chore: update medical intelligence feed'
           git push
