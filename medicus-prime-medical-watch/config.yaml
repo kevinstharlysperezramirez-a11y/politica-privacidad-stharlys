@@ -1,0 +1,57 @@
+project:
+  name: MEDICUS PRIME
+  recent_days: 30
+  fallback_days: 90
+  max_articles_per_topic: 6
+  max_final_articles: 30
+  output_file: knowledge/medical_update.md
+
+sources:
+  pubmed: true
+  europe_pmc: true
+
+topic_rotation:
+  - name: Anatomía, histología, embriología y ciencias morfofuncionales
+    query: '("Anatomy"[Title/Abstract] OR "Neuroanatomy"[Title/Abstract] OR histology[Title/Abstract] OR embryology[Title/Abstract])'
+  - name: Fisiología, bioquímica y biología celular
+    query: '(physiology[Title/Abstract] OR biochemistry[Title/Abstract] OR "cell biology"[Title/Abstract] OR metabolism[Title/Abstract])'
+  - name: Genética, genómica y medicina molecular
+    query: '(genomics[Title/Abstract] OR genetics[Title/Abstract] OR epigenetics[Title/Abstract] OR "gene therapy"[Title/Abstract] OR CRISPR[Title/Abstract] OR "precision medicine"[Title/Abstract])'
+  - name: Farmacología y nuevos tratamientos
+    query: '(pharmacology[Title/Abstract] OR "drug therapy"[Title/Abstract] OR "new drug"[Title/Abstract] OR pharmacokinetics[Title/Abstract] OR pharmacodynamics[Title/Abstract] OR "targeted therapy"[Title/Abstract])'
+  - name: Microbiología, infectología y resistencia antimicrobiana
+    query: '("infectious diseases"[Title/Abstract] OR bacteriology[Title/Abstract] OR virology[Title/Abstract] OR mycology[Title/Abstract] OR parasitology[Title/Abstract] OR "antimicrobial resistance"[Title/Abstract])'
+  - name: Cardiología y medicina vascular
+    query: '(cardiology[Title/Abstract] OR cardiovascular[Title/Abstract] OR "heart failure"[Title/Abstract] OR arrhythmia[Title/Abstract] OR stroke[Title/Abstract] OR thrombosis[Title/Abstract])'
+  - name: Neumología y medicina respiratoria
+    query: '(pulmonology[Title/Abstract] OR respiratory[Title/Abstract] OR COPD[Title/Abstract] OR asthma[Title/Abstract] OR pneumonia[Title/Abstract] OR ARDS[Title/Abstract])'
+  - name: Gastroenterología, hepatología y nutrición
+    query: '(gastroenterology[Title/Abstract] OR hepatology[Title/Abstract] OR cirrhosis[Title/Abstract] OR "inflammatory bowel"[Title/Abstract] OR "liver disease"[Title/Abstract])'
+  - name: Nefrología y urología
+    query: '(nephrology[Title/Abstract] OR kidney[Title/Abstract] OR renal[Title/Abstract] OR urology[Title/Abstract] OR dialysis[Title/Abstract])'
+  - name: Endocrinología, metabolismo y obesidad
+    query: '(endocrinology[Title/Abstract] OR diabetes[Title/Abstract] OR thyroid[Title/Abstract] OR obesity[Title/Abstract] OR metabolic[Title/Abstract])'
+  - name: Neurología, neurociencias y lesión del sistema nervioso
+    query: '(neurology[Title/Abstract] OR neuroscience[Title/Abstract] OR Alzheimer[Title/Abstract] OR Parkinson[Title/Abstract] OR epilepsy[Title/Abstract] OR "multiple sclerosis"[Title/Abstract] OR ALS[Title/Abstract] OR "spinal cord injury"[Title/Abstract])'
+  - name: Oncología e inmunoterapia
+    query: '(oncology[Title/Abstract] OR cancer[Title/Abstract] OR tumor[Title/Abstract] OR immunotherapy[Title/Abstract] OR CAR-T[Title/Abstract] OR biomarker[Title/Abstract])'
+  - name: Inmunología y reumatología
+    query: '(immunology[Title/Abstract] OR autoimmune[Title/Abstract] OR rheumatology[Title/Abstract] OR lupus[Title/Abstract] OR rheumatoid[Title/Abstract] OR cytokine[Title/Abstract])'
+  - name: Pediatría y neonatología
+    query: '(pediatrics[Title/Abstract] OR neonatology[Title/Abstract] OR neonatal[Title/Abstract] OR child[Title/Abstract] OR adolescent[Title/Abstract])'
+  - name: Ginecología y obstetricia
+    query: '(obstetrics[Title/Abstract] OR gynecology[Title/Abstract] OR pregnancy[Title/Abstract] OR preeclampsia[Title/Abstract] OR infertility[Title/Abstract])'
+  - name: Cirugía, trauma y ortopedia
+    query: '(surgery[Title/Abstract] OR trauma[Title/Abstract] OR orthopedics[Title/Abstract] OR fracture[Title/Abstract] OR transplantation[Title/Abstract] OR minimally invasive[Title/Abstract])'
+  - name: Psiquiatría y salud mental
+    query: '(psychiatry[Title/Abstract] OR depression[Title/Abstract] OR anxiety[Title/Abstract] OR schizophrenia[Title/Abstract] OR bipolar[Title/Abstract] OR psychotherapy[Title/Abstract])'
+  - name: Urgencias, cuidados críticos y sepsis
+    query: '("emergency medicine"[Title/Abstract] OR "critical care"[Title/Abstract] OR ICU[Title/Abstract] OR sepsis[Title/Abstract] OR shock[Title/Abstract] OR resuscitation[Title/Abstract])'
+  - name: Epidemiología, salud pública y prevención
+    query: '(epidemiology[Title/Abstract] OR "public health"[Title/Abstract] OR prevention[Title/Abstract] OR screening[Title/Abstract] OR vaccination[Title/Abstract] OR outbreak[Title/Abstract])'
+  - name: Medicina basada en evidencia e investigación clínica
+    query: '("systematic review"[Title/Abstract] OR meta-analysis[Title/Abstract] OR "randomized controlled trial"[Title/Abstract] OR guideline[Title/Abstract] OR consensus[Title/Abstract])'
+  - name: Inteligencia artificial y tecnología médica
+    query: '(("artificial intelligence"[Title/Abstract] OR "machine learning"[Title/Abstract] OR "deep learning"[Title/Abstract]) AND (medicine[Title/Abstract] OR clinical[Title/Abstract] OR diagnosis[Title/Abstract] OR surgery[Title/Abstract] OR imaging[Title/Abstract]))'
+  - name: Medicina regenerativa y terapias avanzadas
+    query: '("stem cell"[Title/Abstract] OR "cell therapy"[Title/Abstract] OR "regenerative medicine"[Title/Abstract] OR "tissue engineering"[Title/Abstract] OR "gene editing"[Title/Abstract])'
