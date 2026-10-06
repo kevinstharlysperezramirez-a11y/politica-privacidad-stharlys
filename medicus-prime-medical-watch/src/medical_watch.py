@@ -227,7 +227,13 @@ def curate(articles: list[Article]) -> str | None:
     key = os.getenv("GEMINI_API_KEY")
     if not key or genai is None or not articles:
         return None
-    model = os.getenv("GEMINI_MODEL") or "gemini-3.8-flash"
+
+    configured = os.getenv("GEMINI_MODEL").strip() if os.getenv("GEMINI_MODEL") else ""
+    models = [configured] if configured else []
+    for candidate in ("gemini-3.8-flash", "gemini-3.7-flash"):
+        if candidate not in models:
+            models.append(candidate)
+
     client = genai.Client(api_key=key)
     data = [asdict(a) for a in articles[:CONFIG["project"]["max_final_articles"]]]
     prompt = """Eres el motor de curación científica de MEDICUS PRIME.
@@ -242,11 +248,29 @@ Devuelve Markdown en español, técnicamente riguroso, con:
 ## QUÉ DEBERÍA ESTUDIAR
 ## ALERTAS DE EVIDENCIA
 Incluye título, fecha, revista, tipo de estudio, hallazgo, importancia, limitación y enlace."""
-    response = client.models.generate_content(
-        model=model,
-        contents=prompt + "\n\nARTÍCULOS:\n" + json.dumps(data, ensure_ascii=False),
-    )
-    return getattr(response, "text", None)
+
+    last_error = None
+    for model in models:
+        for attempt in range(3):
+            try:
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt + "\n\nARTÍCULOS:\n" + json.dumps(data, ensure_ascii=False),
+                )
+                text = getattr(response, "text", None)
+                if text:
+                    return text
+                last_error = RuntimeError(f"Gemini returned no text using {model}")
+            except Exception as exc:
+                last_error = exc
+                message = str(exc).lower()
+                if "503" not in message and "unavailable" not in message and "429" not in message:
+                    break
+                time.sleep(5 * (attempt + 1))
+
+    if last_error:
+        raise last_error
+    return None
 
 def write_output(articles: list[Article], curated: str | None) -> None:
     now = dt.datetime.now(dt.timezone.utc).astimezone().isoformat(timespec="minutes")
