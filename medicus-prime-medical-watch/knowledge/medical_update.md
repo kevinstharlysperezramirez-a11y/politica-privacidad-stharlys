@@ -1,42 +1,82 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-10-07T19:18+00:00**
+> Actualizado: **2026-10-08T19:19+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Antibiotic Use, Bacterial Co-Infection, and Antimicrobial Resistance in Adults Hospitalized with COVID-19, Influenza, or RSV: A Systematic Review and Meta-Analysis.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-06-30
-**Revista:** Antibiotics (Basel)
-**Tipo:** No especificado
-**Autores:** Lucaciu FC, Rosca O, Mihai AM, Sima A, Suba MI, Wellmann N, Rosian A, Oancea C, Cialma M, Tarau A, Bosoanca A, Marc M.
-**PMID:** 42505617  **DOI:** 10.3390/antibiotics15070654
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42505617/
-
-### 2. The crosstalk between polycystic ovary syndrome and Hashimoto thyroiditis: a systematic review and meta-analysis.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2026-08-07
-**Revista:** Front Endocrinol (Lausanne)
-**Tipo:** No especificado
-**Autores:** Albalawi Y, Mirghani H.
-**PMID:** 42630159  **DOI:** 10.3389/fendo.2026.1809000
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42630159/
-
-### 3. Hydrogen-rich water combined with traditional Chinese medicine compound in the treatment of kidney stones: a randomized controlled prospective clinical trial.
-**Área:** Nefrología y urología
+### 1. Neurocognitive effects of stress in higher education: Mechanisms, challenges, and opportunities.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
 **Fecha:** 2027
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Randomized Controlled Trial
-**Autores:** Yin Y, Wang J, Lian F, Tang Y, Shen Y, Guo Y, Xu Q, Hu J
-**PMID:** 42734448  **DOI:** 10.4103/mgr.MEDGASRES-D-26-00067
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article, Systematic Review
+**Autores:** Ochoa-Amaya JE, Tamayo Alzate OE, Rojas-Peña JI
+**PMID:** 42716131  **DOI:** 10.1016/j.bbr.2026.116470
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734448/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42716131/
 
-### 4. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
-**Área:** Cardiología y medicina vascular
+### 2. Factors Associated with Systemic Lupus Erythematosus-Associated Interstitial Lung Disease and Clinical Outcomes: A Systematic Review and Meta-Analysis.
+**Área:** Inmunología y reumatología
+**Fecha:** 2026-08-31
+**Revista:** Medicina (Kaunas)
+**Tipo:** No especificado
+**Autores:** Radić M, Šimac Prižmić P, Bečić T, Đogaš H, Radić J, Fabijanić D, Gelemanović A, Perković D.
+**PMID:** 42796280  **DOI:** 10.3390/medicina62091673
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42796280/
+
+### 3. Psychiatric Symptoms Associated with Corticosteroid Use: A Systematic Review and Meta-analysis.
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-06-28
+**Revista:** CNS Drugs
+**Tipo:** No especificado
+**Autores:** Kusudo K, Mashima Y, Yasuda H, Iyo T, Takeuchi H.
+**PMID:** 42365562  **DOI:** 10.1007/s40263-026-01298-5
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42365562/
+
+### 4. Budesonide and Surfactant Therapy Versus Surfactant Alone on Incidence of Lung Disease in Preterm Infants (BEST Lung): Study Protocol for a Systematic Review and Individual Participant Data Meta-Analysis With Nested Prospective Meta-Analysis.
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-06-14
+**Revista:** Acta Paediatr
+**Tipo:** No especificado
+**Autores:** Sotiropoulos JX, Manley BJ, Libesman S, Ambalavanan N, Das A, Mckinlay CJD, Panigrahy N, Cruz M, Nguyen D, Williams J, Davis P, Hunter KE, Seidler AL.
+**PMID:** 42289845  **DOI:** 10.1111/apa.70638
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42289845/
+
+### 5. Early Initiation of Thyroid Hormone Therapy Versus Watchful Waiting or Delayed Treatment or no Treatment in Subclinical Hypothyroidism: A Systematic Review and Meta-analysis Protocol.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-29
+**Revista:** F1000Res
+**Tipo:** No especificado
+**Autores:** Gandhi AP, Deshmukh KP, Kaliyappan A, Bang A, Gangane N.
+**PMID:** 42800939  **DOI:** 10.12688/f1000research.179360.3
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42800939/
+
+### 6. Comparative Efficacy and Safety of Liraglutide Versus Metformin in Women With Polyendocrine Metabolic Ovarian Syndrome (PMOS): A Systematic Review and Meta-Analysis of Randomized Controlled Trials. 
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-04
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Banerjee I, Krissheeven M, Pandey N, Banerjee S, Robinson J, Banerjee I.
+**PMID:** 42830876  **DOI:** 10.7759/cureus.115758
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42830876/
+
+### 7. Contemporary Landscape of Active Clinical Trials in Pancreatic Ductal Adenocarcinoma: A ClinicalTrials.gov-Based Narrative Review with a Scoping Approach.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-08-30
+**Revista:** Pharmaceuticals (Basel)
+**Tipo:** No especificado
+**Autores:** Radoš L, Matulić Čubranić S, Golčić M, Skočilić I, Mikolašević I, Belančić A.
+**PMID:** 42797417  **DOI:** 10.3390/ph19091371
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42797417/
+
+### 8. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2026-09-01
 **Revista:** J Clin Apher
 **Tipo:** No especificado
@@ -45,118 +85,108 @@
 **Fuente:** Europe PMC
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
 
-### 5. Gut microbiota: a novel key player in urinary stone formation - from oxalate metabolism to systemic regulation.
-**Área:** Nefrología y urología
-**Fecha:** 2026
-**Revista:** Gut microbes
-**Tipo:** Journal Article, Review
-**Autores:** Wang K, Fan W, Tang Q, Su Q
-**PMID:** 42758101  **DOI:** 10.1080/19490976.2026.2734634
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42758101/
-
-### 6. Oxidative lipoprotein remodelling in atherogenesis: Mechanistic insights and therapeutic potential.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2027
-**Revista:** Biochimica et biophysica acta. Molecular basis of disease
-**Tipo:** Journal Article, Review
-**Autores:** Mthembu SXH, Dludla PV
-**PMID:** 42759776  **DOI:** 10.1016/j.bbadis.2026.168470
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759776/
-
-### 7. Oxygen, carbon dioxide, and nitric oxide: role in the pathophysiology of obstructive sleep apnea.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2027
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Review
-**Autores:** Fabozzi A, Tondo P, Antonaglia C, Steffanina A, Lacedonia D, Confalonieri M, Bonini M, Palange P
-**PMID:** 42734464  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00224
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734464/
-
-### 8. Hydrogen sulfide-releasing hydrogels: a new perspective on clinical translation.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2027
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Review
-**Autores:** Xu Y, Liu Z, Xu Z, Zhu Y
-**PMID:** 42734456  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00245
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734456/
-
-### 9. Molecular crosstalk between gas transmitters and catecholamine biosynthesis pathways: a narrative review.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2027
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Review
-**Autores:** Dingley R, Tharmalingam S, Tai TC
-**PMID:** 42734455  **DOI:** 10.4103/mgr.MEDGASRES-D-26-00004
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734455/
-
-### 10. Breathing in harm: current insights into the effects of air pollution on cardiorespiratory health.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Review
-**Autores:** Michou V, Tsamos D, Itziou A, Tsanaktsidis C
-**PMID:** 42714194  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00201
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42714194/
-
-### 11. Prehospital PEEP for Acute Respiratory Distress: Protocol for a Scoping Review.
-**Área:** Neumología y medicina respiratoria
+### 9. Pre-Pregnancy and Early-Pregnancy Risk Factors for Placental Abruption: A Nationwide Retrospective Cohort Study in Japan.
+**Área:** Ginecología y obstetricia
 **Fecha:** 2026-09-01
-**Revista:** Acta Anaesthesiol Scand
+**Revista:** J Obstet Gynaecol Res
 **Tipo:** No especificado
-**Autores:** Wittrock D, Bauer JM, Hägi-Pedersen D, Christensen HC, Mikkelsen S, Brøchner AC.
-**PMID:** 42528123  **DOI:** 10.1111/aas.70314
+**Autores:** Takehara K, Takeuchi M, Yamamoto S, Owaki K, Masui Y, Kamo A, Kawamura T, Sato Y.
+**PMID:** 42702728  **DOI:** 10.1111/jog.70486
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42528123/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42702728/
 
-### 12. Efficacy and mechanistic insights of dapagliflozin in hypertension management.
-**Área:** Nefrología y urología
-**Fecha:** 2026
-**Revista:** Clinical and experimental hypertension (New York, N.Y. : 1993)
+### 10. Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Talanta
 **Tipo:** Journal Article, Review
-**Autores:** Chen Z, Chunbin W, Zhang H, Luo T, Yan J
-**PMID:** 42826222  **DOI:** 10.1080/10641963.2026.2731624
+**Autores:** Usmani MW, Rahim A, Farid F, Mahmoud ERI, Hayat A, Wang J
+**PMID:** 42772054  **DOI:** 10.1016/j.talanta.2026.130609
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42826222/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42772054/
 
-### 13. Educational support programs for individuals with end-stage renal disease on hemodialysis: a scoping review.
-**Área:** Nefrología y urología
-**Fecha:** 2026-07-04
-**Revista:** BMC Nephrol
+### 11. Advances and perspectives in genetically encoded biosensors for biomarker detection and theranostic circuits.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** Synthetic and systems biotechnology
+**Tipo:** Journal Article, Review
+**Autores:** Xu J, Qi Q, Wang Q
+**PMID:** 42831006  **DOI:** 10.1016/j.synbio.2026.09.006
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831006/
+
+### 12. Experimental evidence for the beneficial effects of low-concentration ozone.
+**Área:** Inmunología y reumatología
+**Fecha:** 2027
+**Revista:** Medical gas research
+**Tipo:** Journal Article, Review
+**Autores:** Carton F, Pellicciari C, Tabaracci G, Malatesta M
+**PMID:** 42734457  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00198
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734457/
+
+### 13. Cinepathy: A translational framework bridging neurocinematics and clinical therapy.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article, Review
+**Autores:** Das S, Deogaonkar M
+**PMID:** 42744138  **DOI:** 10.1016/j.bbr.2026.116468
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42744138/
+
+### 14. Acupuncture treatment for Sjögren's syndrome: a narrative review on mechanism of treatment and clinical application.
+**Área:** Inmunología y reumatología
+**Fecha:** 2026-08-14
+**Revista:** Front Immunol
 **Tipo:** No especificado
-**Autores:** Musabirema P, Maree JE, Tshabalala AM, Kelly MS.
-**PMID:** 42399844  **DOI:** 10.1186/s12882-026-05173-9
+**Autores:** Pu X, Fan Y, Yang Y, Guo Z, Fan B, Zhang D.
+**PMID:** 42666530  **DOI:** 10.3389/fimmu.2026.1831496
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42399844/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42666530/
 
-### 14. Teclistamab-associated adverse events: a disproportionality analysis of the FDA adverse event reporting system.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026
-**Revista:** Hematology (Amsterdam, Netherlands)
+### 15. Aromatase inhibitors as endocrine modulators: From breast cancer therapy to male off-label use and doping practice.
+**Área:** Pediatría y neonatología
+**Fecha:** 2027
+**Revista:** The Journal of steroid biochemistry and molecular biology
+**Tipo:** Journal Article, Review
+**Autores:** Bandura A, Ďurina P, Čambál E, Kečkéš Š
+**PMID:** 42735742  **DOI:** 10.1016/j.jsbmb.2026.107121
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42735742/
+
+### 16. Medical gases and hypertensive disorders of pregnancy: therapeutic mechanisms and research advances.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2027
+**Revista:** Medical gas research
+**Tipo:** Journal Article, Review
+**Autores:** Xu Z, Tian G, Zhou D, Wu F
+**PMID:** 42734462  **DOI:** 10.4103/mgr.MEDGASRES-D-26-00014
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734462/
+
+### 17. Ultrasound-responsive nanotherapy promotes axonal regeneration after SCI via reactivating CREB/miR-129-5p signaling.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** He X, Chen G, Zhan Z, Li Z
-**PMID:** 42742109  **DOI:** 10.1080/16078454.2026.2730041
+**Autores:** Gu G, Zhu H, Li S, Zhang Z, Kao Y, Zhang R, Fu R, Han X
+**PMID:** 42828130  **DOI:** 10.1016/j.bioactmat.2026.09.024
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42742109/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828130/
 
-### 15. 5C psychological antecedents of vaccine hesitancy toward maternal RSV vaccines and infant monoclonal antibodies among pregnant and postpartum women and their partners in China: A multicenter, dyadic survey design, cross-sectional study.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026
-**Revista:** Human vaccines & immunotherapeutics
-**Tipo:** Journal Article, Multicenter Study
-**Autores:** Zhu Y, Wu J, Hou L, Liu X, Zhu X, Xia W, Wang N, Zhao Y
-**PMID:** 42714313  **DOI:** 10.1080/21645515.2026.2716519
+### 18. Long-term monitoring reveals immobility-defined sleep fragmentation and behavioural alterations in collagen-induced arthritis mouse model of both sexes.
+**Área:** Inmunología y reumatología
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article
+**Autores:** Macáková K, Szabó J, Skybová E, Vlková B, Borbélyová V, Celec P
+**PMID:** 42767510  **DOI:** 10.1016/j.bbr.2026.116495
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42714313/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42767510/
 
-### 16. Oral delivery of recombinant Lactococcus lactis expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.
-**Área:** Gastroenterología, hepatología y nutrición
+### 19. Oral delivery of recombinant Lactococcus lactis expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.
+**Área:** Inmunología y reumatología
 **Fecha:** 2026
 **Revista:** Drug delivery
 **Tipo:** Journal Article
@@ -165,143 +195,113 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828737/
 
-### 17. YBX3 promotes ischemia-reperfusion injury by enhancing microglial glycolysis via PKM2 stabilization and mTOR-HIF-1α pathway activation.
-**Área:** Cardiología y medicina vascular
+### 20. Coupled NIR-II fluorescence and mass spectrometry imaging of H2S-associated redox dysregulation in Parkinsonian models.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+**Tipo:** Journal Article
+**Autores:** Huang F, Jiao X, Zhang Y, Jing Q, Liu J, Zhang Z, Pei D, Liu C
+**PMID:** 42735531  **DOI:** 10.1016/j.saa.2026.128760
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42735531/
+
+### 21. Temporal profiles of apoptosis-related markers and locomotor recovery during repetitive transcranial magnetic stimulation after spinal cord injury in female rats.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
 **Fecha:** 2027
 **Revista:** Behavioural brain research
 **Tipo:** Journal Article
-**Autores:** Feng Z, Qin P, Ni H, Cao X, Xu J, Yuan Y
-**PMID:** 42785477  **DOI:** 10.1016/j.bbr.2026.116494
+**Autores:** Xu Q, Zhang Z, Lei Q, Yang M, Hu D, Liu J, Li J, Chen H
+**PMID:** 42764075  **DOI:** 10.1016/j.bbr.2026.116477
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42785477/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42764075/
 
-### 18. Very early treadmill exercise facilitates neuroprotection and functional recovery following cerebral ischemia in rats.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2027
-**Revista:** Behavioural brain research
-**Tipo:** Journal Article
-**Autores:** Yazdanian M, Seydyousefi M, Moghanlou AE, Demirli A, Sadir Y, Nazari M, Metz GAS, Faghfoori Z
-**PMID:** 42727861  **DOI:** 10.1016/j.bbr.2026.116469
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42727861/
-
-### 19. SCTS Annual Meeting 2025: Abstracts.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-09-25
-**Revista:** J Cardiothorac Surg
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** 42791526  **DOI:** 10.1186/s13019-026-03838-y
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42791526/
-
-### 20. Proceedings of the 33rd European Paediatric Rheumatology Congress.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-09-16
-**Revista:** Pediatr Rheumatol Online J
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** 42750029  **DOI:** 10.1186/s12969-026-01260-1
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42750029/
-
-### 21. Chimeric antigen receptor T-cell therapy and cardiovascular outcomes in US Medicare beneficiaries.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-09-01
-**Revista:** Eur Heart J
-**Tipo:** No especificado
-**Autores:** Zaghlol R, Deych E, Ladin DA, Russler-Germain DA, Schiffer W, Baral N, Waken RJ, Ky B, Joynt Maddox KE, Mitchell JD.
-**PMID:** 42199067  **DOI:** 10.1093/eurheartj/ehag394
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42199067/
-
-### 22. Clonal Hematopoiesis of Indeterminate Potential in Cardiovascular Disease: Gene-Specific Mechanisms and Therapeutic Implications.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-07-30
-**Revista:** Int J Gen Med
-**Tipo:** No especificado
-**Autores:** Zhang X, Zhang H, Fu J, Feng S, Wang Y.
-**PMID:** 42549421  **DOI:** 10.2147/ijgm.s626604
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42549421/
-
-### 23. Association between climatic variables and cardiovascular hospitalizations in Brazil: An ecological study.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-07-29
-**Revista:** PLOS Glob Public Health
-**Tipo:** No especificado
-**Autores:** Dóris B, Savogin Andraus G, da Silva Seunaraine R, Nabor de Cássia Silva D, da Silva Teixeira N, Siegel Guerra B, Proença de Moraes T, Lenci Marques G.
-**PMID:** 42525642  **DOI:** 10.1371/journal.pgph.0005294
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42525642/
-
-### 24. A 6His-2Flag dual-tag strategy enables high-yield production of antimicrobial peptide N6 in Pichia pastoris to combat multidrug-resistant Klebsiella pneumonia.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** Synthetic and systems biotechnology
-**Tipo:** Journal Article
-**Autores:** Wang Y, Cao M, Deng M, Yang N, Teng D, Hao Y, Xu K, Wang J
-**PMID:** 42787492  **DOI:** 10.1016/j.synbio.2026.08.012
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42787492/
-
-### 25. Correction to "Respiratory Support with Nasal High Flow Reduces Opioid Requirements During Endoscopic Retrograde Cholangiopancreatography".
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Published Erratum
-**Autores:** No disponible
-**PMID:** 42780775  **DOI:** 10.1002/deo2.70442
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780775/
-
-### 26. Imeglimin provides dual hepatic and skeletal muscle protection in experimental MASH-associated sarcopenia.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** Biochimica et biophysica acta. Molecular basis of disease
-**Tipo:** Journal Article
-**Autores:** Osaki Y, Kaji K, Nishimura N, Iwata T, Kachi H, Motokawa Y, Mori H, Shibamoto A
-**PMID:** 42759777  **DOI:** 10.1016/j.bbadis.2026.168468
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759777/
-
-### 27. 45th International Symposium on Intensive Care & Emergency Medicine.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-07-02
-**Revista:** Crit Care
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** 42393775  **DOI:** 10.1186/s13054-026-05916-y
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42393775/
-
-### 28. Publication Only
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-06-01
-**Revista:** Hemasphere
+### 22. Special Collection: Abstracts from IUNS-ICN Paris 2025
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2026-09-04
+**Revista:** J Nutr Sci
 **Tipo:** No especificado
 **Autores:** No disponible
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 29. Chronic phase ventilation strategy in established severe bronchopulmonary dysplasia: A critical evaluation of the evidence.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-03-28
-**Revista:** SAGE Open Med
+### 23. AAV Vector-Mediated Modulation of Signaling Pathways in Neurological Disorders: Insights From Cellular, Animal, and Human Studies.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2026-07-01
+**Revista:** Cell Biochem Funct
 **Tipo:** No especificado
-**Autores:** Joffe AR, Lemke RP.
-**PMID:** 41948201  **DOI:** 10.1177/20503121261431454
+**Autores:** Farrokhi MR, Hosseini K.
+**PMID:** 42473687  **DOI:** 10.1002/cbf.70270
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/41948201/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42473687/
 
-### 30. Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).
-**Área:** Gastroenterología, hepatología y nutrición
+### 24. ePoster.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2026-06-01
+**Revista:** Eur J Neurol
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** 42366021  **DOI:** 10.1111/ene.70629
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42366021/
+
+### 25. Synchronous and Metachronous Multiple Gastric Epithelial Neoplasms Detected During Index Evaluation and Post-Endoscopic Submucosal Dissection Surveillance: A Descriptive Comparison.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2027
-**Revista:** Virulence
+**Revista:** DEN open
 **Tipo:** Journal Article
-**Autores:** Liu H, Xu T, Guo Y, Zhou X, Yan C, Zhu B, Xie Y
-**PMID:** 42834659  **DOI:** 10.1080/21505594.2026.2739091
+**Autores:** Yoshio T, Fukunaga S, Nakane T, Minami S, Cho T, Tsuruta K, Tanaka H, Gotou R
+**PMID:** 42781370  **DOI:** 10.1002/deo2.70437
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42834659/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781370/
+
+### 26. Clinical Outcomes of Rubber-clip-assisted Versus Conventional Colorectal Endoscopic Submucosal Dissection: A Retrospective Study.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Uyama K, Iwagami H, Akamatsu T, Sakano R, Kitada T, Shimoyama M, Terashita T, Nakatani Y
+**PMID:** 42781356  **DOI:** 10.1002/deo2.70415
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781356/
+
+### 27. Submucosal Invasion and Ulceration in Early Gastric Cancer Affect Mucosal Impedance.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Miyashiro K, Sawada Y, Kikuchi H, Goto S, Yoshizawa T, Nakano S, Asari T, Tetsuya T
+**PMID:** 42781318  **DOI:** 10.1002/deo2.70434
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781318/
+
+### 28. Metabolic Improvement and Weight Reduction After Large Endoscopic Submucosal Dissection Including the Papilla for Duodenal Adenoma: A Case Report.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Lo CC, Chung CS, Lee WW, Tsai CC, Miyazaki K, Kato M
+**PMID:** 42756938  **DOI:** 10.1002/deo2.70433
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756938/
+
+### 29. Intensive Endoscopic Resection for Downstaging of Superficial Non-ampullary Duodenal Epithelial Tumor Burden in Familial Adenomatous Polyposis: A Single-center Retrospective Study on Long-term Clinical Outcome.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Kawamura R, Yamada M, Takamaru H, Nakajima T, Abe S, Nonaka S, Oda I, Tanabe N
+**PMID:** 42732135  **DOI:** 10.1002/deo2.70419
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42732135/
+
+### 30. Superantigens in Cancer Immunotherapy: Mechanisms, Engineering Strategies, and Therapeutic Potential.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-09-01
+**Revista:** FASEB J
+**Tipo:** No especificado
+**Autores:** Virk UY, Malik HA, Anwer M, Wilson J, Rahi MS, Wei MQ.
+**PMID:** 42670587  **DOI:** 10.1096/fj.202602532r
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42670587/
 
