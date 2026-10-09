@@ -1,12 +1,130 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-10-08T19:19+00:00**
+> Actualizado: **2026-10-09T18:43+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
+
+# MEDICUS PRIME — ACTUALIZACIÓN CIENTÍFICA
+
+---
+
+## TOP 5
+
+### 1. Farmacovigilancia de Teclistamab: Señales de Toxicidad e Infección Letal en Vida Real
+* **Título:** Teclistamab-associated adverse events: a disproportionality analysis of the FDA adverse event reporting system.
+* **Fecha:** 2026
+* **Revista:** *Hematology (Amsterdam, Netherlands)*
+* **Tipo de estudio:** Estudio observacional farmacovigilancia / Análisis de desproporcionalidad (FAERS). **[Evidencia Prometedora / Señal de Alerta en Vida Real]**
+* **Hallazgo:** Análisis de 2.631 notificaciones asociadas al anticuerpo biespecífico teclistamab (BCMA × CD3). El 85,2% de los reportes correspondieron a desenlaces graves y el 21,7% a eventos mortales. La sepsis emergió como la única señal catalogada de alta prioridad, presentando una letalidad del 58,57% en los reportes correspondientes. Las complicaciones inmunes y neurológicas (CRS, ICANS) mostraron aparición temprana, mientras que las infecciones graves tendieron a presentarse tardíamente.
+* **Importancia clínica:** Subraya la necesidad crítica de profilaxis antimicrobiana rigurosa, monitorización diferida de neutropenia/infección y detección temprana de sepsis en pacientes hematológicos bajo terapia biespecífica.
+* **Limitación:** El análisis de bases de datos de notificación espontánea (FAERS) no permite inferir causalidad directa debido a subnotificación, sesgos de reporte y falta de denominadores poblacionales exactos.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42742109/
+
+---
+
+### 2. Sincronización del Bloqueo Inmune Neoadyuvante en Cáncer Esofágico: El Rol Confusor de la Terapia Base
+* **Título:** Concurrent versus sequential immune checkpoint inhibition in the neoadjuvant treatment of resectable esophageal squamous cell carcinoma: a systematic review and meta-analysis.
+* **Fecha:** 2027
+* **Revista:** *Clinical and translational radiation oncology*
+* **Tipo de estudio:** Revisión sistemática y metaanálisis (53 estudios prospectivos, n = 2.937). **[Evidencia Consolidada / Nivel Secundario]**
+* **Hallazgo:** En el análisis primario, la administración secuencial/de consolidación de inhibidores de punto de control inmunitario (ICI) mostró una tasa de respuesta patológica completa (pCR) aparentemente superior frente al régimen concurrente (48% vs. 31%; p = 0,0005). No obstante, al estratificar únicamente los brazos que emplearon quimiorradioterapia, la significación estadística desapareció (48% vs. 41%; p = 0,18).
+* **Importancia clínica:** Esclarece un sesgo terapéutico fundamental: la supuesta ventaja del régimen secuencial dependía de la adición de radioterapia concurrente y no de la sincronización intrínseca del inmunofármaco. Permite entender que ambas estrategias alcanzan eficacias patológicas equivalentes si el esquema de base está balanceado.
+* **Limitación:** Gran parte de la evidencia proviene de brazos únicos o ensayos heterogéneos; faltan ensayos clínicos aleatorizados controlados diseñados específicamente para comparar la temporalidad frente a frente (*head-to-head*).
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42787301/
+
+---
+
+### 3. Entrenamiento de Fuerza frente a Neuromodulación en el Control Postural: Un Ensayo Negativo pero Esclarecedor
+* **Título:** The effect of six weeks of squat training on static and dynamic postural control: a randomized controlled trial of adjunctive tDCS.
+* **Fecha:** 2027
+* **Revista:** *Gait & posture*
+* **Tipo de estudio:** Ensayo clínico aleatorizado (ECA, n = 48). **[Evidencia Consolidada en Control Postural / Negativa para Adyuvancia]**
+* **Hallazgo:** Seis semanas de entrenamiento con sentadillas (85% de 1RM) mejoraron significativamente el control postural estático y dinámico (medido por Sensory Organization Test [SOT] y apoyo unilateral con ojos cerrados). La adición de estimulación transcraneal por corriente continua anódica (a-tDCS) sobre el córtex motor primario (M1) no aportó ningún beneficio adicional clínicamente medible respecto al grupo de entrenamiento simulado (sham).
+* **Importancia clínica:** Previene la sobreestimación de técnicas de neuromodulación no invasiva cuando se aplican de manera genérica y revalida la prescripción de ejercicio de fuerza resistida como eje central de la estabilidad propioceptiva y postural.
+* **Limitación:** Muestra modesta (n = 48) limitada a adultos jóvenes sanos, lo cual restringe la extrapolación directa a pacientes ancianos o con afecciones vestibulares/neurológicas.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753671/
+
+---
+
+### 4. Neurocognición y Estrés en la Educación Médica y Superior: Dinámica de Dosis-Respuesta y Mediación Afectiva
+* **Título:** Neurocognitive effects of stress in higher education: Mechanisms, challenges, and opportunities.
+* **Fecha:** 2027
+* **Revista:** *Behavioural brain research*
+* **Tipo de estudio:** Revisión sistemática alineada con PRISMA (periodo 2000-2025). **[Evidencia Prometedora / Síntesis Mecanicista]**
+* **Hallazgo:** El estrés ejerce un efecto bifásico dependiente de la intensidad y cronicidad: niveles moderados agudos facilitan la consolidación mnemónica, mientras que el estrés intenso o prolongado genera disfunción consistente de la memoria explícita, la atención sostenida y las funciones ejecutivas prefrontales. Mecanísticamente, la hiperactivación del eje hipotálamo-hipófiso-adrenal y la liberación sostenida de catecolaminas alteran la plasticidad sináptica en el hipocampo, amígdala y córtex prefrontal.
+* **Importancia clínica:** Ofrece base neurobiológica para el diseño de estrategias curriculares, evaluativas y de regulación emocional en el estudiantado de ciencias de la salud, optimizando la retención cognitiva y previniendo el deterioro ejecutivo.
+* **Limitación:** La variabilidad en las herramientas psicométricas y biomarcadores de estrés (cortisol, reactividad autonómica) entre los estudios originales dificulta una cuantificación estandarizada del efecto neurocognitivo neto.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42716131/
+
+---
+
+### 5. Nanocelularidad Preclínica en Autismo: Efecto Antiinflamatorio de Vesículas Extracelulares de MSC
+* **Título:** Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.
+* **Fecha:** 2027
+* **Revista:** *Behavioural brain research*
+* **Tipo de estudio:** Revisión sistemática y metaanálisis de estudios preclínicos (5 estudios murinos, herramienta SYRCLE). **[Evidencia Preclínica]**
+* **Hallazgo:** El tratamiento con vesículas extracelulares derivadas de células madre mesenquimales (MSC-EVs) en modelos de ratón con trastorno del espectro autista (TEA) produjo mejoras en sociabilidad (Diferencia de Medias Estandarizada [SMD] = 1,34, IC 95%: 0,68 a 2,76) y reducción de conductas repetitivas (SMD = -1,12, IC 95%: -0,65 a -1,59). Se documentó una atenuación de citoquinas proinflamatorias (IL-1, TNF-α, IL-6) e incremento de IL-10. Las vesículas de cordón umbilical y tejido adiposo mostraron mayor eficacia.
+* **Importancia clínica:** Plantea una diana biológica libre de células contra la neuroinflamación en trastornos del neurodesarrollo, abriendo pautas mecanicistas teóricas.
+* **Limitación:** **Exclusivamente preclínico (murino).** Tamaño muestral reducido (5 estudios) con marcada heterogeneidad metodológica. Es inviable transferir dosis o respuesta conductual al humano sin ensayos clínicos de fases I/II.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759891/
+
+---
+
+## OTROS HALLAZGOS RELEVANTES
+
+* **Biomecánica Ocular en el Envejecimiento (Gait Posture 2027; PMID: 42753670):** Revisión sistemática (53 estudios) que documenta alteraciones en patrones de fijación visual durante la marcha en adultos mayores, caracterizados por fijaciones más prolongadas en puntos inmediatos a expensas de la exploración periférica; patrón intensificado en personas con alto riesgo de caídas. *[Evidencia Prometedora]*
+* **Nanomedicina y Microambiente Óseo (Bioact Mater 2027; PMID: 42831169):** Estudio experimental preclínico revela que el estrés crónico expande neutrófilos patogénicos TGFβ1+CCR5+ que frenan la osteogénesis; un nanotransportador de EGCG cargado con ácido acetil-11-ceto-β-boswélico (AKBA@E-N) dirigido a neutrófilos restableció la consolidación de fracturas femorales en ratones. *[Evidencia Preclínica]*
+* **Química de Clic en Cardiomiopatía Isquémica (Bioact Mater 2027; PMID: 42780908):** Cardiomiocitos derivados de células pluripotenciales humanas funcionalizados con péptidos híbridos de colágeno mediante química de clic mostraron mayor retención y atenuación del remodelado ventricular en un modelo murino de isquemia-reperfusión. *[Evidencia Preclínica / Experimental]*
+* **Bioingeniería Antiadherente Tendinosa (Bioact Mater 2027; PMID: 42774832):** Desarrollo de un hidrogel inyectable cargado con clorhidrato de tioridazina que reprograma la mecanotransducción de Piezo1/YAP, inhibiendo la adhesión peritendinosa sin comprometer la resistencia biomecánica en modelos de reparación del tendón de Aquiles en ratas. *[Evidencia Preclínica]*
+* **Polvos Autogelificantes en Hemostasia de Urgencia (Biomater Adv 2027; PMID: 42784980):** Revisión traslacional sobre matrices en polvo con transición sol-gel *in situ* diseñadas para el sellado tisular y control de hemorragias no compresibles complejas en entornos de trauma. *[Evidencia Experimental / Síntesis Mecanicista]*
+* **Biosensores Ópticos en Neurodegeneración (Talanta 2027; PMID: 42772054):** Avances en plataformas nanofotónicas (SERS, microcavidades WGM) con sensibilidad femtomolar a atomolar para detección de marcadores como amiloide-β, tau y neurofilamentos ligeros (NfL) en biofluidos. *[Evidencia Experimental]*
+* **Trayectorias de Rendimiento y Apoyo Docente (J Exp Child Psychol 2027; PMID: 42721890):** Estudio longitudinal (n = 1.231 escolares) que correlaciona de forma inversa la ansiedad matemática temprana con trayectorias de alto rendimiento sostenido, mediada favorablemente por el apoyo docente percibido. *[Evidencia Prometedora / Observacional Longitudinal]*
+* **Sueño y Artritis Reumatoide Preclínica (Behav Brain Res 2027; PMID: 42767510):** Monitorización no invasiva en ratones con artritis inducida por colágeno documenta una reducción del 50% en el reposo continuo y una correlación entre fragmentación del descanso y severidad inflamatoria articular. *[Evidencia Preclínica]*
+* **Monóxido de Nitrógeno en Isquemia Cerebrovascular (Med Gas Res 2027; PMID: 42734452):** Revisión de la literatura que expone la dualidad de óxido nítrico frente al daño hipóxico neuronal, concluyendo la persistencia de discrepancias no resueltas sobre su efecto neto citoprotector versus citotóxico. *[Evidencia Experimental / Controversia Fisiopatológica]*
+
+*(Nota: Títulos adicionales de la literatura recibida sin datos de resumen estructurado o resultados disponibles en el corpus de origen han sido omitidos para salvaguardar la exactitud técnica de este informe).*
+
+---
+
+## QUÉ DEBERÍA ESTUDIAR
+
+1. **Inmunoterapia y Complicaciones Infecciosas Tardías:** Estudiar la fisiopatología de los anticuerpos biespecíficos redireccionadores de linfocitos T (anti-BCMA × anti-CD3). Comprender por qué la depleción sostenida del compartimento de células plasmáticas normales y linfocitos B conduce a hipogammaglobulinemia severa y riesgo tardío de bacteriemia y choque séptico fulminante.
+2. **Sesgos de Confusión en Revisiones Sistemáticas de Oncología:** Analizar el concepto metodológico de "confusión por indicación" e interacción de tratamientos concomitantes; ilustrado en cómo la quimiorradioterapia alteró las conclusiones entre la administración concomitante versus secuencial de inhibidores de punto de control en cáncer de esófago.
+3. **Neurobiología del Estrés y Plasticidad Prefrontal:** Profundizar en los mecanismos de acción de los glucocorticoides y catecolaminas sobre la potenciación a largo plazo (LTP) en hipocampo frente al córtex prefrontal, reconociendo el patrón de campana invertida en rendimiento cognitivo y consolidación de memoria.
+4. **Fisiología de la Propiocepción y Control Postural:** Repasar las vías aferentes vestibulares, visuales y somatosensoriales integradas a nivel central, reconociendo el estímulo mecánico de fuerza de alta intensidad como el inductor primario de adaptaciones neuromusculares funcionales.
+
+---
+
+## ALERTAS DE EVIDENCIA
+
+* **Alerta de Nivel de Evidencia — Terapia Celular/Vesicular en TEA:** Las vesículas extracelulares (MSC-EVs) cuentan **únicamente con soporte en modelos murinos**. No se debe sugerir ni interpretar que estos datos justifican intervenciones biológicas en humanos con TEA fuera de ensayos clínicos protocolizados.
+* **Alerta Metodológica — Farmacovigilancia y Causalidad:** El análisis de FAERS en teclistamab no demuestra por sí solo que el fármaco cause sepsis de forma directa con un 58% de letalidad en toda la población tratada, sino que refleja la gravedad de las notificaciones acumuladas en individuos habitualmente politratados y con inmunosupresión previa. Correlación de reporte no es tasa de incidencia.
+* **Alerta de Sesgo de Confusión — Ensayos Neoadyuvantes en Cáncer Esofágico:** Advertencia contra la adopción preferente de regímenes de inmunoterapia secuenciales basada en tasas globales de pCR brutas; la ventaja aparente desaparece cuando se controla la variable radioterápica.
+* **Alerta de Eficacia Clínica — Dispositivos de tDCS:** La neuromodulación transcraneal adyuvante para potenciación de habilidades motoras posturales no demostró superioridad frente a la terapia simulada en sujetos sanos; es imperativo no asumir eficacia terapéutica basada en hipótesis neuroeléctricas abstractas sin evidencia funcional contrastada.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Neurocognitive effects of stress in higher education: Mechanisms, challenges, and opportunities.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
+### 1. Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article, Meta-Analysis, Systematic Review
+**Autores:** Mohtashami T, Aghayan AH, Masoudi A, Atashi A, Garmabi B, Jamalpoor Z, Khaksari M
+**PMID:** 42759891  **DOI:** 10.1016/j.bbr.2026.116478
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759891/
+
+### 2. Prediction models for sepsis-associated acute kidney injury: a systematic review and meta-analysis.
+**Área:** Urgencias, cuidados críticos y sepsis
+**Fecha:** 2026-09-14
+**Revista:** Front Endocrinol (Lausanne)
+**Tipo:** No especificado
+**Autores:** Huang M, Wu S, Shen ZH, Zhang SJ, Fu YS, Wu J.
+**PMID:** 42807230  **DOI:** 10.3389/fendo.2026.1854549
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42807230/
+
+### 3. Neurocognitive effects of stress in higher education: Mechanisms, challenges, and opportunities.
+**Área:** Medicina basada en evidencia e investigación clínica
 **Fecha:** 2027
 **Revista:** Behavioural brain research
 **Tipo:** Journal Article, Systematic Review
@@ -15,88 +133,118 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42716131/
 
-### 2. Factors Associated with Systemic Lupus Erythematosus-Associated Interstitial Lung Disease and Clinical Outcomes: A Systematic Review and Meta-Analysis.
-**Área:** Inmunología y reumatología
-**Fecha:** 2026-08-31
-**Revista:** Medicina (Kaunas)
-**Tipo:** No especificado
-**Autores:** Radić M, Šimac Prižmić P, Bečić T, Đogaš H, Radić J, Fabijanić D, Gelemanović A, Perković D.
-**PMID:** 42796280  **DOI:** 10.3390/medicina62091673
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42796280/
+### 4. Concurrent versus sequential immune checkpoint inhibition in the neoadjuvant treatment of resectable esophageal squamous cell carcinoma: a systematic review and meta-analysis.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Clinical and translational radiation oncology
+**Tipo:** Journal Article, Review
+**Autores:** Ghalehtaki R, Shariati A, Fanihagh T, Moradi Z, Moradi N
+**PMID:** 42787301  **DOI:** 10.1016/j.ctro.2026.101289
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42787301/
 
-### 3. Psychiatric Symptoms Associated with Corticosteroid Use: A Systematic Review and Meta-analysis.
-**Área:** Pediatría y neonatología
-**Fecha:** 2026-06-28
-**Revista:** CNS Drugs
-**Tipo:** No especificado
-**Autores:** Kusudo K, Mashima Y, Yasuda H, Iyo T, Takeuchi H.
-**PMID:** 42365562  **DOI:** 10.1007/s40263-026-01298-5
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42365562/
+### 5. Gaze behavior during walking in older adults: A systematic review of eye-tracking research.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Gait & posture
+**Tipo:** Journal Article, Systematic Review
+**Autores:** Cotton K, Selioutski L
+**PMID:** 42753670  **DOI:** 10.1016/j.gaitpost.2026.110641
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753670/
 
-### 4. Budesonide and Surfactant Therapy Versus Surfactant Alone on Incidence of Lung Disease in Preterm Infants (BEST Lung): Study Protocol for a Systematic Review and Individual Participant Data Meta-Analysis With Nested Prospective Meta-Analysis.
-**Área:** Pediatría y neonatología
-**Fecha:** 2026-06-14
-**Revista:** Acta Paediatr
+### 6. Efficacy and safety of Compound Danshen Dripping Pills as an adjunct to conventional therapy for stable angina pectoris: an updated systematic review and meta-analysis of randomized controlled trials
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-09
+**Revista:** Front Pharmacol
 **Tipo:** No especificado
-**Autores:** Sotiropoulos JX, Manley BJ, Libesman S, Ambalavanan N, Das A, Mckinlay CJD, Panigrahy N, Cruz M, Nguyen D, Williams J, Davis P, Hunter KE, Seidler AL.
-**PMID:** 42289845  **DOI:** 10.1111/apa.70638
+**Autores:** Zhao X, Liu Y, Yang L, Chen Z, Zhang W, Lu W, Zhao Y, Zhou Z, Yang F, Pang W.
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42289845/
+**Enlace:** —
 
-### 5. Early Initiation of Thyroid Hormone Therapy Versus Watchful Waiting or Delayed Treatment or no Treatment in Subclinical Hypothyroidism: A Systematic Review and Meta-analysis Protocol.
-**Área:** Ginecología y obstetricia
-**Fecha:** 2026-09-29
-**Revista:** F1000Res
+### 7. Enteral nutrition interruption in critically ill patients: a systematic review and meta-analysis of prevalence, causes, and clinical outcomes
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-09
+**Revista:** Front Nutr
 **Tipo:** No especificado
-**Autores:** Gandhi AP, Deshmukh KP, Kaliyappan A, Bang A, Gangane N.
-**PMID:** 42800939  **DOI:** 10.12688/f1000research.179360.3
+**Autores:** Guo X, Jiang L, Jiang S, Huang X, Tang J, Liang X, Feng X, Xu S.
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42800939/
+**Enlace:** —
 
-### 6. Comparative Efficacy and Safety of Liraglutide Versus Metformin in Women With Polyendocrine Metabolic Ovarian Syndrome (PMOS): A Systematic Review and Meta-Analysis of Randomized Controlled Trials. 
-**Área:** Ginecología y obstetricia
-**Fecha:** 2026-09-04
+### 8. Efficacy and safety of intensive vs. standard blood pressure control: a systematic review and meta-analysis
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-08
+**Revista:** Front Cardiovasc Med
+**Tipo:** No especificado
+**Autores:** Yang H, Li Y, Xiang G, Pei S, Wang M, Xu L, Zhu B, Liu Y, Yang X.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 9. Ranolazine in Chronic Stable Angina: A Systematic Review and Meta-Analysis
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-08
 **Revista:** Cureus
 **Tipo:** No especificado
-**Autores:** Banerjee I, Krissheeven M, Pandey N, Banerjee S, Robinson J, Banerjee I.
-**PMID:** 42830876  **DOI:** 10.7759/cureus.115758
+**Autores:** Collins P, Alhabeeb W, Alhaddad I, Kinsara A, Faraidy K, Balghith M, Ragy H, Fehri W, Asfalou I, Ayoubi F, Amer H, Al-Rammahy D, Batah N.
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42830876/
+**Enlace:** —
 
-### 7. Contemporary Landscape of Active Clinical Trials in Pancreatic Ductal Adenocarcinoma: A ClinicalTrials.gov-Based Narrative Review with a Scoping Approach.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-08-30
-**Revista:** Pharmaceuticals (Basel)
+### 10. Efficacy and safety of ropeginterferon in myeloproliferative neoplasms: a systematic review and meta-analysis
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-08
+**Revista:** Front Pharmacol
 **Tipo:** No especificado
-**Autores:** Radoš L, Matulić Čubranić S, Golčić M, Skočilić I, Mikolašević I, Belančić A.
-**PMID:** 42797417  **DOI:** 10.3390/ph19091371
+**Autores:** Manthiri A, Saleh L, Rabadi M, Dalol A, Mesilhy R, Elshaikh U, Al-Mashdali A, Abdulgayoom M, Mohamed S.
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42797417/
+**Enlace:** —
 
-### 8. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
-**Área:** Oncología e inmunoterapia
+### 11. Best-evidence summary of pulmonary rehabilitation strategies for adult patients with cervical spinal cord injury: a systematic review
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-07
+**Revista:** Front Med (Lausanne)
+**Tipo:** No especificado
+**Autores:** Shao T, Lin Q, Chen X, Zhou W, Dai Y.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 12. The effect of six weeks of squat training on static and dynamic postural control: a randomized controlled trial of adjunctive tDCS.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Gait & posture
+**Tipo:** Journal Article, Randomized Controlled Trial
+**Autores:** Zhang X, Nitsche MA, Zuo Z, Ren X, Qi F
+**PMID:** 42753671  **DOI:** 10.1016/j.gaitpost.2026.110632
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753671/
+
+### 13. Chinese expert consensus on the clinical application of stromal vascular fraction combined with bone marrow flushing for osteonecrosis of the femoral head
+**Área:** Cirugía, trauma y ortopedia
 **Fecha:** 2026-09-01
-**Revista:** J Clin Apher
+**Revista:** J Orthop Translat
 **Tipo:** No especificado
-**Autores:** Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.
-**PMID:** 42747330  **DOI:** 10.1002/jca.70141
+**Autores:** Wang X, Zhang J, Cheng L, Peng J.
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
+**Enlace:** —
 
-### 9. Pre-Pregnancy and Early-Pregnancy Risk Factors for Placental Abruption: A Nationwide Retrospective Cohort Study in Japan.
-**Área:** Ginecología y obstetricia
-**Fecha:** 2026-09-01
-**Revista:** J Obstet Gynaecol Res
-**Tipo:** No especificado
-**Autores:** Takehara K, Takeuchi M, Yamamoto S, Owaki K, Masui Y, Kamo A, Kawamura T, Sato Y.
-**PMID:** 42702728  **DOI:** 10.1111/jog.70486
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42702728/
+### 14. The development of children's mathematics achievement in primary school: the early and longitudinal links with perceived teacher support and mathematics anxiety.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2027
+**Revista:** Journal of experimental child psychology
+**Tipo:** Journal Article
+**Autores:** Guo K, Zhuo X, Xu Y, Feng H, Wang Y, Huang B, Si J
+**PMID:** 42721890  **DOI:** 10.1016/j.jecp.2026.106664
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42721890/
 
-### 10. Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
+### 15. Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
+**Área:** Epidemiología, salud pública y prevención
 **Fecha:** 2027
 **Revista:** Talanta
 **Tipo:** Journal Article, Review
@@ -105,78 +253,128 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42772054/
 
-### 11. Advances and perspectives in genetically encoded biosensors for biomarker detection and theranostic circuits.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** Synthetic and systems biotechnology
-**Tipo:** Journal Article, Review
-**Autores:** Xu J, Qi Q, Wang Q
-**PMID:** 42831006  **DOI:** 10.1016/j.synbio.2026.09.006
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831006/
-
-### 12. Experimental evidence for the beneficial effects of low-concentration ozone.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Review
-**Autores:** Carton F, Pellicciari C, Tabaracci G, Malatesta M
-**PMID:** 42734457  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00198
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734457/
-
-### 13. Cinepathy: A translational framework bridging neurocinematics and clinical therapy.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
-**Fecha:** 2027
-**Revista:** Behavioural brain research
-**Tipo:** Journal Article, Review
-**Autores:** Das S, Deogaonkar M
-**PMID:** 42744138  **DOI:** 10.1016/j.bbr.2026.116468
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42744138/
-
-### 14. Acupuncture treatment for Sjögren's syndrome: a narrative review on mechanism of treatment and clinical application.
-**Área:** Inmunología y reumatología
-**Fecha:** 2026-08-14
-**Revista:** Front Immunol
+### 16. Ketogenic therapy as a potential novel treatment approach for PTSD: an integrative review and proposed mechanistic model.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-09-09
+**Revista:** Front Psychiatry
 **Tipo:** No especificado
-**Autores:** Pu X, Fan Y, Yang Y, Guo Z, Fan B, Zhang D.
-**PMID:** 42666530  **DOI:** 10.3389/fimmu.2026.1831496
+**Autores:** Engelhardt R, Ogedengbe JO, Millet MS, Ayad MEG, Schalinski I, Von Oertzen T, Rieckmann A, Effinger D, Hirschberger S, Palmer CM, Ede G, Kraus SW, Trommer D, Schreel L, Tulipan J, Way B, Müller RU, Hull A, Maes J, Potenza MN.
+**PMID:** 42780737  **DOI:** 10.3389/fpsyt.2026.1854499
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42666530/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780737/
 
-### 15. Aromatase inhibitors as endocrine modulators: From breast cancer therapy to male off-label use and doping practice.
-**Área:** Pediatría y neonatología
+### 17. Patient Journey Mapping in Mental Disorders: A Scoping Review.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-10-01
+**Revista:** Int J Ment Health Nurs
+**Tipo:** No especificado
+**Autores:** Wu J, Feng X, Huang F, Zhu K, Ding W, Yuan Q.
+**PMID:** 42742402  **DOI:** 10.1111/inm.70356
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42742402/
+
+### 18. The Parallel Consultation: A Literature Review of Patient Use of Large Language Models and Its Implications for Psychiatric Clinical Decision-Making
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-09-29
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Kahlon A, Wallace L, Walker T, Sivakumar S, Brara B, Bawden D.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 19. Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-09-15
+**Revista:** Front Psychiatry
+**Tipo:** No especificado
+**Autores:** Civardi SC, Besana F, Durbano F, Toscano MOM, Raffone F, Dell'Osso BM, Olivola M.
+**PMID:** 42812990  **DOI:** 10.3389/fpsyt.2026.1858319
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42812990/
+
+### 20. Gelation mechanisms, structure-property relationships, and wound management applications of self-gelling powders.
+**Área:** Urgencias, cuidados críticos y sepsis
 **Fecha:** 2027
-**Revista:** The Journal of steroid biochemistry and molecular biology
+**Revista:** Biomaterials advances
 **Tipo:** Journal Article, Review
-**Autores:** Bandura A, Ďurina P, Čambál E, Kečkéš Š
-**PMID:** 42735742  **DOI:** 10.1016/j.jsbmb.2026.107121
+**Autores:** Zhu W, Yu W, Zhao F, Si G, Lv F
+**PMID:** 42784980  **DOI:** 10.1016/j.bioadv.2026.215194
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42735742/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42784980/
 
-### 16. Medical gases and hypertensive disorders of pregnancy: therapeutic mechanisms and research advances.
-**Área:** Ginecología y obstetricia
+### 21. Sustainability of infectious disease elimination: a scoping review on integrating treatment and surveillance within health systems.
+**Área:** Epidemiología, salud pública y prevención
+**Fecha:** 2026-09-28
+**Revista:** BMJ Open
+**Tipo:** No especificado
+**Autores:** Baker MC, Minahan G, Khayat A, Dorris CS, Benghomari B, Brady M, Yousef D, Diawara A, Jarawan E.
+**PMID:** 42805648  **DOI:** 10.1136/bmjopen-2026-119269
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42805648/
+
+### 22. The health status of incarcerated people in Canada: a narrative review
+**Área:** Epidemiología, salud pública y prevención
+**Fecha:** 2026-09-26
+**Revista:** Front Public Health
+**Tipo:** No especificado
+**Autores:** Slaunwhite A, Hoolsema S, Ogiral A, Roth K, Smith S, Krishnamoorthy A, Mead A, Martin R.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 23. Scoping review of public health emergency management training programmes and curricula in Africa (2000-2025): implications for policy, practice and research.
+**Área:** Epidemiología, salud pública y prevención
+**Fecha:** 2026-09-21
+**Revista:** BMJ Public Health
+**Tipo:** No especificado
+**Autores:** Olu OO, Adewuyi P, Kyobe Bosa H, Monday J, Alpha ST, King RE, Yealue KDM, Tanyanyiwa ET, Akinwande O, Coulibaly SO, Ismail M, Maleghemi S, Petu A, Usman A, Lubajo R.
+**PMID:** 42781536  **DOI:** 10.1136/bmjph-2026-004980
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781536/
+
+### 24. Projecting the future spread of yellow fever vectors and implications for epidemic risk: a scoping review of climate change and human behaviour.
+**Área:** Epidemiología, salud pública y prevención
+**Fecha:** 2026-09-21
+**Revista:** BMJ Open
+**Tipo:** No especificado
+**Autores:** Parreiras-Gonçalves A, Failloux AB, Jelinek T, LaBeaud AD, Langevin E, Ooi EE, Thollot Y, Tomori O, Vasilakis N, Lowe R, Colón-González FJ.
+**PMID:** 42767744  **DOI:** 10.1136/bmjopen-2025-115595
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42767744/
+
+### 25. Nitric oxide in the occurrence and development of ischemic cerebrovascular disease.
+**Área:** Medicina basada en evidencia e investigación clínica
 **Fecha:** 2027
 **Revista:** Medical gas research
 **Tipo:** Journal Article, Review
-**Autores:** Xu Z, Tian G, Zhou D, Wu F
-**PMID:** 42734462  **DOI:** 10.4103/mgr.MEDGASRES-D-26-00014
+**Autores:** Bogodvid TK, Silantyeva DI, Andrianov VV, Gainutdinov KL
+**PMID:** 42734452  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00117
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734462/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734452/
 
-### 17. Ultrasound-responsive nanotherapy promotes axonal regeneration after SCI via reactivating CREB/miR-129-5p signaling.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
+### 26. Aptamer-functionalized EGCG nanocarrier for neutrophil-targeted AKBA delivery promotes anxiety-related fracture healing.
+**Área:** Cirugía, trauma y ortopedia
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Gu G, Zhu H, Li S, Zhang Z, Kao Y, Zhang R, Fu R, Han X
-**PMID:** 42828130  **DOI:** 10.1016/j.bioactmat.2026.09.024
+**Autores:** Ouyang L, Zhang Y, Liao J, Zhang Z, He X, Lin Z, Tao R, Xie X
+**PMID:** 42831169  **DOI:** 10.1016/j.bioactmat.2026.09.028
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828130/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831169/
 
-### 18. Long-term monitoring reveals immobility-defined sleep fragmentation and behavioural alterations in collagen-induced arthritis mouse model of both sexes.
-**Área:** Inmunología y reumatología
+### 27. Click chemistry-modified cardiomyocytes enhance cardiac contractility and prevent remodeling in ischemia-reperfusion injured hearts.
+**Área:** Cirugía, trauma y ortopedia
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Lee D, Sim WS, Park JH, Han DY, Kim SJ, An JR, Seo MS, Kim JJ
+**PMID:** 42780908  **DOI:** 10.1016/j.bioactmat.2026.08.016
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780908/
+
+### 28. Long-term monitoring reveals immobility-defined sleep fragmentation and behavioural alterations in collagen-induced arthritis mouse model of both sexes.
+**Área:** Psiquiatría y salud mental
 **Fecha:** 2027
 **Revista:** Behavioural brain research
 **Tipo:** Journal Article
@@ -185,123 +383,23 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42767510/
 
-### 19. Oral delivery of recombinant Lactococcus lactis expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.
-**Área:** Inmunología y reumatología
+### 29. Teclistamab-associated adverse events: a disproportionality analysis of the FDA adverse event reporting system.
+**Área:** Urgencias, cuidados críticos y sepsis
 **Fecha:** 2026
-**Revista:** Drug delivery
+**Revista:** Hematology (Amsterdam, Netherlands)
 **Tipo:** Journal Article
-**Autores:** Kopecna E, Raskova Kafkova L, Kosztyu P, Sloupenska K, Zachova K, Cutkova A, Skarda J, Vaculova J
-**PMID:** 42828737  **DOI:** 10.1080/10717544.2026.2726654
+**Autores:** He X, Chen G, Zhan Z, Li Z
+**PMID:** 42742109  **DOI:** 10.1080/16078454.2026.2730041
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828737/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42742109/
 
-### 20. Coupled NIR-II fluorescence and mass spectrometry imaging of H2S-associated redox dysregulation in Parkinsonian models.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
+### 30. Fluorinated covalent organic framework hydrogel reprograms Piezo1/YAP mechanotransduction for sustained prevention of peritendinous adhesion.
+**Área:** Epidemiología, salud pública y prevención
 **Fecha:** 2027
-**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+**Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Huang F, Jiao X, Zhang Y, Jing Q, Liu J, Zhang Z, Pei D, Liu C
-**PMID:** 42735531  **DOI:** 10.1016/j.saa.2026.128760
+**Autores:** Xu B, Luo J, Pang S, Tu C, Hu J, Zhao J, Zhang T, Guo P
+**PMID:** 42774832  **DOI:** 10.1016/j.bioactmat.2026.07.039
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42735531/
-
-### 21. Temporal profiles of apoptosis-related markers and locomotor recovery during repetitive transcranial magnetic stimulation after spinal cord injury in female rats.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
-**Fecha:** 2027
-**Revista:** Behavioural brain research
-**Tipo:** Journal Article
-**Autores:** Xu Q, Zhang Z, Lei Q, Yang M, Hu D, Liu J, Li J, Chen H
-**PMID:** 42764075  **DOI:** 10.1016/j.bbr.2026.116477
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42764075/
-
-### 22. Special Collection: Abstracts from IUNS-ICN Paris 2025
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
-**Fecha:** 2026-09-04
-**Revista:** J Nutr Sci
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 23. AAV Vector-Mediated Modulation of Signaling Pathways in Neurological Disorders: Insights From Cellular, Animal, and Human Studies.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
-**Fecha:** 2026-07-01
-**Revista:** Cell Biochem Funct
-**Tipo:** No especificado
-**Autores:** Farrokhi MR, Hosseini K.
-**PMID:** 42473687  **DOI:** 10.1002/cbf.70270
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42473687/
-
-### 24. ePoster.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
-**Fecha:** 2026-06-01
-**Revista:** Eur J Neurol
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** 42366021  **DOI:** 10.1111/ene.70629
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42366021/
-
-### 25. Synchronous and Metachronous Multiple Gastric Epithelial Neoplasms Detected During Index Evaluation and Post-Endoscopic Submucosal Dissection Surveillance: A Descriptive Comparison.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Yoshio T, Fukunaga S, Nakane T, Minami S, Cho T, Tsuruta K, Tanaka H, Gotou R
-**PMID:** 42781370  **DOI:** 10.1002/deo2.70437
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781370/
-
-### 26. Clinical Outcomes of Rubber-clip-assisted Versus Conventional Colorectal Endoscopic Submucosal Dissection: A Retrospective Study.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Uyama K, Iwagami H, Akamatsu T, Sakano R, Kitada T, Shimoyama M, Terashita T, Nakatani Y
-**PMID:** 42781356  **DOI:** 10.1002/deo2.70415
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781356/
-
-### 27. Submucosal Invasion and Ulceration in Early Gastric Cancer Affect Mucosal Impedance.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Miyashiro K, Sawada Y, Kikuchi H, Goto S, Yoshizawa T, Nakano S, Asari T, Tetsuya T
-**PMID:** 42781318  **DOI:** 10.1002/deo2.70434
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781318/
-
-### 28. Metabolic Improvement and Weight Reduction After Large Endoscopic Submucosal Dissection Including the Papilla for Duodenal Adenoma: A Case Report.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Lo CC, Chung CS, Lee WW, Tsai CC, Miyazaki K, Kato M
-**PMID:** 42756938  **DOI:** 10.1002/deo2.70433
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756938/
-
-### 29. Intensive Endoscopic Resection for Downstaging of Superficial Non-ampullary Duodenal Epithelial Tumor Burden in Familial Adenomatous Polyposis: A Single-center Retrospective Study on Long-term Clinical Outcome.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Kawamura R, Yamada M, Takamaru H, Nakajima T, Abe S, Nonaka S, Oda I, Tanabe N
-**PMID:** 42732135  **DOI:** 10.1002/deo2.70419
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42732135/
-
-### 30. Superantigens in Cancer Immunotherapy: Mechanisms, Engineering Strategies, and Therapeutic Potential.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-09-01
-**Revista:** FASEB J
-**Tipo:** No especificado
-**Autores:** Virk UY, Malik HA, Anwer M, Wilson J, Rahi MS, Wei MQ.
-**PMID:** 42670587  **DOI:** 10.1096/fj.202602532r
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42670587/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42774832/
 
