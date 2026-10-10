@@ -1,6 +1,6 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-10-09T18:43+00:00**
+> Actualizado: **2026-10-10T17:43+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 # MEDICUS PRIME — ACTUALIZACIÓN CIENTÍFICA
@@ -9,102 +9,206 @@
 
 ## TOP 5
 
-### 1. Farmacovigilancia de Teclistamab: Señales de Toxicidad e Infección Letal en Vida Real
-* **Título:** Teclistamab-associated adverse events: a disproportionality analysis of the FDA adverse event reporting system.
-* **Fecha:** 2026
-* **Revista:** *Hematology (Amsterdam, Netherlands)*
-* **Tipo de estudio:** Estudio observacional farmacovigilancia / Análisis de desproporcionalidad (FAERS). **[Evidencia Prometedora / Señal de Alerta en Vida Real]**
-* **Hallazgo:** Análisis de 2.631 notificaciones asociadas al anticuerpo biespecífico teclistamab (BCMA × CD3). El 85,2% de los reportes correspondieron a desenlaces graves y el 21,7% a eventos mortales. La sepsis emergió como la única señal catalogada de alta prioridad, presentando una letalidad del 58,57% en los reportes correspondientes. Las complicaciones inmunes y neurológicas (CRS, ICANS) mostraron aparición temprana, mientras que las infecciones graves tendieron a presentarse tardíamente.
-* **Importancia clínica:** Subraya la necesidad crítica de profilaxis antimicrobiana rigurosa, monitorización diferida de neutropenia/infección y detección temprana de sepsis en pacientes hematológicos bajo terapia biespecífica.
-* **Limitación:** El análisis de bases de datos de notificación espontánea (FAERS) no permite inferir causalidad directa debido a subnotificación, sesgos de reporte y falta de denominadores poblacionales exactos.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42742109/
-
----
-
-### 2. Sincronización del Bloqueo Inmune Neoadyuvante en Cáncer Esofágico: El Rol Confusor de la Terapia Base
-* **Título:** Concurrent versus sequential immune checkpoint inhibition in the neoadjuvant treatment of resectable esophageal squamous cell carcinoma: a systematic review and meta-analysis.
-* **Fecha:** 2027
-* **Revista:** *Clinical and translational radiation oncology*
-* **Tipo de estudio:** Revisión sistemática y metaanálisis (53 estudios prospectivos, n = 2.937). **[Evidencia Consolidada / Nivel Secundario]**
-* **Hallazgo:** En el análisis primario, la administración secuencial/de consolidación de inhibidores de punto de control inmunitario (ICI) mostró una tasa de respuesta patológica completa (pCR) aparentemente superior frente al régimen concurrente (48% vs. 31%; p = 0,0005). No obstante, al estratificar únicamente los brazos que emplearon quimiorradioterapia, la significación estadística desapareció (48% vs. 41%; p = 0,18).
-* **Importancia clínica:** Esclarece un sesgo terapéutico fundamental: la supuesta ventaja del régimen secuencial dependía de la adición de radioterapia concurrente y no de la sincronización intrínseca del inmunofármaco. Permite entender que ambas estrategias alcanzan eficacias patológicas equivalentes si el esquema de base está balanceado.
-* **Limitación:** Gran parte de la evidencia proviene de brazos únicos o ensayos heterogéneos; faltan ensayos clínicos aleatorizados controlados diseñados específicamente para comparar la temporalidad frente a frente (*head-to-head*).
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42787301/
-
----
-
-### 3. Entrenamiento de Fuerza frente a Neuromodulación en el Control Postural: Un Ensayo Negativo pero Esclarecedor
-* **Título:** The effect of six weeks of squat training on static and dynamic postural control: a randomized controlled trial of adjunctive tDCS.
-* **Fecha:** 2027
-* **Revista:** *Gait & posture*
-* **Tipo de estudio:** Ensayo clínico aleatorizado (ECA, n = 48). **[Evidencia Consolidada en Control Postural / Negativa para Adyuvancia]**
-* **Hallazgo:** Seis semanas de entrenamiento con sentadillas (85% de 1RM) mejoraron significativamente el control postural estático y dinámico (medido por Sensory Organization Test [SOT] y apoyo unilateral con ojos cerrados). La adición de estimulación transcraneal por corriente continua anódica (a-tDCS) sobre el córtex motor primario (M1) no aportó ningún beneficio adicional clínicamente medible respecto al grupo de entrenamiento simulado (sham).
-* **Importancia clínica:** Previene la sobreestimación de técnicas de neuromodulación no invasiva cuando se aplican de manera genérica y revalida la prescripción de ejercicio de fuerza resistida como eje central de la estabilidad propioceptiva y postural.
-* **Limitación:** Muestra modesta (n = 48) limitada a adultos jóvenes sanos, lo cual restringe la extrapolación directa a pacientes ancianos o con afecciones vestibulares/neurológicas.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753671/
-
----
-
-### 4. Neurocognición y Estrés en la Educación Médica y Superior: Dinámica de Dosis-Respuesta y Mediación Afectiva
-* **Título:** Neurocognitive effects of stress in higher education: Mechanisms, challenges, and opportunities.
-* **Fecha:** 2027
-* **Revista:** *Behavioural brain research*
-* **Tipo de estudio:** Revisión sistemática alineada con PRISMA (periodo 2000-2025). **[Evidencia Prometedora / Síntesis Mecanicista]**
-* **Hallazgo:** El estrés ejerce un efecto bifásico dependiente de la intensidad y cronicidad: niveles moderados agudos facilitan la consolidación mnemónica, mientras que el estrés intenso o prolongado genera disfunción consistente de la memoria explícita, la atención sostenida y las funciones ejecutivas prefrontales. Mecanísticamente, la hiperactivación del eje hipotálamo-hipófiso-adrenal y la liberación sostenida de catecolaminas alteran la plasticidad sináptica en el hipocampo, amígdala y córtex prefrontal.
-* **Importancia clínica:** Ofrece base neurobiológica para el diseño de estrategias curriculares, evaluativas y de regulación emocional en el estudiantado de ciencias de la salud, optimizando la retención cognitiva y previniendo el deterioro ejecutivo.
-* **Limitación:** La variabilidad en las herramientas psicométricas y biomarcadores de estrés (cortisol, reactividad autonómica) entre los estudios originales dificulta una cuantificación estandarizada del efecto neurocognitivo neto.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42716131/
-
----
-
-### 5. Nanocelularidad Preclínica en Autismo: Efecto Antiinflamatorio de Vesículas Extracelulares de MSC
+### 1. Vesículas extracelulares derivadas de células madre mesenquimales en modelos de TEA
 * **Título:** Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.
 * **Fecha:** 2027
 * **Revista:** *Behavioural brain research*
-* **Tipo de estudio:** Revisión sistemática y metaanálisis de estudios preclínicos (5 estudios murinos, herramienta SYRCLE). **[Evidencia Preclínica]**
-* **Hallazgo:** El tratamiento con vesículas extracelulares derivadas de células madre mesenquimales (MSC-EVs) en modelos de ratón con trastorno del espectro autista (TEA) produjo mejoras en sociabilidad (Diferencia de Medias Estandarizada [SMD] = 1,34, IC 95%: 0,68 a 2,76) y reducción de conductas repetitivas (SMD = -1,12, IC 95%: -0,65 a -1,59). Se documentó una atenuación de citoquinas proinflamatorias (IL-1, TNF-α, IL-6) e incremento de IL-10. Las vesículas de cordón umbilical y tejido adiposo mostraron mayor eficacia.
-* **Importancia clínica:** Plantea una diana biológica libre de células contra la neuroinflamación en trastornos del neurodesarrollo, abriendo pautas mecanicistas teóricas.
-* **Limitación:** **Exclusivamente preclínico (murino).** Tamaño muestral reducido (5 estudios) con marcada heterogeneidad metodológica. Es inviable transferir dosis o respuesta conductual al humano sin ensayos clínicos de fases I/II.
+* **Tipo de estudio:** Revisión sistemática y metanálisis de estudios preclínicos (animales).
+* **Nivel de evidencia:** Preclínica.
+* **Hallazgo:** El análisis de 5 estudios en modelos murinos demostró mejoras significativas en sociabilidad (SMD = 1,34; IC 95%: 0,68 a 2,76) y reducción de conductas repetitivas (SMD = -1,12; IC 95%: -0,65 a -1,59). A nivel molecular, modularon la neuroinflamación reduciendo citocinas proinflamatorias (IL-1: SMD = -2,28; TNF-α: SMD = -1,22; IL-6: SMD = -1,03) y elevando la antiinflamatoria IL-10 (SMD = 0,58; IC 95%: 0,03 a 1,13). Las vesículas derivadas de cordón umbilical y tejido adiposo mostraron mayor eficacia relativa.
+* **Importancia médica:** Ofrece una aproximación terapéutica acelular frente a la neuroinflamación en trastornos del neurodesarrollo, reduciendo riesgos inherentes al trasplante celular directo.
+* **Limitación principal:** Evidencia restringida a modelos murinos (solo 5 estudios), con heterogeneidad sustancial y falta de protocolos estandarizados; **no demuestra eficacia ni seguridad en humanos**.
 * **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759891/
+
+---
+
+### 2. Recubrimientos biónicos con degradadores micelares de RANK (LYTAC) para osteointegración osteoporótica
+* **Título:** Micellar LYTAC-engineered bionic coatings abrogate RANK-dependent osteocatabolism and boost fibrillogenesis-mimetic mineral accretion for empowering osteoporotic osseointegration.
+* **Fecha:** 2027
+* **Revista:** *Bioactive materials*
+* **Tipo de estudio:** Estudio experimental bioingenieril *in vitro* e *in vivo*.
+* **Nivel de evidencia:** Preclínica / Experimental.
+* **Hallazgo:** Desarrollo de un recubrimiento de titanio con aptámeros biespecíficos tipo LYTAC conjugados con péptidos similares a colágeno (CLP-Apt). Ante estímulos de pH ácido, el sistema promueve la degradación lisosomal directa de RANK mediante el receptor CI-M6PR en osteoclastos. Esto inhibe la resorción ósea, estimula la diferenciación osteogénica de células madre mesenquimales y la formación de vasos tipo H, facilitando la acreción mineral y la osteointegración en hueso osteoporótico.
+* **Importancia médica:** Supera el fenómeno de pérdida ósea por rebote vinculado al cese de terapias biológicas basadas en neutralización reversible del ligando RANKL, promoviendo estabilidad protésica localizada.
+* **Limitación principal:** Modelo experimental de laboratorio; requiere evaluación de biocompatibilidad a largo plazo, farmacocinética local y ensayos clínicos controlados antes de su aplicación ortopédica humana.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42835104/
+
+---
+
+### 3. Modificación de cardiomiocitos mediante química *click* para reparación tras lesión por isquemia-reperfusión
+* **Título:** Click chemistry-modified cardiomyocytes enhance cardiac contractility and prevent remodeling in ischemia-reperfusion injured hearts.
+* **Fecha:** 2027
+* **Revista:** *Bioactive materials*
+* **Tipo de estudio:** Estudio experimental *in vivo* (modelo en rata).
+* **Nivel de evidencia:** Preclínica.
+* **Hallazgo:** Cardiomiocitos derivados de células madre pluripotentes humanas (hPSC-CMs) funcionalizados en su superficie con péptidos de hibridación de colágeno (CHP) mostraron mayor anclaje y retención en las zonas de colágeno desnaturalizado del miocardio infartado. En ratas con lesión por isquemia-reperfusión, la inyección a los 7 días post-infarto produjo mejoría en la contractilidad cardíaca evaluada por ecocardiografía y mitigó el remodelado ventricular adverso a lo largo de 6 semanas.
+* **Importancia médica:** Aborda directamente la barrera de baja retención celular en terapias regenerativas cardíacas, un factor limitante histórico en la medicina regenerativa cardiovascular.
+* **Limitación principal:** Estudio realizado exclusivamente en roedores; no evalúa arritmogénesis a gran escala ni respuestas inmunitarias en modelos de organismos superiores o ensayos clínicos.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780908/
+
+---
+
+### 4. Conducto bioeléctrico espaciotemporal para regeneración de nervio periférico mediante modulación de ferroptosis
+* **Título:** A programmable spatiotemporal bioelectrical conduit promotes peripheral nerve regeneration by suppressing ferroptosis through modulation of ER-mitochondria coupling in Schwann cells.
+* **Fecha:** 2027
+* **Revista:** *Bioactive materials*
+* **Tipo de estudio:** Estudio experimental mecanístico *in vitro* e *in vivo*.
+* **Nivel de evidencia:** Preclínica / Experimental.
+* **Hallazgo:** Se diseñó un conducto neural bicapa compuesto por un hidrogel piezoeléctrico de GelMA/BaTiO3 sensible a ultrasonidos acoplado a fibras electroconductoras alineadas. La estimulación bioeléctrica suprimió la sobreexpresión de GRP75, desensamblando el complejo IP3R1-GRP75-VDAC1 en la unión retículo endoplásmico-mitocondria, restaurando la fosforilación oxidativa e inhibiendo la ferroptosis en células de Schwann. En modelos animales promovió la regeneración axonal, maduración de mielina y recuperación muscular motora a niveles comparables al injerto autólogo.
+* **Importancia médica:** Esclarece un mecanismo biológico directo (acoplamiento organelar y muerte celular regulada por ferroptosis) susceptible de rescate biofísico en lesiones graves de nervios periféricos.
+* **Limitación principal:** Modelo experimental de prueba de concepto preclínica; la efectividad en defectos de brecha crítica larga en humanos aún no ha sido investigada ni validada.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781229/
+
+---
+
+### 5. Sensores ópticos de última generación para diagnóstico ultratemprano de enfermedades neurodegenerativas
+* **Título:** Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
+* **Fecha:** 2027
+* **Revista:** *Talanta*
+* **Tipo de estudio:** Revisión integrativa de tecnologías diagnósticas.
+* **Nivel de evidencia:** Emergente / Experimental.
+* **Hallazgo:** Plataformas fotónicas avanzadas (SERS nanoestructurado, microcavidades WGM y chips microfluídicos) logran límites de detección femtomolares y attomolares para biomarcadores clave de Alzheimer y Parkinson (Aβ, proteína tau, α-sinucleína, dopamina y cadenas ligeras de neurofilamento [NfL]) en fluidos biológicos mínimamente invasivos, complementadas por análisis asistido por inteligencia artificial.
+* **Importancia médica:** Plantea el potencial de superar la invasividad de la punción lumbar para LCR y el alto costo de la neuroimagen molecular (PET), facilitando la detección en fases preclínicas o prodrómicas.
+* **Limitación principal:** La mayoría de las plataformas continúan en fase de desarrollo analítico y de laboratorio; carecen de validación clínica multicéntrica y estandarización analítica contra los estándares de referencia actuales.
+* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42772054/
 
 ---
 
 ## OTROS HALLAZGOS RELEVANTES
 
-* **Biomecánica Ocular en el Envejecimiento (Gait Posture 2027; PMID: 42753670):** Revisión sistemática (53 estudios) que documenta alteraciones en patrones de fijación visual durante la marcha en adultos mayores, caracterizados por fijaciones más prolongadas en puntos inmediatos a expensas de la exploración periférica; patrón intensificado en personas con alto riesgo de caídas. *[Evidencia Prometedora]*
-* **Nanomedicina y Microambiente Óseo (Bioact Mater 2027; PMID: 42831169):** Estudio experimental preclínico revela que el estrés crónico expande neutrófilos patogénicos TGFβ1+CCR5+ que frenan la osteogénesis; un nanotransportador de EGCG cargado con ácido acetil-11-ceto-β-boswélico (AKBA@E-N) dirigido a neutrófilos restableció la consolidación de fracturas femorales en ratones. *[Evidencia Preclínica]*
-* **Química de Clic en Cardiomiopatía Isquémica (Bioact Mater 2027; PMID: 42780908):** Cardiomiocitos derivados de células pluripotenciales humanas funcionalizados con péptidos híbridos de colágeno mediante química de clic mostraron mayor retención y atenuación del remodelado ventricular en un modelo murino de isquemia-reperfusión. *[Evidencia Preclínica / Experimental]*
-* **Bioingeniería Antiadherente Tendinosa (Bioact Mater 2027; PMID: 42774832):** Desarrollo de un hidrogel inyectable cargado con clorhidrato de tioridazina que reprograma la mecanotransducción de Piezo1/YAP, inhibiendo la adhesión peritendinosa sin comprometer la resistencia biomecánica en modelos de reparación del tendón de Aquiles en ratas. *[Evidencia Preclínica]*
-* **Polvos Autogelificantes en Hemostasia de Urgencia (Biomater Adv 2027; PMID: 42784980):** Revisión traslacional sobre matrices en polvo con transición sol-gel *in situ* diseñadas para el sellado tisular y control de hemorragias no compresibles complejas en entornos de trauma. *[Evidencia Experimental / Síntesis Mecanicista]*
-* **Biosensores Ópticos en Neurodegeneración (Talanta 2027; PMID: 42772054):** Avances en plataformas nanofotónicas (SERS, microcavidades WGM) con sensibilidad femtomolar a atomolar para detección de marcadores como amiloide-β, tau y neurofilamentos ligeros (NfL) en biofluidos. *[Evidencia Experimental]*
-* **Trayectorias de Rendimiento y Apoyo Docente (J Exp Child Psychol 2027; PMID: 42721890):** Estudio longitudinal (n = 1.231 escolares) que correlaciona de forma inversa la ansiedad matemática temprana con trayectorias de alto rendimiento sostenido, mediada favorablemente por el apoyo docente percibido. *[Evidencia Prometedora / Observacional Longitudinal]*
-* **Sueño y Artritis Reumatoide Preclínica (Behav Brain Res 2027; PMID: 42767510):** Monitorización no invasiva en ratones con artritis inducida por colágeno documenta una reducción del 50% en el reposo continuo y una correlación entre fragmentación del descanso y severidad inflamatoria articular. *[Evidencia Preclínica]*
-* **Monóxido de Nitrógeno en Isquemia Cerebrovascular (Med Gas Res 2027; PMID: 42734452):** Revisión de la literatura que expone la dualidad de óxido nítrico frente al daño hipóxico neuronal, concluyendo la persistencia de discrepancias no resueltas sobre su efecto neto citoprotector versus citotóxico. *[Evidencia Experimental / Controversia Fisiopatológica]*
+* **Plataformas de administración nasal directa al parénquima cerebral (N2B):**
+  * *Kim Y et al. Drug delivery (2026).* [PMID: 42820785](https://pubmed.ncbi.nlm.nih.gov/42820785/)
+  * *Tipo y Evidencia:* Revisión conceptual; Marco emergente/experimental.
+  * *Hallazgo:* Reconceptualiza la vía nariz-cerebro no solo como un paso transepitelial, sino como una cascada dependiente de la redistribución por líquido cefalorraquídeo y espacio perivascular (glinfático) para lograr exposición parenquimatosa profunda de fármacos y complejos CRISPR.
+  * *Importancia y Limitación:* Proporciona un marco biofísico para evitar el fracaso en biodisponibilidad SNC, pero aún carece de formulaciones clínicas estandarizadas.
 
-*(Nota: Títulos adicionales de la literatura recibida sin datos de resumen estructurado o resultados disponibles en el corpus de origen han sido omitidos para salvaguardar la exactitud técnica de este informe).*
+* **Biomateriales basados en galio y marco de "Accesibilidad Biológica":**
+  * *Zhou Y et al. Bioactive materials (2027).* [PMID: 42781445](https://pubmed.ncbi.nlm.nih.gov/42781445/)
+  * *Tipo y Evidencia:* Revisión / Marco experimental.
+  * *Hallazgo:* Propone la optimización de la cinética de intercambio de ligandos de galio (mimetizador de hierro) para regular su función antimicrobiana, antineoplásica y regenerativa ósea en ventanas espacio-temporales diana y minimizar la toxicidad fuera de objetivo.
+  * *Importancia y Limitación:* Establece pautas bioinorgánicas para diseño de fármacos, pero su traslación clínica requiere extensos estudios toxicológicos *in vivo*.
+
+* **Biosensores bacterianos genéticamente codificados para circuitos teranósticos:**
+  * *Xu J et al. Synthetic and systems biotechnology (2027).* [PMID: 42831006](https://pubmed.ncbi.nlm.nih.gov/42831006/)
+  * *Tipo y Evidencia:* Revisión; Fase experimental sintética.
+  * *Hallazgo:* Empleo de factores de transcripción alostéricos y sistemas de dos componentes integrados en probióticos microbianos modificados para detección continua *in situ* y secreción terapéutica regulada en lazo cerrado.
+  * *Importancia y Limitación:* Promete medicina de precisión autónoma; sus riesgos biológicos de contención genética y estabilidad funcional impiden su uso clínico inmediato.
+
+* **Optimización algorítmica por Machine Learning en tecnología CRISPR:**
+  * *Liyanage R et al. Machine learning. Health (2026).* [PMID: 42775150](https://pubmed.ncbi.nlm.nih.gov/42775150/)
+  * *Tipo y Evidencia:* Revisión; Herramienta bioinformática/computacional.
+  * *Hallazgo:* Aplicación de modelos de aprendizaje automático para predecir el reconocimiento del motivo adyacente al protoespaciador (PAM), optimizar el diseño de secuencias de ARN guía y reducir efectos fuera de diana (*off-target*).
+  * *Importancia y Limitación:* Aumenta la seguridad en la edición génica celular; los algoritmos requieren validación empírica sistemática en diferentes líneas celulares humanas.
+
+* **Mecanismos osteogénicos de Honokiol mediados por SIRT3:**
+  * *Xie S et al. Pharmaceutical biology (2026).* [PMID: 42852533](https://pubmed.ncbi.nlm.nih.gov/42852533/)
+  * *Tipo y Evidencia:* Estudio experimental preclínico *in vitro* e *in vivo*.
+  * *Hallazgo:* El biphenol honokiol induce mineralización osteoblástica y repara fracturas femorales en ratones ovariectomizados a través de la vía de SIRT3; el bloqueo mediante AAV-shSIRT3 revierte selectivamente los beneficios óseos estructurales.
+  * *Importancia y Limitación:* Identifica una diana para la pérdida ósea posmenopáusica, pero carece de datos de biodisponibilidad y tolerabilidad en humanos.
+
+* **Dinámica inmunológica en el modelo murino de artritis por colágeno (CIA):**
+  * *Liu L et al. Autoimmunity (2026).* [PMID: 42815948](https://pubmed.ncbi.nlm.nih.gov/42815948/)
+  * *Tipo y Evidencia:* Estudio observacional experimental preclínico.
+  * *Hallazgo:* Caracteriza la polarización M1 temprana, activación sostenida de células dendríticas, aumento de linfocitos Th1/Th17/Tfh, neutrofilia persistente y desequilibrio TNF-α/TGF-β1 en ratones C57BL/6.
+  * *Importancia y Limitación:* Modela la patogenia inmunológica de la artritis reumatoide, pero las discrepancias con el sistema inmune humano limitan la extrapolación directa de nuevas dianas.
+
+* **Hilos de hidrogel de colágeno densificados por torsión para ingeniería de tendón:**
+  * *Xie Y et al. Bioactive materials (2027).* [PMID: 42781499](https://pubmed.ncbi.nlm.nih.gov/42781499/)
+  * *Tipo y Evidencia:* Estudio experimental de ingeniería de tejidos.
+  * *Hallazgo:* Proceso de supercompactación helicoidal que incrementa el módulo mecánico y tenacidad del colágeno reconstituido al rango de tendones nativos, preservando una viabilidad celular de fibroblastos superior al 90%.
+  * *Importancia y Limitación:* Solución al compromiso entre resistencia mecánica y bioactividad celular; pendiente de estudios de fatiga y degradación *in vivo*.
+
+* **Nichos mecánicos asimétricos para maduración folicular ovárica:**
+  * *Liu S et al. Bioactive materials (2027).* [PMID: 42761305](https://pubmed.ncbi.nlm.nih.gov/42761305/)
+  * *Tipo y Evidencia:* Estudio experimental biomimético *in vitro*.
+  * *Hallazgo:* Un andamio de microcavidades agarose/alginato que reproduce la rigidez cortical y médula blanda aumentó la formación de blastocistos murinos del 7,7% al 34,5% vía señalización PI3K/Akt.
+  * *Importancia y Limitación:* Avance en preservación de fertilidad asistida; el rendimiento sigue por debajo del control ovulatorio *in vivo* y no ha sido validado en tejido humano.
+
+* **Variabilidad en edición CRISPR de cigotos según origen *in vivo* vs *in vitro*:**
+  * *Rahimi M et al. Theriogenology (2027).* [PMID: 42810238](https://pubmed.ncbi.nlm.nih.gov/42810238/)
+  * *Tipo y Evidencia:* Estudio experimental en modelo bovino.
+  * *Hallazgo:* Cigotos obtenidos *in vivo* presentaron menor supervivencia y menor tasa general de edición génica por electroporación respecto a los obtenidos *in vitro*, pero exhibieron menor mosaicismo genético y mayor tasa de ediciones monoalélicas.
+  * *Importancia y Limitación:* Demuestra que las propiedades biofísicas celulares basales alteran sustancialmente la transfección, aspecto crucial para la terapia génica embrionaria; restringido a biología bovina.
+
+* **Anticuerpos dirigidos al receptor de FSH para anticoncepción masculina en veterinaria:**
+  * *Navanukraw P et al. Theriogenology (2027).* [PMID: 42804870](https://pubmed.ncbi.nlm.nih.gov/42804870/)
+  * *Tipo y Evidencia:* Revisión narrativa preclínica veterinaria.
+  * *Hallazgo:* El bloqueo selectivo de FSHr en células de Sertoli mediante fragmentos scFv suprime la espermatogénesis sin alterar la función de las células de Leydig ni las concentraciones séricas de testosterona.
+  * *Importancia y Limitación:* Concepto de preservación endocrina en control reproductivo; datos limitados a modelos animales (macacos, caninos, felinos) sin traslación a endocrinología humana.
+
+* **Sensor nanozimático de puntos de carbono para identificación de biotioles:**
+  * *Li XM et al. Spectrochimica acta. Part A (2027).* [PMID: 42748728](https://pubmed.ncbi.nlm.nih.gov/42748728/)
+  * *Tipo y Evidencia:* Estudio de desarrollo analítico / Bioquímica diagnóstica.
+  * *Hallazgo:* Nanomaterial de carbono dopado con hierro combina fluorescencia y actividad tipo peroxidasa para clasificar 10 biotioles y discriminar células tumorales de sanas en matriz sérica.
+  * *Importancia y Limitación:* Herramienta analítica diagnóstica *in vitro*; no ha demostrado su rendimiento en cohortes de pacientes con patologías metabólicas u oncológicas activas.
+
+* **Red convolucional temporal para microscopía CARS de banda ancha:**
+  * *Yang K et al. Spectrochimica acta. Part A (2027).* [PMID: 42753634](https://pubmed.ncbi.nlm.nih.gov/42753634/)
+  * *Tipo y Evidencia:* Estudio metodológico computacional/biofotónico.
+  * *Hallazgo:* Red neuronal convolucional dilatada que elimina el ruido de fondo no resonante en espectros Raman en 0,58 ms con un R² > 0,95, facilitando la imagen química libre de marcaje en tiempo real.
+  * *Importancia y Limitación:* Optimización técnica de bioimagen; su utilidad patológica intraoperatoria humana permanece aún sin comprobar.
+
+* **Evaluación del desempeño de modelos LLM en exámenes biomédicos:**
+  * *Cheverko CM et al. Anat Sci Educ (2026).* [PMID: 42153764](https://pubmed.ncbi.nlm.nih.gov/42153764/)
+  * *Tipo y Evidencia:* Metanálisis de educación médica.
+  * *Hallazgo y Limitación:* Cuantificación del rendimiento de modelos de lenguaje tipo ChatGPT en preguntas de opción múltiple de ciencias biomédicas (resumen no provisto en el texto fuente).
+
+* **Adaptación transcultural de currículo de salud sexual en Brasil:**
+  * *Neto TA et al. Sex Med (2026).* [PMID: 42769748](https://pubmed.ncbi.nlm.nih.gov/42769748/)
+  * *Tipo y Evidencia:* Estudio de educación médica / Salud pública (resumen no provisto en el texto fuente).
+
+* **Inteligencia artificial en citología tiroidea (PAAF):**
+  * *Satturwar S et al. Cancer Cytopathol (2026).* [PMID: 42779199](https://pubmed.ncbi.nlm.nih.gov/42779199/)
+  * *Tipo y Evidencia:* Estudio observacional clínico diagnóstico (resumen no provisto en el texto fuente).
+
+* **Proteómica espacial en melanoma temprano:**
+  * *Szadai L et al. Int J Dermatol (2026).* [PMID: 42808946](https://pubmed.ncbi.nlm.nih.gov/42808946/)
+  * *Tipo y Evidencia:* Revisión narrativa de diagnóstico molecular (resumen no provisto en el texto fuente).
+
+* **Vesículas extracelulares en alopecia androgenética:**
+  * *Tang WZ et al. Int J Nanomedicine (2026).* [PMID: 42756864](https://pubmed.ncbi.nlm.nih.gov/42756864/)
+  * *Tipo y Evidencia:* Revisión sobre terapias regenerativas capilares (resumen no provisto en el texto fuente).
+
+* **Sustitutos cutáneos celulares libres de componentes animales:**
+  * *Lemaître G et al. Adv Healthc Mater (2026).* [PMID: 42629982](https://pubmed.ncbi.nlm.nih.gov/42629982/)
+  * *Tipo y Evidencia:* Revisión sobre ingeniería de tejidos dermatológicos (resumen no provisto en el texto fuente).
 
 ---
 
 ## QUÉ DEBERÍA ESTUDIAR
 
-1. **Inmunoterapia y Complicaciones Infecciosas Tardías:** Estudiar la fisiopatología de los anticuerpos biespecíficos redireccionadores de linfocitos T (anti-BCMA × anti-CD3). Comprender por qué la depleción sostenida del compartimento de células plasmáticas normales y linfocitos B conduce a hipogammaglobulinemia severa y riesgo tardío de bacteriemia y choque séptico fulminante.
-2. **Sesgos de Confusión en Revisiones Sistemáticas de Oncología:** Analizar el concepto metodológico de "confusión por indicación" e interacción de tratamientos concomitantes; ilustrado en cómo la quimiorradioterapia alteró las conclusiones entre la administración concomitante versus secuencial de inhibidores de punto de control en cáncer de esófago.
-3. **Neurobiología del Estrés y Plasticidad Prefrontal:** Profundizar en los mecanismos de acción de los glucocorticoides y catecolaminas sobre la potenciación a largo plazo (LTP) en hipocampo frente al córtex prefrontal, reconociendo el patrón de campana invertida en rendimiento cognitivo y consolidación de memoria.
-4. **Fisiología de la Propiocepción y Control Postural:** Repasar las vías aferentes vestibulares, visuales y somatosensoriales integradas a nivel central, reconociendo el estímulo mecánico de fuerza de alta intensidad como el inductor primario de adaptaciones neuromusculares funcionales.
+1. **Vía de señalización RANK / RANKL / Osteoprotegerina (OPG):**  
+   *Fundamento:* Revisar el eje osteoblasto-osteoclasto en el remodelado óseo y los mecanismos lisosomales de degradación dirigida de receptores de membrana celular (LYTACs).
+
+2. **Mecanismos bioquímicos de ferroptosis y acoplamiento RE-Mitocondria:**  
+   *Fundamento:* Comprender la interacción del complejo IP3R1-GRP75-VDAC1 en la transferencia de calcio, estrés oxidativo mitocondrial y vías de muerte celular no apoptótica dependiente de hierro en procesos de neurodegeneración y reparación axónica.
+
+3. **Inmunobiología de citocinas y polarización linfocitaria (Th1 / Th17 / Tfh vs Treg / Breg):**  
+   *Fundamento:* Reexaminar el equilibrio de mediadores inflamatorios (IL-1, TNF-α, IL-6 frente a IL-10 y TGF-β) que rigen tanto el daño tisular autoinmune (artritis reumatoide) como los fenómenos inflamatorios neurodel desarrollo.
+
+4. **Biofísica del transporte en el sistema nervioso central y vía glinfática:**  
+   *Fundamento:* Estudiar la barrera hematoencefálica, el flujo de líquido cefalorraquídeo a través de los espacios de Virchow-Robin (perivasculares) y las limitaciones de biodisponibilidad parenquimatosa para formulaciones farmacológicas e ingeniería genética.
+
+5. **Biología molecular de células de Sertoli y Leydig (Eje Hipotálamo-Hipófisis-Gonadal):**  
+   *Fundamento:* Discriminar las funciones independientes del receptor de FSH (control de la espermatogénesis en Sertoli) frente a LH (esteroidogénesis y testosterona en Leydig).
 
 ---
 
 ## ALERTAS DE EVIDENCIA
 
-* **Alerta de Nivel de Evidencia — Terapia Celular/Vesicular en TEA:** Las vesículas extracelulares (MSC-EVs) cuentan **únicamente con soporte en modelos murinos**. No se debe sugerir ni interpretar que estos datos justifican intervenciones biológicas en humanos con TEA fuera de ensayos clínicos protocolizados.
-* **Alerta Metodológica — Farmacovigilancia y Causalidad:** El análisis de FAERS en teclistamab no demuestra por sí solo que el fármaco cause sepsis de forma directa con un 58% de letalidad en toda la población tratada, sino que refleja la gravedad de las notificaciones acumuladas en individuos habitualmente politratados y con inmunosupresión previa. Correlación de reporte no es tasa de incidencia.
-* **Alerta de Sesgo de Confusión — Ensayos Neoadyuvantes en Cáncer Esofágico:** Advertencia contra la adopción preferente de regímenes de inmunoterapia secuenciales basada en tasas globales de pCR brutas; la ventaja aparente desaparece cuando se controla la variable radioterápica.
-* **Alerta de Eficacia Clínica — Dispositivos de tDCS:** La neuromodulación transcraneal adyuvante para potenciación de habilidades motoras posturales no demostró superioridad frente a la terapia simulada en sujetos sanos; es imperativo no asumir eficacia terapéutica basada en hipótesis neuroeléctricas abstractas sin evidencia funcional contrastada.
+* **Alerta Preclínica — Terapias con Vesículas Extracelulares en TEA:**  
+  Los datos del metanálisis de Mohtashami et al. proceden exclusivamente de **modelos murinos** (5 estudios). La mejoría comportamental en ratones no predice de forma directa eficacia conductual ni seguridad en humanos. No existen ensayos clínicos fase III que respalden su prescripción.
+
+* **Alerta Metodológica — Estudios sin resumen empírico en la fuente:**  
+  Múltiples registros (p. ej., aplicaciones de IA en linfedema de cáncer de mama, fenotipificación de osteoartritis, brecha traslacional en cáncer de mama triple negativo, y aplicación de ChatGPT en educación médica) constan en la base sin datos primarios ni resúmenes técnicos en los registros suministrados. Sus títulos reflejan hipótesis u objetivos de investigación, no resultados confirmados ni guías clínicas aplicables.
+
+* **Alerta de Aplicación Práctica — Estudios no biomédicos en la base:**  
+  Se identifican artículos estrictamente agropecuarios o botánicos (evaluación de clorofila en hojas de nogal en Xinjiang [Yerzati et al.] y autenticación geográfica de granos de café arábica mediante imágenes RGB [Lu S et al.]). Carecen de pertinencia médica y traslación clínica para la práctica médica o la formación académica en ciencias de la salud.
 
 ## ARTÍCULOS DETECTADOS
 
 ### 1. Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.
-**Área:** Medicina basada en evidencia e investigación clínica
+**Área:** Medicina regenerativa y terapias avanzadas
 **Fecha:** 2027
 **Revista:** Behavioural brain research
 **Tipo:** Journal Article, Meta-Analysis, Systematic Review
@@ -113,138 +217,38 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759891/
 
-### 2. Prediction models for sepsis-associated acute kidney injury: a systematic review and meta-analysis.
-**Área:** Urgencias, cuidados críticos y sepsis
-**Fecha:** 2026-09-14
-**Revista:** Front Endocrinol (Lausanne)
+### 2. Artificial Intelligence for Prediction of Breast Cancer–Related Lymphedema: A Systematic Review
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-01
+**Revista:** Plast Reconstr Surg Glob Open
 **Tipo:** No especificado
-**Autores:** Huang M, Wu S, Shen ZH, Zhang SJ, Fu YS, Wu J.
-**PMID:** 42807230  **DOI:** 10.3389/fendo.2026.1854549
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42807230/
-
-### 3. Neurocognitive effects of stress in higher education: Mechanisms, challenges, and opportunities.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** Behavioural brain research
-**Tipo:** Journal Article, Systematic Review
-**Autores:** Ochoa-Amaya JE, Tamayo Alzate OE, Rojas-Peña JI
-**PMID:** 42716131  **DOI:** 10.1016/j.bbr.2026.116470
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42716131/
-
-### 4. Concurrent versus sequential immune checkpoint inhibition in the neoadjuvant treatment of resectable esophageal squamous cell carcinoma: a systematic review and meta-analysis.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** Clinical and translational radiation oncology
-**Tipo:** Journal Article, Review
-**Autores:** Ghalehtaki R, Shariati A, Fanihagh T, Moradi Z, Moradi N
-**PMID:** 42787301  **DOI:** 10.1016/j.ctro.2026.101289
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42787301/
-
-### 5. Gaze behavior during walking in older adults: A systematic review of eye-tracking research.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** Gait & posture
-**Tipo:** Journal Article, Systematic Review
-**Autores:** Cotton K, Selioutski L
-**PMID:** 42753670  **DOI:** 10.1016/j.gaitpost.2026.110641
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753670/
-
-### 6. Efficacy and safety of Compound Danshen Dripping Pills as an adjunct to conventional therapy for stable angina pectoris: an updated systematic review and meta-analysis of randomized controlled trials
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-10-09
-**Revista:** Front Pharmacol
-**Tipo:** No especificado
-**Autores:** Zhao X, Liu Y, Yang L, Chen Z, Zhang W, Lu W, Zhao Y, Zhou Z, Yang F, Pang W.
+**Autores:** Mortada H, Al-Khafaji M, Jefri Z, Sultan F, Alrobaiea S, Alshomer F.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 7. Enteral nutrition interruption in critically ill patients: a systematic review and meta-analysis of prevalence, causes, and clinical outcomes
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-10-09
-**Revista:** Front Nutr
+### 3. The performance of ChatGPT and other large language models on multiple-choice questions in biomedical disciplines: A meta-analysis.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+**Fecha:** 2026-05-19
+**Revista:** Anat Sci Educ
 **Tipo:** No especificado
-**Autores:** Guo X, Jiang L, Jiang S, Huang X, Tang J, Liang X, Feng X, Xu S.
-**PMID:** —  **DOI:** —
+**Autores:** Cheverko CM, Mavrych V, Bolgova O, Mohamed FRR, Westrick J, Juarez L, Rush E, Solka KA, Doubleday AF, Byram JN, Becker R, Gomez V, Ganeng BKA, Hoffman LA, Roach VA, Brown KM, DeVaul N, Garnett CN, Herriott HL, Lufler RS, Mussell JC, Balta JY, Pascoe MA, Middleton JW, Duffy S, Stephens GC, Wilson AB.
+**PMID:** 42153764  **DOI:** 10.1002/ase.70262
 **Fuente:** Europe PMC
-**Enlace:** —
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42153764/
 
-### 8. Efficacy and safety of intensive vs. standard blood pressure control: a systematic review and meta-analysis
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-10-08
-**Revista:** Front Cardiovasc Med
+### 4. Translation, cross-cultural adaptation of longitudinal curriculum objectives in sexual health to Brazilian medical education.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+**Fecha:** 2026-09-21
+**Revista:** Sex Med
 **Tipo:** No especificado
-**Autores:** Yang H, Li Y, Xiang G, Pei S, Wang M, Xu L, Zhu B, Liu Y, Yang X.
-**PMID:** —  **DOI:** —
+**Autores:** Neto TA, de Oliveira Valentino TC, Facio Junior FN.
+**PMID:** 42769748  **DOI:** 10.1093/sexmed/qfag090
 **Fuente:** Europe PMC
-**Enlace:** —
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42769748/
 
-### 9. Ranolazine in Chronic Stable Angina: A Systematic Review and Meta-Analysis
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-10-08
-**Revista:** Cureus
-**Tipo:** No especificado
-**Autores:** Collins P, Alhabeeb W, Alhaddad I, Kinsara A, Faraidy K, Balghith M, Ragy H, Fehri W, Asfalou I, Ayoubi F, Amer H, Al-Rammahy D, Batah N.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 10. Efficacy and safety of ropeginterferon in myeloproliferative neoplasms: a systematic review and meta-analysis
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-10-08
-**Revista:** Front Pharmacol
-**Tipo:** No especificado
-**Autores:** Manthiri A, Saleh L, Rabadi M, Dalol A, Mesilhy R, Elshaikh U, Al-Mashdali A, Abdulgayoom M, Mohamed S.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 11. Best-evidence summary of pulmonary rehabilitation strategies for adult patients with cervical spinal cord injury: a systematic review
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-10-07
-**Revista:** Front Med (Lausanne)
-**Tipo:** No especificado
-**Autores:** Shao T, Lin Q, Chen X, Zhou W, Dai Y.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 12. The effect of six weeks of squat training on static and dynamic postural control: a randomized controlled trial of adjunctive tDCS.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** Gait & posture
-**Tipo:** Journal Article, Randomized Controlled Trial
-**Autores:** Zhang X, Nitsche MA, Zuo Z, Ren X, Qi F
-**PMID:** 42753671  **DOI:** 10.1016/j.gaitpost.2026.110632
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753671/
-
-### 13. Chinese expert consensus on the clinical application of stromal vascular fraction combined with bone marrow flushing for osteonecrosis of the femoral head
-**Área:** Cirugía, trauma y ortopedia
-**Fecha:** 2026-09-01
-**Revista:** J Orthop Translat
-**Tipo:** No especificado
-**Autores:** Wang X, Zhang J, Cheng L, Peng J.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 14. The development of children's mathematics achievement in primary school: the early and longitudinal links with perceived teacher support and mathematics anxiety.
-**Área:** Psiquiatría y salud mental
-**Fecha:** 2027
-**Revista:** Journal of experimental child psychology
-**Tipo:** Journal Article
-**Autores:** Guo K, Zhuo X, Xu Y, Feng H, Wang Y, Huang B, Si J
-**PMID:** 42721890  **DOI:** 10.1016/j.jecp.2026.106664
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42721890/
-
-### 15. Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
-**Área:** Epidemiología, salud pública y prevención
+### 5. Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
+**Área:** Inteligencia artificial y tecnología médica
 **Fecha:** 2027
 **Revista:** Talanta
 **Tipo:** Journal Article, Review
@@ -253,118 +257,138 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42772054/
 
-### 16. Ketogenic therapy as a potential novel treatment approach for PTSD: an integrative review and proposed mechanistic model.
-**Área:** Psiquiatría y salud mental
-**Fecha:** 2026-09-09
-**Revista:** Front Psychiatry
-**Tipo:** No especificado
-**Autores:** Engelhardt R, Ogedengbe JO, Millet MS, Ayad MEG, Schalinski I, Von Oertzen T, Rieckmann A, Effinger D, Hirschberger S, Palmer CM, Ede G, Kraus SW, Trommer D, Schreel L, Tulipan J, Way B, Müller RU, Hull A, Maes J, Potenza MN.
-**PMID:** 42780737  **DOI:** 10.3389/fpsyt.2026.1854499
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780737/
+### 6. Dynamic coordination engineering of gallium biomaterials: A biological accessibility framework for therapeutic biofunction.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article, Review
+**Autores:** Zhou Y, Peng W, Shi J, Pedraz JL, Gu Z, He Y
+**PMID:** 42781445  **DOI:** 10.1016/j.bioactmat.2026.09.008
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781445/
 
-### 17. Patient Journey Mapping in Mental Disorders: A Scoping Review.
-**Área:** Psiquiatría y salud mental
+### 7. Artificial intelligence in the biomechanics of knee osteoarthritis: biomechanical phenotyping, risk stratification, diagnosis, treatment and clinical translation—a narrative review
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-09
+**Revista:** Front Bioeng Biotechnol
+**Tipo:** No especificado
+**Autores:** Zhang B, Yu X, Zhang Z, Zhou X, Zhao W, Zhao C.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 8. Advances and perspectives in genetically encoded biosensors for biomarker detection and theranostic circuits.
+**Área:** Genética, genómica y medicina molecular
+**Fecha:** 2027
+**Revista:** Synthetic and systems biotechnology
+**Tipo:** Journal Article, Review
+**Autores:** Xu J, Qi Q, Wang Q
+**PMID:** 42831006  **DOI:** 10.1016/j.synbio.2026.09.006
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831006/
+
+### 9. Redefining intranasal brain delivery: from nasal entry to meaningful parenchymal and cellular exposure.
+**Área:** Genética, genómica y medicina molecular
+**Fecha:** 2026
+**Revista:** Drug delivery
+**Tipo:** Journal Article, Review
+**Autores:** Kim Y, Yun CO, Yoon AR
+**PMID:** 42820785  **DOI:** 10.1080/10717544.2026.2738285
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42820785/
+
+### 10. Machine-learning in optimization of CRISPR technology.
+**Área:** Genética, genómica y medicina molecular
+**Fecha:** 2026
+**Revista:** Machine learning. Health
+**Tipo:** Journal Article, Review
+**Autores:** Liyanage R, Jin L, Chen SJ
+**PMID:** 42775150  **DOI:** 10.1088/3049-477X/aea331
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42775150/
+
+### 11. Spatial Proteomics as a Potential Decision-Support Layer for Early Melanoma: A Narrative Review.
+**Área:** Inteligencia artificial y tecnología médica
 **Fecha:** 2026-10-01
-**Revista:** Int J Ment Health Nurs
+**Revista:** Int J Dermatol
 **Tipo:** No especificado
-**Autores:** Wu J, Feng X, Huang F, Zhu K, Ding W, Yuan Q.
-**PMID:** 42742402  **DOI:** 10.1111/inm.70356
+**Autores:** Szadai L, Gil J, Marko-Varga G.
+**PMID:** 42808946  **DOI:** 10.1111/ijd.70665
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42742402/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42808946/
 
-### 18. The Parallel Consultation: A Literature Review of Patient Use of Large Language Models and Its Implications for Psychiatric Clinical Decision-Making
-**Área:** Psiquiatría y salud mental
-**Fecha:** 2026-09-29
-**Revista:** Cureus
+### 12. Hormone-sparing non-surgical male contraception in dogs and cats: Current strategies and the emerging role of FSH receptor-targeted antibody fragments.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2027
+**Revista:** Theriogenology
+**Tipo:** Journal Article, Review
+**Autores:** Navanukraw P, Kunkitti P, Chatdarong K
+**PMID:** 42804870  **DOI:** 10.1016/j.theriogenology.2026.118222
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42804870/
+
+### 13. Fast and compact temporal convolutional network for non-resonant background removal in broadband CARS.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+**Tipo:** Journal Article
+**Autores:** Yang K, Long Y, Zhang Y, Zeng H, Tsia KK
+**PMID:** 42753634  **DOI:** 10.1016/j.saa.2026.128757
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753634/
+
+### 14. Colorimetric/fluorescence cross-validation-based carbon dot nanozyme smart sensor array for biothiols identification.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+**Tipo:** Journal Article
+**Autores:** Li XM, Jiang WC, Hu HT, Jia L, Yang SY, Zhao Y, Zhang GQ, Liu WP
+**PMID:** 42748728  **DOI:** 10.1016/j.saa.2026.128758
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42748728/
+
+### 15. Chlorophyll inversion in walnut leaves based on improved spectral indices and texture features.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+**Tipo:** Journal Article
+**Autores:** Yerzati Y, Xia Q, Chen J, Qi J, Wang Y, Liu X, An X, Guo Z
+**PMID:** 42743716  **DOI:** 10.1016/j.saa.2026.128779
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42743716/
+
+### 16. The translational chasm in machine learning for triple-negative breast cancer: a quantitative landscape assessment
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-09
+**Revista:** Front Oncol
 **Tipo:** No especificado
-**Autores:** Kahlon A, Wallace L, Walker T, Sivakumar S, Brara B, Bawden D.
+**Autores:** Yiming N, Saibaidoula Y, Abulimiti K, Ou J.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 19. Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.
-**Área:** Psiquiatría y salud mental
-**Fecha:** 2026-09-15
-**Revista:** Front Psychiatry
+### 17. Artificial intelligence-assisted digital thyroid FNA cytology: Improved agreement and sensitivity for higher-risk Bethesda categories with enhanced screening efficiency.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-01
+**Revista:** Cancer Cytopathol
 **Tipo:** No especificado
-**Autores:** Civardi SC, Besana F, Durbano F, Toscano MOM, Raffone F, Dell'Osso BM, Olivola M.
-**PMID:** 42812990  **DOI:** 10.3389/fpsyt.2026.1858319
+**Autores:** Satturwar S, Li Z, Yang CS, Lin YJ, Yang WL, Lin MY, Yeh CH, Hsu SW, Liu YS, Shao G, Liu TJ, Chen CJ, Crothers BA.
+**PMID:** 42779199  **DOI:** 10.1002/cncy.70149
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42812990/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42779199/
 
-### 20. Gelation mechanisms, structure-property relationships, and wound management applications of self-gelling powders.
-**Área:** Urgencias, cuidados críticos y sepsis
-**Fecha:** 2027
-**Revista:** Biomaterials advances
-**Tipo:** Journal Article, Review
-**Autores:** Zhu W, Yu W, Zhao F, Si G, Lv F
-**PMID:** 42784980  **DOI:** 10.1016/j.bioadv.2026.215194
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42784980/
-
-### 21. Sustainability of infectious disease elimination: a scoping review on integrating treatment and surveillance within health systems.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-09-28
-**Revista:** BMJ Open
-**Tipo:** No especificado
-**Autores:** Baker MC, Minahan G, Khayat A, Dorris CS, Benghomari B, Brady M, Yousef D, Diawara A, Jarawan E.
-**PMID:** 42805648  **DOI:** 10.1136/bmjopen-2026-119269
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42805648/
-
-### 22. The health status of incarcerated people in Canada: a narrative review
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-09-26
-**Revista:** Front Public Health
-**Tipo:** No especificado
-**Autores:** Slaunwhite A, Hoolsema S, Ogiral A, Roth K, Smith S, Krishnamoorthy A, Mead A, Martin R.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 23. Scoping review of public health emergency management training programmes and curricula in Africa (2000-2025): implications for policy, practice and research.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-09-21
-**Revista:** BMJ Public Health
-**Tipo:** No especificado
-**Autores:** Olu OO, Adewuyi P, Kyobe Bosa H, Monday J, Alpha ST, King RE, Yealue KDM, Tanyanyiwa ET, Akinwande O, Coulibaly SO, Ismail M, Maleghemi S, Petu A, Usman A, Lubajo R.
-**PMID:** 42781536  **DOI:** 10.1136/bmjph-2026-004980
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781536/
-
-### 24. Projecting the future spread of yellow fever vectors and implications for epidemic risk: a scoping review of climate change and human behaviour.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-09-21
-**Revista:** BMJ Open
-**Tipo:** No especificado
-**Autores:** Parreiras-Gonçalves A, Failloux AB, Jelinek T, LaBeaud AD, Langevin E, Ooi EE, Thollot Y, Tomori O, Vasilakis N, Lowe R, Colón-González FJ.
-**PMID:** 42767744  **DOI:** 10.1136/bmjopen-2025-115595
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42767744/
-
-### 25. Nitric oxide in the occurrence and development of ischemic cerebrovascular disease.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Review
-**Autores:** Bogodvid TK, Silantyeva DI, Andrianov VV, Gainutdinov KL
-**PMID:** 42734452  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00117
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42734452/
-
-### 26. Aptamer-functionalized EGCG nanocarrier for neutrophil-targeted AKBA delivery promotes anxiety-related fracture healing.
-**Área:** Cirugía, trauma y ortopedia
+### 18. Micellar LYTAC-engineered bionic coatings abrogate RANK-dependent osteocatabolism and boost fibrillogenesis-mimetic mineral accretion for empowering osteoporotic osseointegration.
+**Área:** Medicina regenerativa y terapias avanzadas
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Ouyang L, Zhang Y, Liao J, Zhang Z, He X, Lin Z, Tao R, Xie X
-**PMID:** 42831169  **DOI:** 10.1016/j.bioactmat.2026.09.028
+**Autores:** Zhao Y, Zhou J, He Y, Ren Y, Zhang J, Chen M, Luo Z, Gong Z
+**PMID:** 42835104  **DOI:** 10.1016/j.bioactmat.2026.09.012
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831169/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42835104/
 
-### 27. Click chemistry-modified cardiomyocytes enhance cardiac contractility and prevent remodeling in ischemia-reperfusion injured hearts.
-**Área:** Cirugía, trauma y ortopedia
+### 19. Click chemistry-modified cardiomyocytes enhance cardiac contractility and prevent remodeling in ischemia-reperfusion injured hearts.
+**Área:** Medicina regenerativa y terapias avanzadas
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
@@ -373,33 +397,113 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780908/
 
-### 28. Long-term monitoring reveals immobility-defined sleep fragmentation and behavioural alterations in collagen-induced arthritis mouse model of both sexes.
-**Área:** Psiquiatría y salud mental
+### 20. Cellularized Skin Substitute Bioengineering for Regenerative Medicine: Cell Sources, Culture Strategies, and Transition Toward Defined, Xeno-Free Culture Systems.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2026-08-21
+**Revista:** Adv Healthc Mater
+**Tipo:** No especificado
+**Autores:** Lemaître G, Trouillas M, Vinasco-Sandoval T, Giordano C, Lellouch AG, Rachidi W, Lataillade JJ, Fortunel NO.
+**PMID:** 42629982  **DOI:** 10.1002/adhm.71630
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42629982/
+
+### 21. Reproductive biology and conservation breeding of viverrids in Thailand.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
 **Fecha:** 2027
-**Revista:** Behavioural brain research
+**Revista:** Theriogenology
 **Tipo:** Journal Article
-**Autores:** Macáková K, Szabó J, Skybová E, Vlková B, Borbélyová V, Celec P
-**PMID:** 42767510  **DOI:** 10.1016/j.bbr.2026.116495
+**Autores:** Thongphakdee A, Sangsuri R, Punyatong R, Nakas T, Vechmanus T, Siriaroonrat B, Kamolnorranath S, Susereedumrong J
+**PMID:** 42801884  **DOI:** 10.1016/j.theriogenology.2026.118210
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42767510/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42801884/
 
-### 29. Teclistamab-associated adverse events: a disproportionality analysis of the FDA adverse event reporting system.
-**Área:** Urgencias, cuidados críticos y sepsis
+### 22. Temporal dynamics of systemic immune cell networks in C57BL/6 mice with collagen-induced arthritis.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
 **Fecha:** 2026
-**Revista:** Hematology (Amsterdam, Netherlands)
+**Revista:** Autoimmunity
 **Tipo:** Journal Article
-**Autores:** He X, Chen G, Zhan Z, Li Z
-**PMID:** 42742109  **DOI:** 10.1080/16078454.2026.2730041
+**Autores:** Liu L, Hu Y, Liu H, Jin P, Yang S, Zhang H, Wan X
+**PMID:** 42815948  **DOI:** 10.1080/08916934.2026.2739614
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42742109/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42815948/
 
-### 30. Fluorinated covalent organic framework hydrogel reprograms Piezo1/YAP mechanotransduction for sustained prevention of peritendinous adhesion.
-**Área:** Epidemiología, salud pública y prevención
+### 23. Honokiol, a structurally defined natural product, promotes SIRT3-linked bone formation in osteoporotic bone remodeling and fracture repair.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+**Fecha:** 2026
+**Revista:** Pharmaceutical biology
+**Tipo:** Journal Article
+**Autores:** Xie S, Guan C, Zhou J
+**PMID:** 42852533  **DOI:** 10.1080/13880209.2026.2729885
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42852533/
+
+### 24. A programmable spatiotemporal bioelectrical conduit promotes peripheral nerve regeneration by suppressing ferroptosis through modulation of ER-mitochondria coupling in Schwann cells.
+**Área:** Fisiología, bioquímica y biología celular
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Xu B, Luo J, Pang S, Tu C, Hu J, Zhao J, Zhang T, Guo P
-**PMID:** 42774832  **DOI:** 10.1016/j.bioactmat.2026.07.039
+**Autores:** Wang Z, Jiang A, Wang F, Yang Z, Zhong Y, Yang Y, Tan J, Han W
+**PMID:** 42781229  **DOI:** 10.1016/j.bioactmat.2026.08.024
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42774832/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781229/
+
+### 25. Zygote origin shapes sensitivity to electrical voltage field and editing susceptibility after CRISPR/Cas9-RNP electroporation in bovine embryos.
+**Área:** Genética, genómica y medicina molecular
+**Fecha:** 2027
+**Revista:** Theriogenology
+**Tipo:** Journal Article
+**Autores:** Rahimi M, Miskel D, Schreiber M, Habermann H, Haake L, Brenig B, Besenfelder U, Havlicek V
+**PMID:** 42810238  **DOI:** 10.1016/j.theriogenology.2026.118215
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810238/
+
+### 26. Non-destructive geographical authentication of coffee beans: A hyperspectral-guided RGB imaging approach with optimized deep learning algorithms.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+**Tipo:** Journal Article
+**Autores:** Lu S, Du Y, Zhao J, Yu Y, Huang Y, Cao F, Li Z
+**PMID:** 42735527  **DOI:** 10.1016/j.saa.2026.128777
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42735527/
+
+### 27. Abstracts
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-01
+**Revista:** JPGN Rep
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 28. A designable twist-densification route to bioactive collagen hydrogel yarns approaching tendon-like mechanics.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Xie Y, Wu W, Zhang W, Peng X, Sun T, Liu Y, Zhang Z, Elson EL
+**PMID:** 42781499  **DOI:** 10.1016/j.bioactmat.2026.09.010
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781499/
+
+### 29. Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Liu S, Zhang S, Zhou J, Dong W, Xu B, Mi X, Zhao S, Guo T
+**PMID:** 42761305  **DOI:** 10.1016/j.bioactmat.2026.08.055
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42761305/
+
+### 30. Extracellular Vesicles for Androgenetic Alopecia: Current Evidence, Mechanisms, and Clinical Prospects.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2026-09-13
+**Revista:** Int J Nanomedicine
+**Tipo:** No especificado
+**Autores:** Tang WZ, Liao CY, Xu HY, Huang WT, Lan ZH, Wu ZX, Yang YH, Li MS, Liu TH, Wang YH.
+**PMID:** 42756864  **DOI:** 10.2147/ijn.s621203
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756864/
 
