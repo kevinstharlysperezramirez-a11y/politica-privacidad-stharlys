@@ -1,6 +1,6 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-10-10T17:43+00:00**
+> Actualizado: **2026-10-11T17:58+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 # MEDICUS PRIME — ACTUALIZACIÓN CIENTÍFICA
@@ -9,501 +9,399 @@
 
 ## TOP 5
 
-### 1. Vesículas extracelulares derivadas de células madre mesenquimales en modelos de TEA
-* **Título:** Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.
+### 1. Modulación farmacológica y uso fuera de indicación de inhibidores de la aromatasa en varones
+* **Título:** *Aromatase inhibitors as endocrine modulators: From breast cancer therapy to male off-label use and doping practice.*
 * **Fecha:** 2027
-* **Revista:** *Behavioural brain research*
-* **Tipo de estudio:** Revisión sistemática y metanálisis de estudios preclínicos (animales).
+* **Revista:** *The Journal of steroid biochemistry and molecular biology*
+* **Tipo de estudio:** Revisión narrativa / farmacológica.
+* **Nivel de evidencia:** Consolidada (farmacodinamia básica) y Emergente/Heterogénea (repercusión clínica funcional en varones).
+* **Hallazgo clave:** Los inhibidores de la aromatasa (IA) disminuyen las concentraciones circulantes de estradiol e incrementan gonadotropinas y testosterona en varones de forma transitoria. No obstante, el incremento bioquímico de testosterona tiene un techo farmacológico y no se traduce de forma consistente en mejoría funcional sexual, ganancia de rendimiento físico o beneficios clínicos reportados por el paciente. Además, en adolescentes masculinos puede demorar la maduración ósea con riesgos a largo plazo no completamente elucidados.
+* **Importancia médica:** Desmitifica el uso de IA como agentes pro-rendimiento o restauradores hormonales universales en endocrinología y toxicología deportiva. Demuestra que optimizar un biomarcador (testosterona sérica) no equivale a mejoría clínica sintomática.
+* **Limitación:** Alta variabilidad interindividual; la mayoría de los estudios no evaluaron sistemáticamente a cohortes con exposición previa a esteroides anabólicos androgénicos.
+* **Enlace:** [PubMed: 42735742](https://pubmed.ncbi.nlm.nih.gov/42735742/)
+
+---
+
+### 2. Monitorización terapéutica rápida de meropenem mediante biosensor electroquímico tetrapolar
+* **Título:** *Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.*
+* **Fecha:** 2027
+* **Revista:** *Biosensors & bioelectronics*
+* **Tipo de estudio:** Estudio experimental / desarrollo de tecnología biomédica.
+* **Nivel de evidencia:** Experimental / Preclínica analítica (fase de prueba de concepto).
+* **Hallazgo clave:** Desarrollo de un biosensor de espectroscopía de impedancia electroquímica (EIS) tetrapolar desechable para cuantificar meropenem en suero humano en menos de 15 minutos. Detecta concentraciones de 1 a 100 µg/mL en tampón y rangos clínicamente terapéuticos (8–16 µg/mL) en muestras de suero adicionadas artificialmente (*spiked*), con un límite inferior de 1 µg/mL.
+* **Importancia médica:** La farmacocinética de betalactámicos en sepsis y shock séptico es altamente errática debido a alteraciones del volumen de distribución y aclaramiento renal aumentado. Una herramienta *point-of-care* en UCI permitiría titular regímenes de infusión para evitar infradosificación y toxicidad.
+* **Limitación:** Estudio realizado en suero humano fortificado (*in vitro*); carece de validación clínica prospectiva en pacientes críticos reales polimedicados.
+* **Enlace:** [PubMed: 42777284](https://pubmed.ncbi.nlm.nih.gov/42777284/)
+
+---
+
+### 3. Plataforma diagnóstica CRISPR-AMPED para detección de interleucina-8 a escala atomolar
+* **Título:** *CRISPR-AMPED: A CRISPR/Cas-based immunoassay with attomolar sensitivity enabled by magnetic proximity extension and detection.*
+* **Fecha:** 2027
+* **Revista:** *Biosensors & bioelectronics*
+* **Tipo de estudio:** Estudio experimental / desarrollo diagnóstico.
+* **Nivel de evidencia:** Experimental analítica (aplicada a muestras de suero de pacientes y controles).
+* **Hallazgo clave:** Integración de ensayo de extensión por proximidad magnética acoplado a amplificación isotérmica por polimerasa recombinasa (RPA) y corte por CRISPR/Cas12a. Logra una sensibilidad a nivel atomolar para la detección de IL-8 en suero de pacientes con traumatismo craneoencefálico (TCE), superando la sensibilidad del estándar ELISA por más de tres órdenes de magnitud.
+* **Importancia médica:** Demuestra la versatilidad de la tecnología CRISPR más allá del diagnóstico molecular de ácidos nucleicos, abriendo vías para detectar biomarcadores proteicos ultradiluídos en estadios tempranos de neurotrauma, oncología o sepsis.
+* **Limitación:** Fase de prueba de concepto analítica centrada en IL-8 como marcador inflamatorio modelo; no evalúa aún el impacto directo en desenlaces clínicos ni supervivencia.
+* **Enlace:** [PubMed: 42764010](https://pubmed.ncbi.nlm.nih.gov/42764010/)
+
+---
+
+### 4. Vectorización de nanotransportadores dirigidos a neutrófilos para consolidación ósea bajo estrés
+* **Título:** *Aptamer-functionalized EGCG nanocarrier for neutrophil-targeted AKBA delivery promotes anxiety-related fracture healing.*
+* **Fecha:** 2027
+* **Revista:** *Bioactive materials*
+* **Tipo de estudio:** Estudio experimental mecanicista *in vitro* y en modelo animal.
+* **Nivel de evidencia:** Preclínica (estudio en ratones).
+* **Hallazgo clave:** En un modelo murino de fractura femoral bajo estrés crónico, se identificó la expansión de una subpoblación de neutrófilos TGFβ1+CCR5+ que inhibe la diferenciación osteogénica de células madre mesenquimales (BMSC) vía NF-κB. La administración del ácido acetil-11-ceto-β-boswélico (AKBA) formulado en un nanotransportador recubierto de EGCG y funcionalizado con aptámeros dirigidos a neutrófilos (AKBA@E-N) revirtió la inhibición osteogénica y aceleró la consolidación ósea.
+* **Importancia médica:** Describe el eje psiconeuroinmunológico entre estrés neuroendocrino y alteración tisular esquelética, proponiendo una solución nanotecnológica dirigida al microambiente inmunitario.
+* **Limitación:** Hallazgos derivados exclusivamente de biología celular y modelos murinos de estrés; la eficacia, biodisponibilidad y seguridad no han sido evaluadas en seres humanos.
+* **Enlace:** [PubMed: 42831169](https://pubmed.ncbi.nlm.nih.gov/42831169/)
+
+---
+
+### 5. Administración oral de *Lactococcus lactis* recombinante con inhibidores de IL-23 en colitis murina
+* **Título:** *Oral delivery of recombinant Lactococcus lactis expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.*
+* **Fecha:** 2026
+* **Revista:** *Drug delivery*
+* **Tipo de estudio:** Estudio experimental *in vivo* en modelo animal.
 * **Nivel de evidencia:** Preclínica.
-* **Hallazgo:** El análisis de 5 estudios en modelos murinos demostró mejoras significativas en sociabilidad (SMD = 1,34; IC 95%: 0,68 a 2,76) y reducción de conductas repetitivas (SMD = -1,12; IC 95%: -0,65 a -1,59). A nivel molecular, modularon la neuroinflamación reduciendo citocinas proinflamatorias (IL-1: SMD = -2,28; TNF-α: SMD = -1,22; IL-6: SMD = -1,03) y elevando la antiinflamatoria IL-10 (SMD = 0,58; IC 95%: 0,03 a 1,13). Las vesículas derivadas de cordón umbilical y tejido adiposo mostraron mayor eficacia relativa.
-* **Importancia médica:** Ofrece una aproximación terapéutica acelular frente a la neuroinflamación en trastornos del neurodesarrollo, reduciendo riesgos inherentes al trasplante celular directo.
-* **Limitación principal:** Evidencia restringida a modelos murinos (solo 5 estudios), con heterogeneidad sustancial y falta de protocolos estandarizados; **no demuestra eficacia ni seguridad en humanos**.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759891/
-
----
-
-### 2. Recubrimientos biónicos con degradadores micelares de RANK (LYTAC) para osteointegración osteoporótica
-* **Título:** Micellar LYTAC-engineered bionic coatings abrogate RANK-dependent osteocatabolism and boost fibrillogenesis-mimetic mineral accretion for empowering osteoporotic osseointegration.
-* **Fecha:** 2027
-* **Revista:** *Bioactive materials*
-* **Tipo de estudio:** Estudio experimental bioingenieril *in vitro* e *in vivo*.
-* **Nivel de evidencia:** Preclínica / Experimental.
-* **Hallazgo:** Desarrollo de un recubrimiento de titanio con aptámeros biespecíficos tipo LYTAC conjugados con péptidos similares a colágeno (CLP-Apt). Ante estímulos de pH ácido, el sistema promueve la degradación lisosomal directa de RANK mediante el receptor CI-M6PR en osteoclastos. Esto inhibe la resorción ósea, estimula la diferenciación osteogénica de células madre mesenquimales y la formación de vasos tipo H, facilitando la acreción mineral y la osteointegración en hueso osteoporótico.
-* **Importancia médica:** Supera el fenómeno de pérdida ósea por rebote vinculado al cese de terapias biológicas basadas en neutralización reversible del ligando RANKL, promoviendo estabilidad protésica localizada.
-* **Limitación principal:** Modelo experimental de laboratorio; requiere evaluación de biocompatibilidad a largo plazo, farmacocinética local y ensayos clínicos controlados antes de su aplicación ortopédica humana.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42835104/
-
----
-
-### 3. Modificación de cardiomiocitos mediante química *click* para reparación tras lesión por isquemia-reperfusión
-* **Título:** Click chemistry-modified cardiomyocytes enhance cardiac contractility and prevent remodeling in ischemia-reperfusion injured hearts.
-* **Fecha:** 2027
-* **Revista:** *Bioactive materials*
-* **Tipo de estudio:** Estudio experimental *in vivo* (modelo en rata).
-* **Nivel de evidencia:** Preclínica.
-* **Hallazgo:** Cardiomiocitos derivados de células madre pluripotentes humanas (hPSC-CMs) funcionalizados en su superficie con péptidos de hibridación de colágeno (CHP) mostraron mayor anclaje y retención en las zonas de colágeno desnaturalizado del miocardio infartado. En ratas con lesión por isquemia-reperfusión, la inyección a los 7 días post-infarto produjo mejoría en la contractilidad cardíaca evaluada por ecocardiografía y mitigó el remodelado ventricular adverso a lo largo de 6 semanas.
-* **Importancia médica:** Aborda directamente la barrera de baja retención celular en terapias regenerativas cardíacas, un factor limitante histórico en la medicina regenerativa cardiovascular.
-* **Limitación principal:** Estudio realizado exclusivamente en roedores; no evalúa arritmogénesis a gran escala ni respuestas inmunitarias en modelos de organismos superiores o ensayos clínicos.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780908/
-
----
-
-### 4. Conducto bioeléctrico espaciotemporal para regeneración de nervio periférico mediante modulación de ferroptosis
-* **Título:** A programmable spatiotemporal bioelectrical conduit promotes peripheral nerve regeneration by suppressing ferroptosis through modulation of ER-mitochondria coupling in Schwann cells.
-* **Fecha:** 2027
-* **Revista:** *Bioactive materials*
-* **Tipo de estudio:** Estudio experimental mecanístico *in vitro* e *in vivo*.
-* **Nivel de evidencia:** Preclínica / Experimental.
-* **Hallazgo:** Se diseñó un conducto neural bicapa compuesto por un hidrogel piezoeléctrico de GelMA/BaTiO3 sensible a ultrasonidos acoplado a fibras electroconductoras alineadas. La estimulación bioeléctrica suprimió la sobreexpresión de GRP75, desensamblando el complejo IP3R1-GRP75-VDAC1 en la unión retículo endoplásmico-mitocondria, restaurando la fosforilación oxidativa e inhibiendo la ferroptosis en células de Schwann. En modelos animales promovió la regeneración axonal, maduración de mielina y recuperación muscular motora a niveles comparables al injerto autólogo.
-* **Importancia médica:** Esclarece un mecanismo biológico directo (acoplamiento organelar y muerte celular regulada por ferroptosis) susceptible de rescate biofísico en lesiones graves de nervios periféricos.
-* **Limitación principal:** Modelo experimental de prueba de concepto preclínica; la efectividad en defectos de brecha crítica larga en humanos aún no ha sido investigada ni validada.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781229/
-
----
-
-### 5. Sensores ópticos de última generación para diagnóstico ultratemprano de enfermedades neurodegenerativas
-* **Título:** Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
-* **Fecha:** 2027
-* **Revista:** *Talanta*
-* **Tipo de estudio:** Revisión integrativa de tecnologías diagnósticas.
-* **Nivel de evidencia:** Emergente / Experimental.
-* **Hallazgo:** Plataformas fotónicas avanzadas (SERS nanoestructurado, microcavidades WGM y chips microfluídicos) logran límites de detección femtomolares y attomolares para biomarcadores clave de Alzheimer y Parkinson (Aβ, proteína tau, α-sinucleína, dopamina y cadenas ligeras de neurofilamento [NfL]) en fluidos biológicos mínimamente invasivos, complementadas por análisis asistido por inteligencia artificial.
-* **Importancia médica:** Plantea el potencial de superar la invasividad de la punción lumbar para LCR y el alto costo de la neuroimagen molecular (PET), facilitando la detección en fases preclínicas o prodrómicas.
-* **Limitación principal:** La mayoría de las plataformas continúan en fase de desarrollo analítico y de laboratorio; carecen de validación clínica multicéntrica y estandarización analítica contra los estándares de referencia actuales.
-* **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42772054/
+* **Hallazgo clave:** Bacterias vivas no colonizadoras (*Lactococcus lactis*) modificadas mediante ingeniería genética para expresar ILP317 (inhibidor peptídico no inmunoglobulínico dirigido a la subunidad p19 de IL-23) redujeron el índice de actividad de la enfermedad, el acortamiento colónico y la infiltración celular mucosa en modelos murinos de colitis inducida químicamente (DSS y TNBS). El bloqueo de p19 (ILP317) oral superó al bloqueo de IL-23R (REX115).
+* **Importancia médica:** Explora una vía de administración oral de fármacos biológicos para la enfermedad inflamatoria intestinal (EII), lo que evitaría la necesidad de anticuerpos monoclonales inyectables parenterales.
+* **Limitación:** Modelo murino con inflamación inducida de forma química aguda; la respuesta inmunitaria y la farmacocinética luminal en el tracto digestivo humano pueden variar sustancialmente.
+* **Enlace:** [PubMed: 42828737](https://pubmed.ncbi.nlm.nih.gov/42828737/)
 
 ---
 
 ## OTROS HALLAZGOS RELEVANTES
 
-* **Plataformas de administración nasal directa al parénquima cerebral (N2B):**
-  * *Kim Y et al. Drug delivery (2026).* [PMID: 42820785](https://pubmed.ncbi.nlm.nih.gov/42820785/)
-  * *Tipo y Evidencia:* Revisión conceptual; Marco emergente/experimental.
-  * *Hallazgo:* Reconceptualiza la vía nariz-cerebro no solo como un paso transepitelial, sino como una cascada dependiente de la redistribución por líquido cefalorraquídeo y espacio perivascular (glinfático) para lograr exposición parenquimatosa profunda de fármacos y complejos CRISPR.
-  * *Importancia y Limitación:* Proporciona un marco biofísico para evitar el fracaso en biodisponibilidad SNC, pero aún carece de formulaciones clínicas estandarizadas.
-
-* **Biomateriales basados en galio y marco de "Accesibilidad Biológica":**
-  * *Zhou Y et al. Bioactive materials (2027).* [PMID: 42781445](https://pubmed.ncbi.nlm.nih.gov/42781445/)
-  * *Tipo y Evidencia:* Revisión / Marco experimental.
-  * *Hallazgo:* Propone la optimización de la cinética de intercambio de ligandos de galio (mimetizador de hierro) para regular su función antimicrobiana, antineoplásica y regenerativa ósea en ventanas espacio-temporales diana y minimizar la toxicidad fuera de objetivo.
-  * *Importancia y Limitación:* Establece pautas bioinorgánicas para diseño de fármacos, pero su traslación clínica requiere extensos estudios toxicológicos *in vivo*.
-
-* **Biosensores bacterianos genéticamente codificados para circuitos teranósticos:**
-  * *Xu J et al. Synthetic and systems biotechnology (2027).* [PMID: 42831006](https://pubmed.ncbi.nlm.nih.gov/42831006/)
-  * *Tipo y Evidencia:* Revisión; Fase experimental sintética.
-  * *Hallazgo:* Empleo de factores de transcripción alostéricos y sistemas de dos componentes integrados en probióticos microbianos modificados para detección continua *in situ* y secreción terapéutica regulada en lazo cerrado.
-  * *Importancia y Limitación:* Promete medicina de precisión autónoma; sus riesgos biológicos de contención genética y estabilidad funcional impiden su uso clínico inmediato.
-
-* **Optimización algorítmica por Machine Learning en tecnología CRISPR:**
-  * *Liyanage R et al. Machine learning. Health (2026).* [PMID: 42775150](https://pubmed.ncbi.nlm.nih.gov/42775150/)
-  * *Tipo y Evidencia:* Revisión; Herramienta bioinformática/computacional.
-  * *Hallazgo:* Aplicación de modelos de aprendizaje automático para predecir el reconocimiento del motivo adyacente al protoespaciador (PAM), optimizar el diseño de secuencias de ARN guía y reducir efectos fuera de diana (*off-target*).
-  * *Importancia y Limitación:* Aumenta la seguridad en la edición génica celular; los algoritmos requieren validación empírica sistemática en diferentes líneas celulares humanas.
-
-* **Mecanismos osteogénicos de Honokiol mediados por SIRT3:**
-  * *Xie S et al. Pharmaceutical biology (2026).* [PMID: 42852533](https://pubmed.ncbi.nlm.nih.gov/42852533/)
-  * *Tipo y Evidencia:* Estudio experimental preclínico *in vitro* e *in vivo*.
-  * *Hallazgo:* El biphenol honokiol induce mineralización osteoblástica y repara fracturas femorales en ratones ovariectomizados a través de la vía de SIRT3; el bloqueo mediante AAV-shSIRT3 revierte selectivamente los beneficios óseos estructurales.
-  * *Importancia y Limitación:* Identifica una diana para la pérdida ósea posmenopáusica, pero carece de datos de biodisponibilidad y tolerabilidad en humanos.
-
-* **Dinámica inmunológica en el modelo murino de artritis por colágeno (CIA):**
-  * *Liu L et al. Autoimmunity (2026).* [PMID: 42815948](https://pubmed.ncbi.nlm.nih.gov/42815948/)
-  * *Tipo y Evidencia:* Estudio observacional experimental preclínico.
-  * *Hallazgo:* Caracteriza la polarización M1 temprana, activación sostenida de células dendríticas, aumento de linfocitos Th1/Th17/Tfh, neutrofilia persistente y desequilibrio TNF-α/TGF-β1 en ratones C57BL/6.
-  * *Importancia y Limitación:* Modela la patogenia inmunológica de la artritis reumatoide, pero las discrepancias con el sistema inmune humano limitan la extrapolación directa de nuevas dianas.
-
-* **Hilos de hidrogel de colágeno densificados por torsión para ingeniería de tendón:**
-  * *Xie Y et al. Bioactive materials (2027).* [PMID: 42781499](https://pubmed.ncbi.nlm.nih.gov/42781499/)
-  * *Tipo y Evidencia:* Estudio experimental de ingeniería de tejidos.
-  * *Hallazgo:* Proceso de supercompactación helicoidal que incrementa el módulo mecánico y tenacidad del colágeno reconstituido al rango de tendones nativos, preservando una viabilidad celular de fibroblastos superior al 90%.
-  * *Importancia y Limitación:* Solución al compromiso entre resistencia mecánica y bioactividad celular; pendiente de estudios de fatiga y degradación *in vivo*.
-
-* **Nichos mecánicos asimétricos para maduración folicular ovárica:**
-  * *Liu S et al. Bioactive materials (2027).* [PMID: 42761305](https://pubmed.ncbi.nlm.nih.gov/42761305/)
-  * *Tipo y Evidencia:* Estudio experimental biomimético *in vitro*.
-  * *Hallazgo:* Un andamio de microcavidades agarose/alginato que reproduce la rigidez cortical y médula blanda aumentó la formación de blastocistos murinos del 7,7% al 34,5% vía señalización PI3K/Akt.
-  * *Importancia y Limitación:* Avance en preservación de fertilidad asistida; el rendimiento sigue por debajo del control ovulatorio *in vivo* y no ha sido validado en tejido humano.
-
-* **Variabilidad en edición CRISPR de cigotos según origen *in vivo* vs *in vitro*:**
-  * *Rahimi M et al. Theriogenology (2027).* [PMID: 42810238](https://pubmed.ncbi.nlm.nih.gov/42810238/)
-  * *Tipo y Evidencia:* Estudio experimental en modelo bovino.
-  * *Hallazgo:* Cigotos obtenidos *in vivo* presentaron menor supervivencia y menor tasa general de edición génica por electroporación respecto a los obtenidos *in vitro*, pero exhibieron menor mosaicismo genético y mayor tasa de ediciones monoalélicas.
-  * *Importancia y Limitación:* Demuestra que las propiedades biofísicas celulares basales alteran sustancialmente la transfección, aspecto crucial para la terapia génica embrionaria; restringido a biología bovina.
-
-* **Anticuerpos dirigidos al receptor de FSH para anticoncepción masculina en veterinaria:**
-  * *Navanukraw P et al. Theriogenology (2027).* [PMID: 42804870](https://pubmed.ncbi.nlm.nih.gov/42804870/)
-  * *Tipo y Evidencia:* Revisión narrativa preclínica veterinaria.
-  * *Hallazgo:* El bloqueo selectivo de FSHr en células de Sertoli mediante fragmentos scFv suprime la espermatogénesis sin alterar la función de las células de Leydig ni las concentraciones séricas de testosterona.
-  * *Importancia y Limitación:* Concepto de preservación endocrina en control reproductivo; datos limitados a modelos animales (macacos, caninos, felinos) sin traslación a endocrinología humana.
-
-* **Sensor nanozimático de puntos de carbono para identificación de biotioles:**
-  * *Li XM et al. Spectrochimica acta. Part A (2027).* [PMID: 42748728](https://pubmed.ncbi.nlm.nih.gov/42748728/)
-  * *Tipo y Evidencia:* Estudio de desarrollo analítico / Bioquímica diagnóstica.
-  * *Hallazgo:* Nanomaterial de carbono dopado con hierro combina fluorescencia y actividad tipo peroxidasa para clasificar 10 biotioles y discriminar células tumorales de sanas en matriz sérica.
-  * *Importancia y Limitación:* Herramienta analítica diagnóstica *in vitro*; no ha demostrado su rendimiento en cohortes de pacientes con patologías metabólicas u oncológicas activas.
-
-* **Red convolucional temporal para microscopía CARS de banda ancha:**
-  * *Yang K et al. Spectrochimica acta. Part A (2027).* [PMID: 42753634](https://pubmed.ncbi.nlm.nih.gov/42753634/)
-  * *Tipo y Evidencia:* Estudio metodológico computacional/biofotónico.
-  * *Hallazgo:* Red neuronal convolucional dilatada que elimina el ruido de fondo no resonante en espectros Raman en 0,58 ms con un R² > 0,95, facilitando la imagen química libre de marcaje en tiempo real.
-  * *Importancia y Limitación:* Optimización técnica de bioimagen; su utilidad patológica intraoperatoria humana permanece aún sin comprobar.
-
-* **Evaluación del desempeño de modelos LLM en exámenes biomédicos:**
-  * *Cheverko CM et al. Anat Sci Educ (2026).* [PMID: 42153764](https://pubmed.ncbi.nlm.nih.gov/42153764/)
-  * *Tipo y Evidencia:* Metanálisis de educación médica.
-  * *Hallazgo y Limitación:* Cuantificación del rendimiento de modelos de lenguaje tipo ChatGPT en preguntas de opción múltiple de ciencias biomédicas (resumen no provisto en el texto fuente).
-
-* **Adaptación transcultural de currículo de salud sexual en Brasil:**
-  * *Neto TA et al. Sex Med (2026).* [PMID: 42769748](https://pubmed.ncbi.nlm.nih.gov/42769748/)
-  * *Tipo y Evidencia:* Estudio de educación médica / Salud pública (resumen no provisto en el texto fuente).
-
-* **Inteligencia artificial en citología tiroidea (PAAF):**
-  * *Satturwar S et al. Cancer Cytopathol (2026).* [PMID: 42779199](https://pubmed.ncbi.nlm.nih.gov/42779199/)
-  * *Tipo y Evidencia:* Estudio observacional clínico diagnóstico (resumen no provisto en el texto fuente).
-
-* **Proteómica espacial en melanoma temprano:**
-  * *Szadai L et al. Int J Dermatol (2026).* [PMID: 42808946](https://pubmed.ncbi.nlm.nih.gov/42808946/)
-  * *Tipo y Evidencia:* Revisión narrativa de diagnóstico molecular (resumen no provisto en el texto fuente).
-
-* **Vesículas extracelulares en alopecia androgenética:**
-  * *Tang WZ et al. Int J Nanomedicine (2026).* [PMID: 42756864](https://pubmed.ncbi.nlm.nih.gov/42756864/)
-  * *Tipo y Evidencia:* Revisión sobre terapias regenerativas capilares (resumen no provisto en el texto fuente).
-
-* **Sustitutos cutáneos celulares libres de componentes animales:**
-  * *Lemaître G et al. Adv Healthc Mater (2026).* [PMID: 42629982](https://pubmed.ncbi.nlm.nih.gov/42629982/)
-  * *Tipo y Evidencia:* Revisión sobre ingeniería de tejidos dermatológicos (resumen no provisto en el texto fuente).
+* **Molécula teranóstica mitocondrial en cáncer cervical:** El compuesto LN1 se une al ADN G-cuádruplex mitocondrial (mtG4), permitiendo imagen celular por fluorescencia e induciendo disfunción mitocondrial, depleción de ATP y apoptosis mediada por caspasas en xenoinjertos con eficacia similar a topotecán (*Spectrochim Acta A*, 2027) [PMID: 42759413](https://pubmed.ncbi.nlm.nih.gov/42759413/). (*Evidencia preclínica*).
+* **Sensor electroquímico para ampicilina basado en biocarbón:** Plataforma modificada con biocarbón de residuos de café que detecta ampicilina mediante voltamperometría en suero humano y matrices ambientales con un límite de detección de 3.3 nM, permitiendo monitorización de residuos antibióticos sin solventes tóxicos (*Talanta*, 2027) [PMID: 42762756](https://pubmed.ncbi.nlm.nih.gov/42762756/). (*Evidencia experimental analítica*).
+* **Ciclodextrinas como agentes encapsulantes:** Revisión exhaustiva sobre sus propiedades fisicoquímicas, formación de complejos de inclusión y capacidad de aumentar la solubilidad acuosa, estabilidad y biodisponibilidad de fármacos hidrofóbicos (*Biomater Adv*, 2027) [PMID: 42748884](https://pubmed.ncbi.nlm.nih.gov/42748884/). (*Evidencia consolidada en tecnología farmacéutica*).
+* **Impacto del precio y enfoque de mensajes en vacunación antigripal:** Ensayo conductual con 1,408 estudiantes universitarios en China; cuando la vacuna tiene un costo económico, los mensajes centrados en pérdidas individuales superan a los colectivistas para aumentar la intención de vacunación, efecto mediado por la percepción de severidad y eficacia (*Hum Vaccin Immunother*, 2026) [PMID: 42850200](https://pubmed.ncbi.nlm.nih.gov/42850200/). (*Evidencia observacional/conductual*).
+* **Perspectivas sobre ensayos de cura del VIH en mujeres y migrantes:** Estudio cualitativo en Australia que destaca barreras de participación como la desconfianza, miedo a la revelación serológica y falta de información, frente a facilitadores clave como el vínculo médico-paciente (*HIV Res Clin Pract*, 2026) [PMID: 42832628](https://pubmed.ncbi.nlm.nih.gov/42832628/). (*Evidencia cualitativa*).
+* **Modelización epidemiológica del tiempo de generación con portadores asintomáticos:** Desarrollo analítico de un modelo estocástico no markoviano de tiempo discreto que formaliza cómo los periodos de latencia e infecciosidad en asintomáticos modulan la distribución del tiempo de generación en cadenas de transmisión (*Infect Dis Model*, 2027) [PMID: 42828240](https://pubmed.ncbi.nlm.nih.gov/42828240/). (*Evidencia matemática/teórica*).
+* **Contaminación ambiental y salud cardiorrespiratoria:** Revisión sobre vías fisiopatológicas por las que el material particulado y contaminantes atmosféricos exacerban insuficiencia cardíaca, asma y EPOC (*Med Gas Res*, 2027) [PMID: 42714194](https://pubmed.ncbi.nlm.nih.gov/42714194/). (*Evidencia consolidada en salud pública*).
+* **Péptido antimicrobiano CATH-1 en preservación seminal animal:** Ensayo en gallos demostrando que CATH-1 a 3.75 µg/mL ejerce un control bacteriano comparable a la kanamicina sin afectar la fertilidad, pero dosis mayores provocan toxicidad espermática directa (*Theriogenology*, 2027) [PMID: 42810235](https://pubmed.ncbi.nlm.nih.gov/42810235/). (*Evidencia preclínica veterinaria*).
+* **Determinantes de la transición fetal-neonatal en caninos:** Estudio de variables perinatales que demuestran que cesáreas prolongadas incrementan el estrés oxidativo y retrasan el aclaramiento pulmonar neonatal (*Theriogenology*, 2027) [PMID: 42810239](https://pubmed.ncbi.nlm.nih.gov/42810239/). (*Evidencia fisiológica veterinaria*).
+* **Estandarización del análisis de tegumento de *Schistosoma mansoni*:** Protocolo metodológico combinado (SEM, TEM, CLSM) para análisis ultraestructural del parásito (*Micron*, 2027) [PMID: 42822059](https://pubmed.ncbi.nlm.nih.gov/42822059/). (*Metodología preclínica*).
 
 ---
 
 ## QUÉ DEBERÍA ESTUDIAR
 
-1. **Vía de señalización RANK / RANKL / Osteoprotegerina (OPG):**  
-   *Fundamento:* Revisar el eje osteoblasto-osteoclasto en el remodelado óseo y los mecanismos lisosomales de degradación dirigida de receptores de membrana celular (LYTACs).
-
-2. **Mecanismos bioquímicos de ferroptosis y acoplamiento RE-Mitocondria:**  
-   *Fundamento:* Comprender la interacción del complejo IP3R1-GRP75-VDAC1 en la transferencia de calcio, estrés oxidativo mitocondrial y vías de muerte celular no apoptótica dependiente de hierro en procesos de neurodegeneración y reparación axónica.
-
-3. **Inmunobiología de citocinas y polarización linfocitaria (Th1 / Th17 / Tfh vs Treg / Breg):**  
-   *Fundamento:* Reexaminar el equilibrio de mediadores inflamatorios (IL-1, TNF-α, IL-6 frente a IL-10 y TGF-β) que rigen tanto el daño tisular autoinmune (artritis reumatoide) como los fenómenos inflamatorios neurodel desarrollo.
-
-4. **Biofísica del transporte en el sistema nervioso central y vía glinfática:**  
-   *Fundamento:* Estudiar la barrera hematoencefálica, el flujo de líquido cefalorraquídeo a través de los espacios de Virchow-Robin (perivasculares) y las limitaciones de biodisponibilidad parenquimatosa para formulaciones farmacológicas e ingeniería genética.
-
-5. **Biología molecular de células de Sertoli y Leydig (Eje Hipotálamo-Hipófisis-Gonadal):**  
-   *Fundamento:* Discriminar las funciones independientes del receptor de FSH (control de la espermatogénesis en Sertoli) frente a LH (esteroidogénesis y testosterona en Leydig).
+1. **Eje hipotálamo-hipófisis-gonadal y modulación por aromatasa:** Revisar el mecanismo de retroalimentación negativa que ejercen los estrógenos a nivel hipotalámico/hipofisario en el varón y comprender por qué la inhibición de la enzima aromatasa (CYP19A1) eleva LH, FSH y testosterona, así como los riesgos esqueléticos del hipoestrogenismo en hombres.
+2. **Farmacocinética y farmacodinamia (PK/PD) de betalactámicos en sepsis:** Analizar los parámetros que condicionan la eficacia de fármacos tiempo-dependientes (como el tiempo en que la concentración libre supera la CMI, $\%fT > \text{CMI}$), los cambios en el volumen de distribución y la justificación clínica de la monitorización terapéutica continua de meropenem en UCI.
+3. **Inmunobiología de la vía IL-23/IL-17 en patología inflamatoria intestinal:** Estudiar el papel fisiopatológico de la subunidad p19 de IL-23 en la diferenciación y mantenimiento de linfocitos Th17 en la mucosa colónica y contrastar el bloqueo biológico tradicional frente a alternativas de liberación entérica local.
 
 ---
 
 ## ALERTAS DE EVIDENCIA
 
-* **Alerta Preclínica — Terapias con Vesículas Extracelulares en TEA:**  
-  Los datos del metanálisis de Mohtashami et al. proceden exclusivamente de **modelos murinos** (5 estudios). La mejoría comportamental en ratones no predice de forma directa eficacia conductual ni seguridad en humanos. No existen ensayos clínicos fase III que respalden su prescripción.
-
-* **Alerta Metodológica — Estudios sin resumen empírico en la fuente:**  
-  Múltiples registros (p. ej., aplicaciones de IA en linfedema de cáncer de mama, fenotipificación de osteoartritis, brecha traslacional en cáncer de mama triple negativo, y aplicación de ChatGPT en educación médica) constan en la base sin datos primarios ni resúmenes técnicos en los registros suministrados. Sus títulos reflejan hipótesis u objetivos de investigación, no resultados confirmados ni guías clínicas aplicables.
-
-* **Alerta de Aplicación Práctica — Estudios no biomédicos en la base:**  
-  Se identifican artículos estrictamente agropecuarios o botánicos (evaluación de clorofila en hojas de nogal en Xinjiang [Yerzati et al.] y autenticación geográfica de granos de café arábica mediante imágenes RGB [Lu S et al.]). Carecen de pertinencia médica y traslación clínica para la práctica médica o la formación académica en ciencias de la salud.
+* **Inhibidores de la aromatasa en dopaje y terapia post-ciclo (PCT):** *Atención:* La elevación de testosterona sérica lograda farmacológicamente con IA en varones no debe asumirse como ganancia objetiva de fuerza, potencia o masa muscular magra ni mejoría del bienestar funcional. El descenso de estradiol puede acarrear complicaciones metabólicas y óseas.
+* **Extrapolación preclínica (AKBA@E-N y *L. lactis* recombinante):** Los resultados favorables observados en modelos murinos para consolidación ósea y colitis no son directamente trasladables al régimen terapéutico en humanos. No demuestran seguridad ni eficacia clínica hasta superar fases de ensayo clínico reguladas.
+* **Validación analítica vs. utilidad clínica (Biomarcadores y biosensores):** El hallazgo de que el sensor para meropenem o la tecnología CRISPR-AMPED tengan alta sensibilidad analítica (límites de detección en µg/mL o attomolar) no demuestra per se que su integración en UCI o urgencias reduzca morbimortalidad en pacientes críticos; se requieren ensayos clínicos controlados pragmáticos.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Behavioural brain research
-**Tipo:** Journal Article, Meta-Analysis, Systematic Review
-**Autores:** Mohtashami T, Aghayan AH, Masoudi A, Atashi A, Garmabi B, Jamalpoor Z, Khaksari M
-**PMID:** 42759891  **DOI:** 10.1016/j.bbr.2026.116478
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759891/
-
-### 2. Artificial Intelligence for Prediction of Breast Cancer–Related Lymphedema: A Systematic Review
-**Área:** Inteligencia artificial y tecnología médica
+### 1. Prevalence, Incidence, and Impact of Cancer in Atrial Fibrillation: A Systematic Review and Meta-Analysis of 70,000,000 Patients.
+**Área:** Cardiología y medicina vascular
 **Fecha:** 2026-10-01
-**Revista:** Plast Reconstr Surg Glob Open
+**Revista:** Health Sci Rep
 **Tipo:** No especificado
-**Autores:** Mortada H, Al-Khafaji M, Jefri Z, Sultan F, Alrobaiea S, Alshomer F.
-**PMID:** —  **DOI:** —
+**Autores:** Yang L, Mao S, Wang L, Fan H, Zhang W, Wang M, Wang Y, Hao L, Yang Z, Liang B.
+**PMID:** 42827652  **DOI:** 10.1002/hsr2.73099
 **Fuente:** Europe PMC
-**Enlace:** —
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42827652/
 
-### 3. The performance of ChatGPT and other large language models on multiple-choice questions in biomedical disciplines: A meta-analysis.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2026-05-19
-**Revista:** Anat Sci Educ
+### 2. Transcatheter aortic valve replacement in failed transcatheter versus failed surgical bioprostheses: a systematic review with exploratory meta-analysis.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2026-09-18
+**Revista:** Front Cardiovasc Med
 **Tipo:** No especificado
-**Autores:** Cheverko CM, Mavrych V, Bolgova O, Mohamed FRR, Westrick J, Juarez L, Rush E, Solka KA, Doubleday AF, Byram JN, Becker R, Gomez V, Ganeng BKA, Hoffman LA, Roach VA, Brown KM, DeVaul N, Garnett CN, Herriott HL, Lufler RS, Mussell JC, Balta JY, Pascoe MA, Middleton JW, Duffy S, Stephens GC, Wilson AB.
-**PMID:** 42153764  **DOI:** 10.1002/ase.70262
+**Autores:** Ghannam M, Abomohsen M, Idries IY, Shamoon F, Ghallab M, Zghyer F, González AV, Ahmad A, Habib HA, Vasudev R.
+**PMID:** 42827486  **DOI:** 10.3389/fcvm.2026.1870804
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42153764/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42827486/
 
-### 4. Translation, cross-cultural adaptation of longitudinal curriculum objectives in sexual health to Brazilian medical education.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2026-09-21
-**Revista:** Sex Med
+### 3. Predictive Value of Respiratory Parameters for Non-invasive Ventilation Failure in Acute Respiratory Failure: A Systematic Review.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-08-19
+**Revista:** Cureus
 **Tipo:** No especificado
-**Autores:** Neto TA, de Oliveira Valentino TC, Facio Junior FN.
-**PMID:** 42769748  **DOI:** 10.1093/sexmed/qfag090
+**Autores:** Mohammed Ramadan MA, Sabier Ali LME, Mohammed Elamin AM, Mohamed Ibrahim EM, Abdalkareem Abaker IS, Sidahmed Osman OA, Elfaki Omer EO.
+**PMID:** 42763529  **DOI:** 10.7759/cureus.114823
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42769748/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42763529/
 
-### 5. Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
-**Área:** Inteligencia artificial y tecnología médica
+### 4. Antibiotic Use, Bacterial Co-Infection, and Antimicrobial Resistance in Adults Hospitalized with COVID-19, Influenza, or RSV: A Systematic Review and Meta-Analysis.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-06-30
+**Revista:** Antibiotics (Basel)
+**Tipo:** No especificado
+**Autores:** Lucaciu FC, Rosca O, Mihai AM, Sima A, Suba MI, Wellmann N, Rosian A, Oancea C, Cialma M, Tarau A, Bosoanca A, Marc M.
+**PMID:** 42505617  **DOI:** 10.3390/antibiotics15070654
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42505617/
+
+### 5. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2026-09-01
+**Revista:** J Clin Apher
+**Tipo:** No especificado
+**Autores:** Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.
+**PMID:** 42747330  **DOI:** 10.1002/jca.70141
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
+
+### 6. Portal Vein Thrombosis Risk in Cirrhotic Patients With Portal Hypertension on Beta-Blockers: A Multi-Institutional Cohort Study.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-01
+**Revista:** Liver Int
+**Tipo:** No especificado
+**Autores:** Abosheaishaa H, Elfert K, Abusuliman M, Ismail A, Olimy A, Alzamzamy AE, Omran A, Rizzo V, Nassar M, El-Kassas M.
+**PMID:** 42642993  **DOI:** 10.1111/liv.70843
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42642993/
+
+### 7. Multifunctional molecular encapsulating agents - Cyclodextrins: Physicochemical properties, safety, solubility, bioavailability and applications in pharmaceuticals and foods.
+**Área:** Farmacología y nuevos tratamientos
 **Fecha:** 2027
-**Revista:** Talanta
+**Revista:** Biomaterials advances
 **Tipo:** Journal Article, Review
-**Autores:** Usmani MW, Rahim A, Farid F, Mahmoud ERI, Hayat A, Wang J
-**PMID:** 42772054  **DOI:** 10.1016/j.talanta.2026.130609
+**Autores:** Chandra S, Kotnala S, Dhyani A, Domiciano CB, de Azevedo Lima M, Coutinho HDM
+**PMID:** 42748884  **DOI:** 10.1016/j.bioadv.2026.215177
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42772054/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42748884/
 
-### 6. Dynamic coordination engineering of gallium biomaterials: A biological accessibility framework for therapeutic biofunction.
-**Área:** Inteligencia artificial y tecnología médica
+### 8. Aromatase inhibitors as endocrine modulators: From breast cancer therapy to male off-label use and doping practice.
+**Área:** Farmacología y nuevos tratamientos
+**Fecha:** 2027
+**Revista:** The Journal of steroid biochemistry and molecular biology
+**Tipo:** Journal Article, Review
+**Autores:** Bandura A, Ďurina P, Čambál E, Kečkéš Š
+**PMID:** 42735742  **DOI:** 10.1016/j.jsbmb.2026.107121
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42735742/
+
+### 9. Factors influencing success in the fetal-neonatal transition in dogs.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2027
+**Revista:** Theriogenology
+**Tipo:** Journal Article, Review
+**Autores:** Vannucchi CI
+**PMID:** 42810239  **DOI:** 10.1016/j.theriogenology.2026.118220
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810239/
+
+### 10. Breathing in harm: current insights into the effects of air pollution on cardiorespiratory health.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2027
+**Revista:** Medical gas research
+**Tipo:** Journal Article, Review
+**Autores:** Michou V, Tsamos D, Itziou A, Tsanaktsidis C
+**PMID:** 42714194  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00201
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42714194/
+
+### 11. Prehospital PEEP for Acute Respiratory Distress: Protocol for a Scoping Review.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-09-01
+**Revista:** Acta Anaesthesiol Scand
+**Tipo:** No especificado
+**Autores:** Wittrock D, Bauer JM, Hägi-Pedersen D, Christensen HC, Mikkelsen S, Brøchner AC.
+**PMID:** 42528123  **DOI:** 10.1111/aas.70314
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42528123/
+
+### 12. Racial, Ethnic, and Immigration-Related Disparities Across the Gastrointestinal Care Continuum: A Scoping Review.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-08
+**Revista:** J Clin Med
+**Tipo:** No especificado
+**Autores:** Thomas R, Belghiti M, Tran HR, Tandon P.
+**PMID:** 42795734  **DOI:** 10.3390/jcm15186961
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42795734/
+
+### 13. Aptamer-functionalized EGCG nanocarrier for neutrophil-targeted AKBA delivery promotes anxiety-related fracture healing.
+**Área:** Farmacología y nuevos tratamientos
 **Fecha:** 2027
 **Revista:** Bioactive materials
-**Tipo:** Journal Article, Review
-**Autores:** Zhou Y, Peng W, Shi J, Pedraz JL, Gu Z, He Y
-**PMID:** 42781445  **DOI:** 10.1016/j.bioactmat.2026.09.008
+**Tipo:** Journal Article
+**Autores:** Ouyang L, Zhang Y, Liao J, Zhang Z, He X, Lin Z, Tao R, Xie X
+**PMID:** 42831169  **DOI:** 10.1016/j.bioactmat.2026.09.028
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781445/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831169/
 
-### 7. Artificial intelligence in the biomechanics of knee osteoarthritis: biomechanical phenotyping, risk stratification, diagnosis, treatment and clinical translation—a narrative review
-**Área:** Inteligencia artificial y tecnología médica
-**Fecha:** 2026-10-09
-**Revista:** Front Bioeng Biotechnol
-**Tipo:** No especificado
-**Autores:** Zhang B, Yu X, Zhang Z, Zhou X, Zhao W, Zhao C.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 8. Advances and perspectives in genetically encoded biosensors for biomarker detection and theranostic circuits.
-**Área:** Genética, genómica y medicina molecular
+### 14. Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.
+**Área:** Farmacología y nuevos tratamientos
 **Fecha:** 2027
-**Revista:** Synthetic and systems biotechnology
-**Tipo:** Journal Article, Review
-**Autores:** Xu J, Qi Q, Wang Q
-**PMID:** 42831006  **DOI:** 10.1016/j.synbio.2026.09.006
+**Revista:** Biosensors & bioelectronics
+**Tipo:** Journal Article
+**Autores:** Bayford RH, Nathaniel NN, Shah AJ, Appiah S, Jiang D, Brealey D, Singer M, Demosthenous A
+**PMID:** 42777284  **DOI:** 10.1016/j.bios.2026.119218
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831006/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42777284/
 
-### 9. Redefining intranasal brain delivery: from nasal entry to meaningful parenchymal and cellular exposure.
-**Área:** Genética, genómica y medicina molecular
+### 15. CRISPR-AMPED: A CRISPR/Cas-based immunoassay with attomolar sensitivity enabled by magnetic proximity extension and detection.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2027
+**Revista:** Biosensors & bioelectronics
+**Tipo:** Journal Article
+**Autores:** Shao F, Hu J, Traylor A, Lei H, Zhang P, Akarapipad P, Park JS, Hsieh K
+**PMID:** 42764010  **DOI:** 10.1016/j.bios.2026.119227
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42764010/
+
+### 16. Artificial intelligence and radiomics in drug-induced interstitial lung disease.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-05-05
+**Revista:** ERJ Open Res
+**Tipo:** No especificado
+**Autores:** Marchi G, Fanni SC, Mercier M, Cefalo J, Salerni C, Ferioli M, Candoli P, Romei C, Gori L, Cucchiara F, Cenerini G, Guglielmi G, Pistelli F, Carrozzi L, Mondoni M.
+**PMID:** 42094223  **DOI:** 10.1183/23120541.01150-2025
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42094223/
+
+### 17. Oral delivery of recombinant Lactococcus lactis expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.
+**Área:** Gastroenterología, hepatología y nutrición
 **Fecha:** 2026
 **Revista:** Drug delivery
-**Tipo:** Journal Article, Review
-**Autores:** Kim Y, Yun CO, Yoon AR
-**PMID:** 42820785  **DOI:** 10.1080/10717544.2026.2738285
+**Tipo:** Journal Article
+**Autores:** Kopecna E, Raskova Kafkova L, Kosztyu P, Sloupenska K, Zachova K, Cutkova A, Skarda J, Vaculova J
+**PMID:** 42828737  **DOI:** 10.1080/10717544.2026.2726654
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42820785/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828737/
 
-### 10. Machine-learning in optimization of CRISPR technology.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026
-**Revista:** Machine learning. Health
-**Tipo:** Journal Article, Review
-**Autores:** Liyanage R, Jin L, Chen SJ
-**PMID:** 42775150  **DOI:** 10.1088/3049-477X/aea331
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42775150/
-
-### 11. Spatial Proteomics as a Potential Decision-Support Layer for Early Melanoma: A Narrative Review.
-**Área:** Inteligencia artificial y tecnología médica
-**Fecha:** 2026-10-01
-**Revista:** Int J Dermatol
-**Tipo:** No especificado
-**Autores:** Szadai L, Gil J, Marko-Varga G.
-**PMID:** 42808946  **DOI:** 10.1111/ijd.70665
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42808946/
-
-### 12. Hormone-sparing non-surgical male contraception in dogs and cats: Current strategies and the emerging role of FSH receptor-targeted antibody fragments.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article, Review
-**Autores:** Navanukraw P, Kunkitti P, Chatdarong K
-**PMID:** 42804870  **DOI:** 10.1016/j.theriogenology.2026.118222
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42804870/
-
-### 13. Fast and compact temporal convolutional network for non-resonant background removal in broadband CARS.
-**Área:** Inteligencia artificial y tecnología médica
+### 18. Targeting mitochondrial G-quadruplex DNA with a theragnostic small molecule for cervical Cancer imaging and therapy.
+**Área:** Farmacología y nuevos tratamientos
 **Fecha:** 2027
 **Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
 **Tipo:** Journal Article
-**Autores:** Yang K, Long Y, Zhang Y, Zeng H, Tsia KK
-**PMID:** 42753634  **DOI:** 10.1016/j.saa.2026.128757
+**Autores:** Li N, Yan W, Wang Z, Ren H, Yuan Y, Zhang MM, Ouyang Y, Hong Z
+**PMID:** 42759413  **DOI:** 10.1016/j.saa.2026.128793
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42753634/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759413/
 
-### 14. Colorimetric/fluorescence cross-validation-based carbon dot nanozyme smart sensor array for biothiols identification.
-**Área:** Inteligencia artificial y tecnología médica
+### 19. Integrated SEM, TEM and CLSM workflow for tegumental analysis of adult Schistosoma mansoni.
+**Área:** Farmacología y nuevos tratamientos
 **Fecha:** 2027
-**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+**Revista:** Micron (Oxford, England : 1993)
 **Tipo:** Journal Article
-**Autores:** Li XM, Jiang WC, Hu HT, Jia L, Yang SY, Zhao Y, Zhang GQ, Liu WP
-**PMID:** 42748728  **DOI:** 10.1016/j.saa.2026.128758
+**Autores:** de Carvalho Augusto R, João RCF, Barbosa HS, Mello-Silva CC, Santos CP
+**PMID:** 42822059  **DOI:** 10.1016/j.micron.2026.104119
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42748728/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42822059/
 
-### 15. Chlorophyll inversion in walnut leaves based on improved spectral indices and texture features.
-**Área:** Inteligencia artificial y tecnología médica
-**Fecha:** 2027
-**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
-**Tipo:** Journal Article
-**Autores:** Yerzati Y, Xia Q, Chen J, Qi J, Wang Y, Liu X, An X, Guo Z
-**PMID:** 42743716  **DOI:** 10.1016/j.saa.2026.128779
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42743716/
-
-### 16. The translational chasm in machine learning for triple-negative breast cancer: a quantitative landscape assessment
-**Área:** Inteligencia artificial y tecnología médica
-**Fecha:** 2026-10-09
-**Revista:** Front Oncol
+### 20. Special Issue: EACR 2026 Congress: Innovative Cancer Science, 8-11 June 2026.
+**Área:** Farmacología y nuevos tratamientos
+**Fecha:** 2026-08-01
+**Revista:** Mol Oncol
 **Tipo:** No especificado
-**Autores:** Yiming N, Saibaidoula Y, Abulimiti K, Ou J.
-**PMID:** —  **DOI:** —
+**Autores:** No disponible
+**PMID:** 42633749  **DOI:** 10.1002/1878-0261.70318
 **Fuente:** Europe PMC
-**Enlace:** —
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42633749/
 
-### 17. Artificial intelligence-assisted digital thyroid FNA cytology: Improved agreement and sensitivity for higher-risk Bethesda categories with enhanced screening efficiency.
-**Área:** Inteligencia artificial y tecnología médica
-**Fecha:** 2026-10-01
-**Revista:** Cancer Cytopathol
-**Tipo:** No especificado
-**Autores:** Satturwar S, Li Z, Yang CS, Lin YJ, Yang WL, Lin MY, Yeh CH, Hsu SW, Liu YS, Shao G, Liu TJ, Chen CJ, Crothers BA.
-**PMID:** 42779199  **DOI:** 10.1002/cncy.70149
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42779199/
-
-### 18. Micellar LYTAC-engineered bionic coatings abrogate RANK-dependent osteocatabolism and boost fibrillogenesis-mimetic mineral accretion for empowering osteoporotic osseointegration.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Zhao Y, Zhou J, He Y, Ren Y, Zhang J, Chen M, Luo Z, Gong Z
-**PMID:** 42835104  **DOI:** 10.1016/j.bioactmat.2026.09.012
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42835104/
-
-### 19. Click chemistry-modified cardiomyocytes enhance cardiac contractility and prevent remodeling in ischemia-reperfusion injured hearts.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Lee D, Sim WS, Park JH, Han DY, Kim SJ, An JR, Seo MS, Kim JJ
-**PMID:** 42780908  **DOI:** 10.1016/j.bioactmat.2026.08.016
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780908/
-
-### 20. Cellularized Skin Substitute Bioengineering for Regenerative Medicine: Cell Sources, Culture Strategies, and Transition Toward Defined, Xeno-Free Culture Systems.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-08-21
-**Revista:** Adv Healthc Mater
-**Tipo:** No especificado
-**Autores:** Lemaître G, Trouillas M, Vinasco-Sandoval T, Giordano C, Lellouch AG, Rachidi W, Lataillade JJ, Fortunel NO.
-**PMID:** 42629982  **DOI:** 10.1002/adhm.71630
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42629982/
-
-### 21. Reproductive biology and conservation breeding of viverrids in Thailand.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article
-**Autores:** Thongphakdee A, Sangsuri R, Punyatong R, Nakas T, Vechmanus T, Siriaroonrat B, Kamolnorranath S, Susereedumrong J
-**PMID:** 42801884  **DOI:** 10.1016/j.theriogenology.2026.118210
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42801884/
-
-### 22. Temporal dynamics of systemic immune cell networks in C57BL/6 mice with collagen-induced arthritis.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2026
-**Revista:** Autoimmunity
-**Tipo:** Journal Article
-**Autores:** Liu L, Hu Y, Liu H, Jin P, Yang S, Zhang H, Wan X
-**PMID:** 42815948  **DOI:** 10.1080/08916934.2026.2739614
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42815948/
-
-### 23. Honokiol, a structurally defined natural product, promotes SIRT3-linked bone formation in osteoporotic bone remodeling and fracture repair.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2026
-**Revista:** Pharmaceutical biology
-**Tipo:** Journal Article
-**Autores:** Xie S, Guan C, Zhou J
-**PMID:** 42852533  **DOI:** 10.1080/13880209.2026.2729885
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42852533/
-
-### 24. A programmable spatiotemporal bioelectrical conduit promotes peripheral nerve regeneration by suppressing ferroptosis through modulation of ER-mitochondria coupling in Schwann cells.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Wang Z, Jiang A, Wang F, Yang Z, Zhong Y, Yang Y, Tan J, Han W
-**PMID:** 42781229  **DOI:** 10.1016/j.bioactmat.2026.08.024
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781229/
-
-### 25. Zygote origin shapes sensitivity to electrical voltage field and editing susceptibility after CRISPR/Cas9-RNP electroporation in bovine embryos.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article
-**Autores:** Rahimi M, Miskel D, Schreiber M, Habermann H, Haake L, Brenig B, Besenfelder U, Havlicek V
-**PMID:** 42810238  **DOI:** 10.1016/j.theriogenology.2026.118215
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810238/
-
-### 26. Non-destructive geographical authentication of coffee beans: A hyperspectral-guided RGB imaging approach with optimized deep learning algorithms.
-**Área:** Inteligencia artificial y tecnología médica
-**Fecha:** 2027
-**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
-**Tipo:** Journal Article
-**Autores:** Lu S, Du Y, Zhao J, Yu Y, Huang Y, Cao F, Li Z
-**PMID:** 42735527  **DOI:** 10.1016/j.saa.2026.128777
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42735527/
-
-### 27. Abstracts
-**Área:** Inteligencia artificial y tecnología médica
-**Fecha:** 2026-10-01
-**Revista:** JPGN Rep
+### 21. Publication Only
+**Área:** Farmacología y nuevos tratamientos
+**Fecha:** 2026-06-01
+**Revista:** Hemasphere
 **Tipo:** No especificado
 **Autores:** No disponible
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 28. A designable twist-densification route to bioactive collagen hydrogel yarns approaching tendon-like mechanics.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Xie Y, Wu W, Zhang W, Peng X, Sun T, Liu Y, Zhang Z, Elson EL
-**PMID:** 42781499  **DOI:** 10.1016/j.bioactmat.2026.09.010
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781499/
-
-### 29. Engineering ovarian asymmetric mechanical niches in a dual-layer microcavity array enhances mouse secondary follicle development and oocyte competence.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Liu S, Zhang S, Zhou J, Dong W, Xu B, Mi X, Zhao S, Guo T
-**PMID:** 42761305  **DOI:** 10.1016/j.bioactmat.2026.08.055
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42761305/
-
-### 30. Extracellular Vesicles for Androgenetic Alopecia: Current Evidence, Mechanisms, and Clinical Prospects.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-09-13
-**Revista:** Int J Nanomedicine
+### 22. ICE2026/JES2026 Abstract Book
+**Área:** Farmacología y nuevos tratamientos
+**Fecha:** 2026-05-14
+**Revista:** Endocr J
 **Tipo:** No especificado
-**Autores:** Tang WZ, Liao CY, Xu HY, Huang WT, Lan ZH, Wu ZX, Yang YH, Li MS, Liu TH, Wang YH.
-**PMID:** 42756864  **DOI:** 10.2147/ijn.s621203
+**Autores:** No disponible
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756864/
+**Enlace:** —
+
+### 23. Abstracts of the 84<sup>th</sup> Annual Meeting of the Japanese Cancer Association.
+**Área:** Farmacología y nuevos tratamientos
+**Fecha:** 2026-01-01
+**Revista:** Cancer Sci
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** 41493844  **DOI:** 10.1111/cas.70254
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/41493844/
+
+### 24. Generation time in a discrete epidemic model with asymptomatic carriers: beyond geometric waiting times.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2027
+**Revista:** Infectious Disease Modelling
+**Tipo:** Journal Article
+**Autores:** Ripoll J, Saldaña J
+**PMID:** 42828240  **DOI:** 10.1016/j.idm.2026.09.003
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828240/
+
+### 25. Towards green monitoring of antibiotics: a direct biochar-based electrochemical sensor for ampicillin detection in biomedical and environmental matrices.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2027
+**Revista:** Talanta
+**Tipo:** Journal Article
+**Autores:** Macovei DG, Tertis M, Balla A, Kacsó I, Leoştean C, Tripon S, Suciu M, Cherecheş RM
+**PMID:** 42762756  **DOI:** 10.1016/j.talanta.2026.130619
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42762756/
+
+### 26. CATH-1 supplementation improves sperm quality and fertility of rooster semen during cold storage by reducing bacterial contamination.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2027
+**Revista:** Theriogenology
+**Tipo:** Journal Article
+**Autores:** Authaida S, Boonkum W, Duangjinda M, Shimada M, Kaeoket K, Rerkyusuke S, Chankitisakul V
+**PMID:** 42810235  **DOI:** 10.1016/j.theriogenology.2026.118229
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810235/
+
+### 27. Balancing individual risks and collective benefits: Effects of vaccine price, message framing, and value orientations on influenza vaccination in China.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2026
+**Revista:** Human vaccines & immunotherapeutics
+**Tipo:** Journal Article
+**Autores:** Chu Y, Jiang Y, Cheng Q, Zha X, Wang Y, Liang W, Chen L
+**PMID:** 42850200  **DOI:** 10.1080/21645515.2026.2743369
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42850200/
+
+### 28. "If I've got this, then let me use it to try to help and change it." Perspectives on HIV cure and research participation: a qualitative interview study of women and migrants living with HIV in Australia.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2026
+**Revista:** HIV research & clinical practice
+**Tipo:** Journal Article
+**Autores:** Mihiri W, Susan Cs C, Kirsten M, Heather E, Ian John W, Jennifer P, Jillian Sy L
+**PMID:** 42832628  **DOI:** 10.1080/25787489.2026.2743984
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42832628/
+
+### 29. Antimicrobial resistance and social inequity: Why the one health approach must centre poverty.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2026
+**Revista:** Global public health
+**Tipo:** Journal Article
+**Autores:** Abdi YH, Bashir SG
+**PMID:** 42825545  **DOI:** 10.1080/17441692.2026.2742514
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42825545/
+
+### 30. Proceedings of the 3rd edition of the International e-Health Forum 2024.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2026-03-30
+**Revista:** BMC Proc
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** 41906146  **DOI:** 10.1186/s12919-026-00366-4
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/41906146/
 
