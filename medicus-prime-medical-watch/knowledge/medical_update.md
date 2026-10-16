@@ -1,307 +1,252 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-10-15T17:46+00:00**
+> Actualizado: **2026-10-16T17:15+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
-
-# MEDICUS PRIME — ACTUALIZACIÓN CIENTÍFICA
-
----
-
-## TOP 5
-
-### 1. Meropenem TDM: Biosensor electroquímico tetrapolar para monitorización en el punto de atención en UCI
-* **Título:** Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.
-* **Fecha:** 2027.
-* **Revista:** *Biosensors & Bioelectronics*.
-* **Tipo de estudio:** Estudio experimental y validación biotecnológica de biodetección.
-* **Nivel de evidencia:** Experimental / Preclínica.
-* **Hallazgo:** Desarrollo de un biosensor de espectroscopía de impedancia electroquímica (EIS) tetrapolar de uso único, funcionalizado con monocapa autoensamblada, proteína G y anticuerpos anti-meropenem. Detectó meropenem en suero humano enriquecido dentro del rango clínico terapéutico (8–16 μg/mL) con un límite mínimo de 1 μg/mL en menos de 15 minutos.
-* **Importancia clínica:** La sepsis altera masivamente el volumen de distribución y el aclaramiento renal, generando riesgo crítico de subdosificación o toxicidad. Una plataforma de monitorización rápida al pie de la cama (*point-of-care*) permitiría ajustes posológicos oportunos y dirigidos para evitar fallos terapéuticos y desarrollo de resistencias.
-* **Limitación principal:** La validación se realizó en suero enriquecido (*spiked human serum*); carece de validación clínica prospectiva en pacientes críticos reales con matrices biológicas polifarmacia y sepsis.
-* **Enlace:** [PubMed: 42777284](https://pubmed.ncbi.nlm.nih.gov/42777284/)
-
----
-
-### 2. Detección de variantes de un solo nucleótido (SNV) ultrarrápida mediante amplificación ssDNA y diseño CRISPR/Cas14a split (SAST)
-* **Título:** A CRISPR/Cas14a-based platform for sensitive and specific single-nucleotide variant detection via short single-strand DNA amplification and split target design.
-* **Fecha:** 2027.
-* **Revista:** *Biosensors & Bioelectronics*.
-* **Tipo de estudio:** Estudio experimental y desarrollo tecnológico diagnóstico.
-* **Nivel de evidencia:** Preclínica / Diagnóstica experimental.
-* **Hallazgo:** La plataforma SAST logró un límite de detección (LOD) de 100 aM para ADN diana y una frecuencia alélica mutante (MAF) tan baja como 0,00001% en muestras simuladas. Se validó con éxito en la detección de *KRAS* G12D (c.35G > A) en muestras tumorales y en variantes farmacogenéticas de *CYP2C19* (*2, *3, *17).
-* **Importancia clínica:** Supera la limitación intrínseca de Cas14a (especificidad hacia ssDNA) sin perder sensibilidad. Resulta de alto valor potencial para biopsia líquida en oncología (ADN tumoral circulante) y estratificación farmacogenómica previa al uso de profármacos como clopidogrel.
-* **Limitación principal:** Evaluación en muestras simuladas y cohortes experimentales limitadas; requiere estandarización frente a la PCR digital en microgotas (ddPCR) o NGS en flujos clínicos de rutina.
-* **Enlace:** [PubMed: 42804994](https://pubmed.ncbi.nlm.nih.gov/42804994/)
-
----
-
-### 3. Inmunoensayo CRISPR-AMPED para la cuantificación attomolar de biomarcadores proteicos
-* **Título:** CRISPR-AMPED: A CRISPR/Cas-based immunoassay with attomolar sensitivity enabled by magnetic proximity extension and detection.
-* **Fecha:** 2027.
-* **Revista:** *Biosensors & Bioelectronics*.
-* **Tipo de estudio:** Desarrollo analítico experimental con validación en muestras humanas.
-* **Nivel de evidencia:** Preclínica / Diagnóstica experimental.
-* **Hallazgo:** Combina el ensayo de extensión por proximidad (PEA) en perlas magnéticas con amplificación por polimerasa de recombinasa (RPA) isotérmica y corte guiado por CRISPR/Cas12a. Alcanzó una sensibilidad attomolar para interleucina-8 (IL-8) en suero de pacientes con traumatismo craneoencefálico (TCE) y controles, superando a los ensayos ELISA convencionales en más de tres órdenes de magnitud.
-* **Importancia clínica:** Traslada el poder amplificador de CRISPR más allá de los ácidos nucleicos a la cuantificación proteica ultrasensible, útil en patologías donde las concentraciones iniciales de biomarcadores plasmáticos son mínimas (TCE leve, neurodegeneración precoz, daño miocárdico incipiente).
-* **Limitación principal:** Estudio de viabilidad centrado en un único biomarcador diana (IL-8) en una cohorte piloto; complejidad metodológica relativa frente a plataformas totalmente automatizadas.
-* **Enlace:** [PubMed: 42764010](https://pubmed.ncbi.nlm.nih.gov/42764010/)
-
----
-
-### 4. Sensibilización de cáncer colorrectal a retinoides mediante la inhibición de la vía WNT
-* **Título:** Inhibition of WNT signaling sensitizes CRC cells to anti-tumor effects of retinoids: basis for new drug combinations in oncology.
-* **Fecha:** 2026.
-* **Revista:** *Cancer Biology & Therapy*.
-* **Tipo de estudio:** Estudio preclínico in vitro (líneas celulares, organoides humanos) e in vivo (modelos de xenoinjertos derivados de pacientes, PDX).
-* **Nivel de evidencia:** Preclínica.
-* **Hallazgo:** La combinación de moduladores/inhibidores de la vía WNT (sulindaco y piroxicam) con ácido retinoico (ATRA, 9-cis RA) o inhibidores de su degradación celular (inhibidores de CYP26A1: liarozol, talarozol) suprimió de forma sinérgica la subpoblación de células madre tumorales (ALDH+) y promovió diferenciación neuroendocrina celular, con mayor citotoxicidad en modelos de organoides y PDX respecto a la monoterapia.
-* **Importancia clínica:** Ofrece una vía farmacológica racional de "terapia de diferenciación celular" dirigida a erradicar el nicho troncal tumoral del carcinoma colorrectal dependiente de mutaciones en *APC*, tradicionalmente resistente a retinoides aislados.
-* **Limitación principal:** Modelo murino y cultivos tisulares sin datos de tolerabilidad sistémica o toxicidad en humanos para estas combinaciones a dosis diana.
-* **Enlace:** [PubMed: 42845214](https://pubmed.ncbi.nlm.nih.gov/42845214/)
-
----
-
-### 5. Modulación del remodelado oxidativo de lipoproteínas (oxLDL) más allá de la colesterolemia convencional
-* **Título:** Oxidative lipoprotein remodelling in atherogenesis: Mechanistic insights and therapeutic potential.
-* **Fecha:** 2027.
-* **Revista:** *Biochimica et Biophysica Acta. Molecular Basis of Disease*.
-* **Tipo de estudio:** Revisión sistemática estructurada y síntesis mecanística (23 estudios clínicos evaluados).
-* **Nivel de evidencia:** Evidencia consolidada en fisiopatología; emergente/prometedora en modulación terapéutica selectiva.
-* **Hallazgo:** Existe una disociación mecanística documentada entre la carga lipídica cuantitativa (LDL-c) y el grado de modificación oxidativa (oxLDL). Diversas intervenciones farmacológicas (inhibidores de PCSK9, icosapento de etilo, ciertas intervenciones de ARN) modulan la formación o efectos de oxLDL independientemente de la magnitud de reducción del LDL-c sérico.
-* **Importancia clínica:** Enseña al médico en formación que la aterosclerosis es primariamente un proceso inflamatorio y cualitativo derivado de lipoproteínas modificadas/oxidadas y estrés oxidativo endotelial, ayudando a conceptualizar el "riesgo residual cardiovascular" persistente tras alcanzar metas estrictas de LDL-c.
-* **Limitación principal:** La heterogeneidad analítica para cuantificar oxLDL en suero dificulta su integración rutinaria inmediata en guías de estratificación clínica frente a biomarcadores estandarizados (ApoB o LDL-c).
-* **Enlace:** [PubMed: 42759776](https://pubmed.ncbi.nlm.nih.gov/42759776/)
-
----
-
-## OTROS HALLAZGOS RELEVANTES
-
-* **Amilina, irisina y SIRT1 en nefropatía diabética tipo 2:** Un estudio transversal en 100 pacientes masculinos (50 con DM2 y 50 con nefropatía diabética) reportó que, tras ajustar por factores confusores metabólicos (HbA1c, duración de DM, HOMA-IR), niveles reducidos de amilina se asociaron independientemente con menor probabilidad de presentar nefropatía, mientras que niveles elevados de irisina y SIRT1 mostraron asociación positiva con nefropatía diabética.
-  * *Nivel de evidencia:* Observacional / Emergente.
-  * *Limitación:* Estudio transversal y unicéntrico; no es posible determinar relación de causalidad ni temporalidad (podría reflejar mecanismos contrarreguladores o disfunción renal en su eliminación).
-  * *Referencia:* Sabih Wajdi S, et al. *Int J Endocrinol Metab* (2027). [PMID: 42807762](https://pubmed.ncbi.nlm.nih.gov/42807762/).
-* **Ensayo clínico aleatorizado veterinario de extracto de piel de avellana en diarrea neonatal:** Ensayo paralelo ciego en 60 terneros lactantes hospitalizados comparando terapia estándar versus extracto polifenólico de piel de avellana (10 g/día por 5 días). No se observó ninguna diferencia estadísticamente significativa en resolución clínica, ganancia ponderal, hidratación, biomarcadores de estrés oxidativo o estancia hospitalaria; la recuperación dependió exclusivamente de la fluidoterapia y el tratamiento convencional.
-  * *Nivel de evidencia:* Consolidada (demostración de ineficacia en este contexto experimental).
-  * *Importancia formativa:* Reitera la advertencia sobre la asunción acrítica de extractos polifenólicos antioxidantes como sustitutos terapéuticos eficaces sin datos que sustenten su valor añadido.
-  * *Referencia:* Boccardo A, et al. *Vet Q* (2026). [PMID: 42873768](https://pubmed.ncbi.nlm.nih.gov/42873768/).
-* **Biosensores bacterianos genéticamente codificados y circuitos teranósticos:** Revisión sobre bioingeniería celular de sistemas de transcripción alostéricos (aTFs) integrados en chasis microbianos para monitorización luminal in situ acoplada a síntesis de fármacos regulada por bucles cerrados de retroalimentación.
-  * *Nivel de evidencia:* Experimental / Ingeniería sintética preclínica.
-  * *Referencia:* Xu J, et al. *Synth Syst Biotechnol* (2027). [PMID: 42831006](https://pubmed.ncbi.nlm.nih.gov/42831006/).
-* **Nanocarreadores dirigidos a neutrófilos en retardo de consolidación ósea por estrés:** Modelo preclínico de ansiedad (inmovilización crónica) que identificó una subpoblación patogénica de neutrófilos TGFβ1+CCR5+ en médula ósea que inhibe la osteogénesis; un nanoconjugado de AKBA recubierto de EGCG funcionalizado con aptámero NIMP-R14 revirtió este eje localmente acelerando la osteosíntesis.
-  * *Nivel de evidencia:* Preclínica experimental en murinos.
-  * *Referencia:* Ouyang L, et al. *Bioact Mater* (2027). [PMID: 42831169](https://pubmed.ncbi.nlm.nih.gov/42831169/).
-* **Fotoactivación de biosensores CRISPR/Cas12a para miR-155:** Sensor molecular con crRNA bloqueado por grupo fotolábil NPOM activable por luz UV (365 nm), diseñado para monitorizar transcritos inflamatorios (miR-155) sin requerimiento de retrotranscripción previa ni amplificación térmica.
-  * *Nivel de evidencia:* Experimental in vitro.
-  * *Referencia:* Chang K, et al. *Biosens Bioelectron* (2027). [PMID: 42790075](https://pubmed.ncbi.nlm.nih.gov/42790075/).
-
----
-
-## QUÉ DEBERÍA ESTUDIAR
-
-1. **Aterogénesis y dislipidemia cualitativa (Bioquímica / Patología vascular):**
-   * *Conceptos centrales:* Diferencia entre LDL nativo, modificaciones postraduccionales, lipoperoxidación y captura de oxLDL por receptores basurero (*scavenger* CD36, SR-A) en macrófagos para la formación de células espumosas. Mecanismos de disfunción endotelial inducidos por estrés oxidativo y su independencia parcial de los niveles estáticos de LDL-c plasmático.
-2. **Farmacocinética y Farmacodinamia (PK/PD) en el paciente séptico (Farmacología clínica / Cuidados intensivos):**
-   * *Conceptos centrales:* Volumen de distribución alterado en estados hiperdinámicos, síndrome de fuga capilar y aclaramiento renal aumentado vs. fracaso renal agudo. Parámetro farmacodinámico de los betalactámicos: tiempo dependiente donde la concentración libre excede la CMI (% *f*T > CMI), y las bases racionales del monitoreo terapéutico de fármacos (TDM) rápido.
-3. **Vías WNT/β-catenina y dianas de diferenciación tumoral (Oncología básica):**
-   * *Conceptos centrales:* Gen supresor de tumores *APC*, complejo de destrucción de β-catenina, sobreactivación transcripcional oncogénica y plasticidad de las células madre tumorales (CSCs). Mecanismos por los cuales la reactivación o modulación sinérgica con receptores de ácido retinoico (RAR/RXR) favorece la salida del estado indiferenciado proliferativo.
-4. **Metodologías CRISPR aplicadas al diagnóstico (Genética médica y Biología molecular):**
-   * *Conceptos centrales:* Actividad nucleasa colateral inespecífica (*trans-cleavage*) de enzimas Cas12a y Cas14a tras el reconocimiento complementario específico (*cis-cleavage*), y su uso acoplado a amplificación isotérmica (RPA) para detección molecular en medicina de precisión sin termocicladores.
-
----
-
-## ALERTAS DE EVIDENCIA
-
-* **Alerta Metodológica: Diseños Transversales y Causalidad (Sabih Wajdi et al., 2027)**
-  * *Aviso:* Las elevaciones séricas de irisina y SIRT1 en pacientes con nefropatía diabética representan una **asociación estadística**, no una relación de causa-efecto. Un error habitual del estudiante es interpretar niveles elevados de un biomarcador como causantes del daño tisular; con frecuencia reflejan respuestas contrarreguladoras compensatorias fallidas o disminución de la tasa de filtración glomerular con retención sérica de la molécula.
-* **Alerta Terapéutica: Traslación errónea de fitoterapia sin superioridad clínica (Boccardo et al., 2026)**
-  * *Aviso:* A pesar del sólido perfil antioxidante in vitro de los polifenoles, su adición al soporte hidroelectrolítico y antimicrobiano estándar en diarrea aguda neonatal no demostró ningún beneficio medible en parámetros clínicos ni de estrés oxidativo tisular. La resolución clínica estuvo condicionada únicamente por la terapia convencional validada. No extrapolar propiedades fisicoquímicas o estudios de extractos in vitro como sustitutos de tratamientos de soporte con eficacia clínica comprobada.
-* **Alerta de Nivel de Evidencia: Medicina regenerativa y nanotecnología (Wang et al., 2027; Ouyang et al., 2027; Wen et al., 2027)**
-  * *Aviso:* Múltiples formulaciones nanotecnológicas (conductos bioeléctricos piezoeléctricos, liposomas dirigidos contra TfR para glioblastoma, nanocarreadores anti-neutrófilos para fracturas) demuestran eficacia notable exclusivamente en modelos celulares y roedores pequeños. Estos resultados son de carácter estrictamente preclínico y experimental; no deben ser confundidos con tratamientos autorizados ni extrapolarse como directrices terapéuticas en pacientes humanos.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Prevalence, Incidence, and Impact of Cancer in Atrial Fibrillation: A Systematic Review and Meta-Analysis of 70,000,000 Patients.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-10-01
-**Revista:** Health Sci Rep
+### 1. Predictive Value of Respiratory Parameters for Non-invasive Ventilation Failure in Acute Respiratory Failure: A Systematic Review.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-08-19
+**Revista:** Cureus
 **Tipo:** No especificado
-**Autores:** Yang L, Mao S, Wang L, Fan H, Zhang W, Wang M, Wang Y, Hao L, Yang Z, Liang B.
-**PMID:** 42827652  **DOI:** 10.1002/hsr2.73099
+**Autores:** Mohammed Ramadan MA, Sabier Ali LME, Mohammed Elamin AM, Mohamed Ibrahim EM, Abdalkareem Abaker IS, Sidahmed Osman OA, Elfaki Omer EO.
+**PMID:** 42763529  **DOI:** 10.7759/cureus.114823
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42827652/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42763529/
 
-### 2. Transcatheter aortic valve replacement in failed transcatheter versus failed surgical bioprostheses: a systematic review with exploratory meta-analysis.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-09-18
-**Revista:** Front Cardiovasc Med
+### 2. Antibiotic Use, Bacterial Co-Infection, and Antimicrobial Resistance in Adults Hospitalized with COVID-19, Influenza, or RSV: A Systematic Review and Meta-Analysis.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-06-30
+**Revista:** Antibiotics (Basel)
 **Tipo:** No especificado
-**Autores:** Ghannam M, Abomohsen M, Idries IY, Shamoon F, Ghallab M, Zghyer F, González AV, Ahmad A, Habib HA, Vasudev R.
-**PMID:** 42827486  **DOI:** 10.3389/fcvm.2026.1870804
+**Autores:** Lucaciu FC, Rosca O, Mihai AM, Sima A, Suba MI, Wellmann N, Rosian A, Oancea C, Cialma M, Tarau A, Bosoanca A, Marc M.
+**PMID:** 42505617  **DOI:** 10.3390/antibiotics15070654
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42827486/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42505617/
 
-### 3. Effects on health and antioxidant status of oral supplementation of hazelnut skin extract in dairy calves with neonatal diarrhea: a randomized clinical trial in hospitalized patients.
-**Área:** Microbiología, infectología y resistencia antimicrobiana
-**Fecha:** 2026
-**Revista:** The veterinary quarterly
-**Tipo:** Journal Article, Randomized Controlled Trial
-**Autores:** Boccardo A, Sannazzaro M, Sala G, Gazzola E, Martucci I, Curone G, Castrica M, Ferrulli V
-**PMID:** 42873768  **DOI:** 10.1080/01652176.2026.2691428
+### 3. Shared Decision-Making and Decision Support in Advanced Chronic Kidney Disease: A Systematic Review of Models, Treatment Pathways, and Patient-Centered Outcomes
+**Área:** Nefrología y urología
+**Fecha:** 2026-10-16
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Naeem A, Ashraf Z, Ali S, Hayder D, Wahane V, Poushi M, Kolo J, Jamil Wahdan M, Mohamed Seddik Y, Radi Al-maqableh R, Mahmoud Alghzawi S.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 4. Facilitators and Barriers to Digital Health Technologies for Self-Management in Patients With Chronic Kidney Disease: Systematic Review Based on the Updated CFIR 2.0 Framework.
+**Área:** Nefrología y urología
+**Fecha:** 2026-09-21
+**Revista:** J Med Internet Res
+**Tipo:** No especificado
+**Autores:** Su F, Yao Y, Lin X, Su Q, Hu Y, Pei H, Xu Q.
+**PMID:** 42766847  **DOI:** 10.2196/103560
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42766847/
+
+### 5. Early Initiation of Thyroid Hormone Therapy Versus Watchful Waiting or Delayed Treatment or no Treatment in Subclinical Hypothyroidism: A Systematic Review and Meta-analysis Protocol.
+**Área:** Endocrinología, metabolismo y obesidad
+**Fecha:** 2026-09-29
+**Revista:** F1000Res
+**Tipo:** No especificado
+**Autores:** Gandhi AP, Deshmukh KP, Kaliyappan A, Bang A, Gangane N.
+**PMID:** 42800939  **DOI:** 10.12688/f1000research.179360.3
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42800939/
+
+### 6. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-01
+**Revista:** J Clin Apher
+**Tipo:** No especificado
+**Autores:** Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.
+**PMID:** 42747330  **DOI:** 10.1002/jca.70141
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
+
+### 7. Portal Vein Thrombosis Risk in Cirrhotic Patients With Portal Hypertension on Beta-Blockers: A Multi-Institutional Cohort Study.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-01
+**Revista:** Liver Int
+**Tipo:** No especificado
+**Autores:** Abosheaishaa H, Elfert K, Abusuliman M, Ismail A, Olimy A, Alzamzamy AE, Omran A, Rizzo V, Nassar M, El-Kassas M.
+**PMID:** 42642993  **DOI:** 10.1111/liv.70843
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42642993/
+
+### 8. Evaluating a Modified American Society of Anesthesiologists Physical Status-Based Sedation Management System for Pancreatobiliary Endoscopy: A Prospective Feasibility Study.
+**Área:** Endocrinología, metabolismo y obesidad
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Hanaoka T, Okuwaki K, Watanabe M, Matsuda H, Adachi K, Tamaki A, Ogawa D, Sakai M
+**PMID:** 42871153  **DOI:** 10.1002/deo2.70445
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42873768/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42871153/
 
-### 4. Advances and perspectives in genetically encoded biosensors for biomarker detection and theranostic circuits.
-**Área:** Genética, genómica y medicina molecular
+### 9. Next-generation optical biosensors for ultra-early detection of Alzheimer's and Parkinson's diseases: Recent advances, challenges, and future perspectives.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Talanta
+**Tipo:** Journal Article, Review
+**Autores:** Usmani MW, Rahim A, Farid F, Mahmoud ERI, Hayat A, Wang J
+**PMID:** 42772054  **DOI:** 10.1016/j.talanta.2026.130609
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42772054/
+
+### 10. Gut microbiota: a novel key player in urinary stone formation - from oxalate metabolism to systemic regulation.
+**Área:** Nefrología y urología
+**Fecha:** 2026
+**Revista:** Gut microbes
+**Tipo:** Journal Article, Review
+**Autores:** Wang K, Fan W, Tang Q, Su Q
+**PMID:** 42758101  **DOI:** 10.1080/19490976.2026.2734634
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42758101/
+
+### 11. Prehospital PEEP for Acute Respiratory Distress: Protocol for a Scoping Review.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-09-01
+**Revista:** Acta Anaesthesiol Scand
+**Tipo:** No especificado
+**Autores:** Wittrock D, Bauer JM, Hägi-Pedersen D, Christensen HC, Mikkelsen S, Brøchner AC.
+**PMID:** 42528123  **DOI:** 10.1111/aas.70314
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42528123/
+
+### 12. Gut microbiota shaping fatty liver disease progression.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Life science alliance
+**Tipo:** Journal Article, Review
+**Autores:** Wysokińska M, Mysza M, Uryga AE, Kołodziejczyk AA
+**PMID:** 42864263  **DOI:** 10.26508/lsa.202603756
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42864263/
+
+### 13. Functionally declining microbiota in chronic disease: beyond taxonomic loss.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026
+**Revista:** Gut microbes
+**Tipo:** Journal Article, Review
+**Autores:** Kim HS
+**PMID:** 42876361  **DOI:** 10.1080/19490976.2026.2748134
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42876361/
+
+### 14. Racial, Ethnic, and Immigration-Related Disparities Across the Gastrointestinal Care Continuum: A Scoping Review.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-08
+**Revista:** J Clin Med
+**Tipo:** No especificado
+**Autores:** Thomas R, Belghiti M, Tran HR, Tandon P.
+**PMID:** 42795734  **DOI:** 10.3390/jcm15186961
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42795734/
+
+### 15. Efficacy and mechanistic insights of dapagliflozin in hypertension management.
+**Área:** Nefrología y urología
+**Fecha:** 2026
+**Revista:** Clinical and experimental hypertension (New York, N.Y. : 1993)
+**Tipo:** Journal Article, Review
+**Autores:** Chen Z, Chunbin W, Zhang H, Luo T, Yan J
+**PMID:** 42826222  **DOI:** 10.1080/10641963.2026.2731624
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42826222/
+
+### 16. Ultrasound-responsive nanotherapy promotes axonal regeneration after SCI via reactivating CREB/miR-129-5p signaling.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Gu G, Zhu H, Li S, Zhang Z, Kao Y, Zhang R, Fu R, Han X
+**PMID:** 42828130  **DOI:** 10.1016/j.bioactmat.2026.09.024
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828130/
+
+### 17. Oral delivery of recombinant Lactococcus lactis expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026
+**Revista:** Drug delivery
+**Tipo:** Journal Article
+**Autores:** Kopecna E, Raskova Kafkova L, Kosztyu P, Sloupenska K, Zachova K, Cutkova A, Skarda J, Vaculova J
+**PMID:** 42828737  **DOI:** 10.1080/10717544.2026.2726654
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42828737/
+
+### 18. Neuroimaging Biomarkers for Brain Disorder Diagnosis Using Advanced Learning Techniques.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** International journal of neural systems
+**Tipo:** Journal Article
+**Autores:** Ion IA, Chira C
+**PMID:** 42786613  **DOI:** 10.1142/S0129065727500158
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42786613/
+
+### 19. Discovering Heterogeneous Neurodegenerative Disease Patterns From MRI Data for Improved Prediction.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention
+**Tipo:** Journal Article
+**Autores:** Zhang Y, Li H, Fan Y
+**PMID:** 42857586  **DOI:** 10.1007/978-3-032-38239-9_16
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42857586/
+
+### 20. From prevalence to prognosis: the clinical relevance of depression and anxiety in COPD.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2027
+**Revista:** Scandinavian journal of primary health care
+**Tipo:** Journal Article
+**Autores:** Montserrat-Capdevila J
+**PMID:** 42867073  **DOI:** 10.1080/02813432.2026.2738628
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42867073/
+
+### 21. Systems metabolic engineering of a plasmid-free Escherichia coli cell factory for high-level cytidine production.
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2027
 **Revista:** Synthetic and systems biotechnology
-**Tipo:** Journal Article, Review
-**Autores:** Xu J, Qi Q, Wang Q
-**PMID:** 42831006  **DOI:** 10.1016/j.synbio.2026.09.006
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831006/
-
-### 5. A CRISPR/Cas14a-based platform for sensitive and specific single-nucleotide variant detection via short single-strand DNA amplification and split target design.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Biosensors & bioelectronics
 **Tipo:** Journal Article
-**Autores:** Hu Y, Liao Y, Wang X, Yuan T, Qiao L, Luo Y, Pan S, Li X
-**PMID:** 42804994  **DOI:** 10.1016/j.bios.2026.119263
+**Autores:** Zhao R, Li C, Xu C, Chen Z, Xiong H, Yu Z, Shi T, Li L
+**PMID:** 42861367  **DOI:** 10.1016/j.synbio.2026.09.003
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42804994/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42861367/
 
-### 6. Factors influencing success in the fetal-neonatal transition in dogs.
-**Área:** Cardiología y medicina vascular
+### 22. A 6His-2Flag dual-tag strategy enables high-yield production of antimicrobial peptide N6 in Pichia pastoris to combat multidrug-resistant Klebsiella pneumonia.
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article, Review
-**Autores:** Vannucchi CI
-**PMID:** 42810239  **DOI:** 10.1016/j.theriogenology.2026.118220
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810239/
-
-### 7. Oxidative lipoprotein remodelling in atherogenesis: Mechanistic insights and therapeutic potential.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2027
-**Revista:** Biochimica et biophysica acta. Molecular basis of disease
-**Tipo:** Journal Article, Review
-**Autores:** Mthembu SXH, Dludla PV
-**PMID:** 42759776  **DOI:** 10.1016/j.bbadis.2026.168470
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759776/
-
-### 8. A programmable spatiotemporal bioelectrical conduit promotes peripheral nerve regeneration by suppressing ferroptosis through modulation of ER-mitochondria coupling in Schwann cells.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2027
-**Revista:** Bioactive materials
+**Revista:** Synthetic and systems biotechnology
 **Tipo:** Journal Article
-**Autores:** Wang Z, Jiang A, Wang F, Yang Z, Zhong Y, Yang Y, Tan J, Han W
-**PMID:** 42781229  **DOI:** 10.1016/j.bioactmat.2026.08.024
+**Autores:** Wang Y, Cao M, Deng M, Yang N, Teng D, Hao Y, Xu K, Wang J
+**PMID:** 42787492  **DOI:** 10.1016/j.synbio.2026.08.012
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781229/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42787492/
 
-### 9. Zygote origin shapes sensitivity to electrical voltage field and editing susceptibility after CRISPR/Cas9-RNP electroporation in bovine embryos.
-**Área:** Genética, genómica y medicina molecular
+### 23. Correction to "Respiratory Support with Nasal High Flow Reduces Opioid Requirements During Endoscopic Retrograde Cholangiopancreatography".
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article
-**Autores:** Rahimi M, Miskel D, Schreiber M, Habermann H, Haake L, Brenig B, Besenfelder U, Havlicek V
-**PMID:** 42810238  **DOI:** 10.1016/j.theriogenology.2026.118215
+**Revista:** DEN open
+**Tipo:** Published Erratum
+**Autores:** No disponible
+**PMID:** 42780775  **DOI:** 10.1002/deo2.70442
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810238/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780775/
 
-### 10. Photoactivatable NPOM-caged split-activator CRISPR/Cas12a biosensor for amplification-free imaging of deoxynivalenol-induced miR-155 dynamics and lateral-flow sensing.
-**Área:** Genética, genómica y medicina molecular
+### 24. Open-label extension study of leniolisib in activated PI3Kδ syndrome: Long-term efficacy and safety.
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2027
-**Revista:** Biosensors & bioelectronics
+**Revista:** Journal of human immunity
 **Tipo:** Journal Article
-**Autores:** Chang K, Sun J, Liu T, Bao Q, Huang H, Wang JS, Zhang Y, Lu K
-**PMID:** 42790075  **DOI:** 10.1016/j.bios.2026.119258
+**Autores:** Rao VK, Šedivá A, Dalm VASH, Plebani A, Schuetz C, Shcherbina A, Trizzino A, Zharankova Y
+**PMID:** 42873197  **DOI:** 10.70962/jhi.20260040
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42790075/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42873197/
 
-### 11. Aptamer-functionalized EGCG nanocarrier for neutrophil-targeted AKBA delivery promotes anxiety-related fracture healing.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Ouyang L, Zhang Y, Liao J, Zhang Z, He X, Lin Z, Tao R, Xie X
-**PMID:** 42831169  **DOI:** 10.1016/j.bioactmat.2026.09.028
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831169/
-
-### 12. Therapeutic drug monitoring of meropenem in human serum using a sensitive four-electrode electrochemical biosensor for critically ill patients in intensive care wards.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2027
-**Revista:** Biosensors & bioelectronics
-**Tipo:** Journal Article
-**Autores:** Bayford RH, Nathaniel NN, Shah AJ, Appiah S, Jiang D, Brealey D, Singer M, Demosthenous A
-**PMID:** 42777284  **DOI:** 10.1016/j.bios.2026.119218
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42777284/
-
-### 13. Inhibition of WNT signaling sensitizes CRC cells to anti-tumor effects of retinoids: basis for new drug combinations in oncology.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2026
-**Revista:** Cancer biology & therapy
-**Tipo:** Journal Article
-**Autores:** Hunsu VO, Facey COB, Opdenaker LM, Boman BM
-**PMID:** 42845214  **DOI:** 10.1080/15384047.2026.2732738
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42845214/
-
-### 14. CRISPR-AMPED: A CRISPR/Cas-based immunoassay with attomolar sensitivity enabled by magnetic proximity extension and detection.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2027
-**Revista:** Biosensors & bioelectronics
-**Tipo:** Journal Article
-**Autores:** Shao F, Hu J, Traylor A, Lei H, Zhang P, Akarapipad P, Park JS, Hsieh K
-**PMID:** 42764010  **DOI:** 10.1016/j.bios.2026.119227
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42764010/
-
-### 15. Self-assembled ruthenium(II) nanostructures disrupt electron transport and energy metabolism in MRSA via bacterial interfacial interactions.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2027
-**Revista:** Journal of colloid and interface science
-**Tipo:** Journal Article
-**Autores:** Tang Z, Liu D, Zhang W, Chen Y, Tang J, Luo Z, Li L, Chen L
-**PMID:** 42790117  **DOI:** 10.1016/j.jcis.2026.141677
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42790117/
-
-### 16. A transferrin receptor-targeted liposome for iron metabolism regulation-augmented photodynamic therapy in glioblastoma.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Wen R, He G, Wan Y, Guo X, Xiong S, Wu Y, Wei Y, Li D
-**PMID:** 42780992  **DOI:** 10.1016/j.bioactmat.2026.08.021
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780992/
-
-### 17. Multienzymatic hybrid bio-heterojunction for synergistic microenvironment reprogramming and selenoprotein-activated mitochondrial bioenergetics in diabetic osseointegration.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Zhang M, Lu M, Chen Y, Ming M, Luo B, Wu Y
-**PMID:** 42780667  **DOI:** 10.1016/j.bioactmat.2026.09.014
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780667/
-
-### 18. Association Between Serum Amylin, Irisin, and Sirtuin 1 in Male Patients with Type 2 Diabetes and Diabetic Nephropathy.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2027
-**Revista:** International journal of endocrinology and metabolism
-**Tipo:** Journal Article
-**Autores:** Sabih Wajdi S, Mohyadini M, Abdlwhab HM, E Jassim W, Bathaie SZ
-**PMID:** 42807762  **DOI:** 10.5812/ijem-171383
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42807762/
-
-### 19. Nutrient availability and sodium pyruvate regulate the resuscitation of viable but nonculturable Staphylococcus aureus.
-**Área:** Fisiología, bioquímica y biología celular
+### 25. Nutrient availability and sodium pyruvate regulate the resuscitation of viable but nonculturable Staphylococcus aureus.
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2027
 **Revista:** International journal of food microbiology
 **Tipo:** Journal Article
@@ -310,98 +255,28 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810126/
 
-### 20. Abstracts
-**Área:** Fisiología, bioquímica y biología celular
+### 26. ESICM LIVES 2026
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2026-10-01
-**Revista:** JPGN Rep
+**Revista:** Intensive Care Med Exp
 **Tipo:** No especificado
 **Autores:** No disponible
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 21. Mitochondrial proteome of Acanthamoeba delineates aerobic and anaerobic pathways dynamically regulated by oxygen.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2026-10-01
-**Revista:** Cell
-**Tipo:** No especificado
-**Autores:** Stefely JA, Deng FG, Chen MZ, Nguyen K, Luce BE, Fry MY, Guo XA, Maliaris K, Rivera KD, Papanastasiou M, Issa TM, Kanakapura Sundararaj B, Root SLY, Mani DR, MitoCarta Tree of Life Consortium, Chao LH, Calvo SE, Udeshi ND, Samuelson J, Mootha VK.
-**PMID:** 42822424  **DOI:** 10.1016/j.cell.2026.08.056
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42822424/
-
-### 22. Lipopolysaccharide-induced alterations in barrier integrity and inflammatory signaling in porcine small intestinal organoids.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2026-10-01
-**Revista:** PLoS One
-**Tipo:** No especificado
-**Autores:** Park S, Lee B, Kim D, Sunirmal S, Lee MG, Lee H, Ock SA, Yoo JG.
-**PMID:** 42821546  **DOI:** 10.1371/journal.pone.0359086
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42821546/
-
-### 23. The Role of Ferroptosis Induced by Iron Overload in Osteoblast and Osteoclast Function.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2026-10-01
-**Revista:** Cell Biol Int
-**Tipo:** No especificado
-**Autores:** Sooksawanwit S, Lertsuwan K, Tannop N, Lapatkeattisukul P, Jenpichitkulchai T, Sotapong N, Teerapornpuntakit J, Khunluck T, Punvilai S, Charoenphandhu N.
-**PMID:** 42770691  **DOI:** 10.1002/cbin.70210
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42770691/
-
-### 24. Arginine Kinase 1 supports energy homeostasis in Drosophila flight muscle development.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2026-09-17
-**Revista:** PLoS Genet
-**Tipo:** No especificado
-**Autores:** Zappia MP, Westacott A, Cooke H, Geary R, Travers L, de Castro L, Carty O, Frolov MV.
-**PMID:** 42752582  **DOI:** 10.1371/journal.pgen.1012304
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42752582/
-
-### 25. Clinical Translation of Fisetin for Age-Related Diseases: Current Evidence and Future Opportunities.
-**Área:** Fisiología, bioquímica y biología celular
-**Fecha:** 2026-09-14
-**Revista:** Nutrients
-**Tipo:** No especificado
-**Autores:** Sandoval-Caballero C, Roemer Z, Kotz CM, Puskarich MA, Mavanji V, Schmidt EL, Sibley SD.
-**PMID:** 42796982  **DOI:** 10.3390/nu18182999
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42796982/
-
-### 26. DNA-decorated phase-shift microdroplets enable programmable coalescence and gene transfection.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Journal of colloid and interface science
-**Tipo:** Journal Article
-**Autores:** Perilli G, Ditri A, Vitaliti A, Toumia Y, Porchetta A, Paradossi G, Domenici F
-**PMID:** 42790119  **DOI:** 10.1016/j.jcis.2026.141646
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42790119/
-
-### 27. Single-cell DNA methylation profiling reveals epigenetic signatures associated with in vitro maturation of bovine oocytes and conserved patterns with porcine oocytes.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article
-**Autores:** Abril-Parreño L, Lopes JS, Romero-Aguirregomezcorta J, Galvao A, Kelsey G, Coy P
-**PMID:** 42784967  **DOI:** 10.1016/j.theriogenology.2026.118205
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42784967/
-
-### 28. Special Issue: EACR 2026 Congress: Innovative Cancer Science, 8-11 June 2026.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-08-01
-**Revista:** Mol Oncol
+### 27. 45th International Symposium on Intensive Care & Emergency Medicine.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-07-02
+**Revista:** Crit Care
 **Tipo:** No especificado
 **Autores:** No disponible
-**PMID:** 42633749  **DOI:** 10.1002/1878-0261.70318
+**PMID:** 42393775  **DOI:** 10.1186/s13054-026-05916-y
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42633749/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42393775/
 
-### 29. Publication Only
-**Área:** Genética, genómica y medicina molecular
+### 28. Publication Only
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2026-06-01
 **Revista:** Hemasphere
 **Tipo:** No especificado
@@ -410,13 +285,23 @@
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 30. Plenary Abstracts Session & Oral Presentations
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-06-01
-**Revista:** Hemasphere
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
+### 29. Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Virulence
+**Tipo:** Journal Article
+**Autores:** Liu H, Xu T, Guo Y, Zhou X, Yan C, Zhu B, Xie Y
+**PMID:** 42834659  **DOI:** 10.1080/21505594.2026.2739091
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42834659/
+
+### 30. Targeted inhibition of inflammatory liver macrophages with a multifunctional nanoparticle ameliorates metabolic dysfunction-associated steatohepatitis.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Chen K, Wang L, Liu L, Arledge CA, Lin HK, Lin J, Habib AA, Zhao D
+**PMID:** 42835072  **DOI:** 10.1016/j.bioactmat.2026.09.016
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42835072/
 
