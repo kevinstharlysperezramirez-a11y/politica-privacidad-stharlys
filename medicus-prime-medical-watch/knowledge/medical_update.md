@@ -1,6 +1,6 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-10-17T16:14+00:00**
+> Actualizado: **2026-10-18T16:25+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 # MEDICUS PRIME — ACTUALIZACIÓN CIENTÍFICA
@@ -9,224 +9,394 @@
 
 ## TOP 5
 
-### 1. Infecciones posoperatorias tras cirugía cardíaca con circulación extracorpórea: fallo diagnóstico de biomarcadores habituales
-* **Título:** Postoperative infections after cardiac surgery with cardiopulmonary bypass - incidence, performance of diagnostic procedures, and predictive factors.
+### 1. Consumo de cannabis y riesgo posterior de síntomas maníacos y trastorno bipolar
+* **Título:** *Cannabis use and subsequent onset of manic symptoms and bipolar disorder: A systematic review and meta-analysis.*
 * **Fecha:** 2027
-* **Revista:** *Scandinavian Cardiovascular Journal*
-* **Nivel de evidencia:** Evidencia clínica observacional (Estudio de cohorte bidireccional, n = 1.222).
-* **Hallazgo:** La incidencia de infección posoperatoria fue del 17,3% y se asoció con mayor mortalidad a 90 días (3,8% vs. 1,5%, p = 0,045) y a 1 año (5,7% vs. 2,7%, p = 0,032). Los biomarcadores de uso común (proteína C reactiva [PCR], recuento de leucocitos y temperatura) mostraron un rendimiento diagnóstico deficiente para detectar infección, aunque el pico de PCR (OR: 1,069; p < 0,001) y el pico térmico (OR: 2,408; p = 0,005) fueron predictores independientes. El pico febril ocurrió significativamente más tarde en infectados (día 5 vs. día 2 posoperatorio).
-* **Importancia médica:** La circulación extracorpórea (CEC) induce un síndrome de respuesta inflamatoria sistémica (SIRS) que invalida los umbrales habituales de PCR y leucocitos. El estudiante debe aprender a no sobrediagnosticar sepsis en los primeros 2 días basándose solo en leucocitosis o PCR, y mantener alta sospecha si la fiebre aparece o persiste hacia el quinto día.
-* **Limitación:** Estudio de cohorte observacional; el diseño bidireccional puede acarrear sesgos de registro y la especificidad de los biomarcadores se ve intrínsecamente distorsionada por la agresión quirúrgica.
-* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42860039/](https://pubmed.ncbi.nlm.nih.gov/42860039/)
+* **Revista:** *Journal of affective disorders*
+* **Tipo de estudio:** Revisión sistemática y metaanálisis de estudios observacionales longitudinales. Nivel de evidencia: **Evidencia consolidada (epidemiológica observacional)**.
+* **Hallazgo principal:** Sobre 19 estudios longitudinales ($N = 6\,960\,517$), la exposición al cannabis en individuos sin trastorno bipolar previo se asoció significativamente con un aumento en la incidencia de trastorno bipolar (RR = 2.46, IC 95%: 1.57–3.84; $k = 8$) y de síntomas maníacos o hipomaníacos incidentes (RR = 2.11, IC 95%: 1.07–4.18; $k = 6$).
+* **Importancia clínica:** Cuantifica de forma desagregada el riesgo de desenlaces del espectro bipolar tras el uso de cannabis, consolidándolo como un factor de riesgo modificable clave en psiquiatría preventiva en jóvenes (edad media 23.8 años).
+* **Limitaciones:** Los análisis primarios combinaron riesgos relativos no ajustados (*unadjusted RRs*), y se detectó heterogeneidad clínica y metodológica significativa. Asociación observacional no demuestra causalidad directa.
+* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42838231/](https://pubmed.ncbi.nlm.nih.gov/42838231/)
 
 ---
 
-### 2. Tracción con banda elástica y clip (*rubber-clip*) en disección submucosa endoscópica colorrectal
-* **Título:** Clinical Outcomes of Rubber-clip-assisted Versus Conventional Colorectal Endoscopic Submucosal Dissection: A Retrospective Study.
+### 2. Ejercicio físico supervisado como coadyuvante en pacientes bajo tratamiento antipsicótico
+* **Título:** *Exercise to enhance antipsychotic effectiveness and mitigate metabolic harm: systematic review and meta-analysis.*
 * **Fecha:** 2027
-* **Revista:** *DEN Open*
-* **Nivel de evidencia:** Evidencia clínica prometedora (Estudio retrospectivo con emparejamiento por puntuación de propensión [PSM], n = 56 por grupo).
-* **Hallazgo:** La técnica asistida por *rubber-clip* (RCM) redujo significativamente la duración del procedimiento frente a la disección estándar (66,8 vs. 90,7 min; p = 0,024) y eliminó las perforaciones en el grupo intervenido (0,0% vs. 10,7%; p = 0,027). La falta de tracción fue el factor de riesgo independiente más fuertemente asociado a procedimientos prolongados (≥120 min).
-* **Importancia médica:** Demuestra cómo una modificación mecánica simple y económica optimiza la seguridad quirúrgica endoscópica, reduciendo el riesgo de perforación colónica y el tiempo operatorio sin necesidad de equipamiento de alto coste.
-* **Limitación:** Diseño retrospectivo monocéntrico; aunque se utilizó propensión para balancear covariables, el tamaño muestral tras el emparejamiento es moderado (56 pares).
-* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42781356/](https://pubmed.ncbi.nlm.nih.gov/42781356/)
+* **Revista:** *Journal of affective disorders*
+* **Tipo de estudio:** Revisión sistemática y metaanálisis de ensayos clínicos aleatorizados (ECA). Nivel de evidencia: **Evidencia prometedora / consolidada** (certeza GRADE moderada para síntomas negativos y antropometría).
+* **Hallazgo principal:** En 28 ECA ($n = 1119$), el ejercicio supervisado mejoró significativamente los síntomas negativos (Diferencia Media [MD] -3.078, IC 95%: -4.457 a -1.699; $p < 0.001$), la psicopatología general (MD -2.178) y la puntuación total en la PANSS (MD -7.069). Redujo peso corporal (-1.62 kg), porcentaje graso (-1.25%) y perímetro de cintura (-1.42 cm). No hubo cambios significativos en síntomas positivos, presión arterial ni glucemia en ayunas.
+* **Importancia clínica:** Ofrece una intervención coadyuvante no farmacológica efectiva contra los síntomas negativos (habitualmente refractarios a fármacos) y atenúa parcialmente el perfil de ganancia ponderal por antipsicóticos.
+* **Limitaciones:** La magnitud del cambio antropométrico no alcanzó los umbrales de relevancia clínica plena predefinidos. Evidencia baja a muy baja para perfiles lipídicos, tensión arterial y control glucémico.
+* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42838230/](https://pubmed.ncbi.nlm.nih.gov/42838230/)
 
 ---
 
-### 3. Comportamientos de movimiento de 24 horas y salud mental en adolescentes: análisis composicional
-* **Título:** Associations of 24-hour movement behavior composition with depressive symptoms and problematic internet use in Chinese adolescents: A cohort study.
+### 3. Vídeos breves de contacto social para promover la búsqueda de atención en adultos jóvenes con depresión
+* **Título:** *Brief social contact videos to promote treatment seeking among young adults with depressive symptoms: Intention change, suicidal ideation, and treatment use in a randomized controlled trial.*
 * **Fecha:** 2027
-* **Revista:** *Journal of Affective Disorders*
-* **Nivel de evidencia:** Evidencia observacional prospectiva (Estudio de cohorte prospectivo, n = 12.316).
-* **Hallazgo:** El sueño mostró asociaciones no lineales con la sintomatología depresiva y el uso problemático de internet (UPI), con puntos de menor riesgo (nadir) entre 8,50 y 8,81 h/día. En adolescentes con déficit de sueño, un mayor tiempo relativo de sueño se asoció con menor riesgo de síntomas depresivos (OR = 0,53; IC 95%: 0,37-0,76) y UPI (OR = 0,33; IC 95%: 0,22-0,50), particularmente cuando reemplazaba tiempo de pantalla.
-* **Importancia médica:** Ilustra el enfoque composicional: el tiempo diario es finito (24 h) y el impacto del ejercicio o la reducción de pantallas depende estrictamente de qué comportamiento se esté sustituyendo (p. ej., sueño frente a sedentarismo).
-* **Limitación:** El sueño, la actividad física y el tiempo de pantalla se evaluaron mediante cuestionarios autorreportados, sujetos a sesgo de recuerdo. No establece causalidad directa.
-* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42849854/](https://pubmed.ncbi.nlm.nih.gov/42849854/)
+* **Revista:** *Journal of affective disorders*
+* **Tipo de estudio:** Ensayo clínico aleatorizado (ECA). Nivel de evidencia: **Evidencia consolidada (ensayo clínico)**.
+* **Hallazgo principal:** En 1545 adultos jóvenes (18-25 años) con sintomatología depresiva, la visualización de microvídeos con testimonios reales de recuperación incrementó las intenciones de búsqueda de ayuda significativamente más que una viñeta escrita de idéntico contenido, traduciéndose en mayor uso de tratamiento a 30 días. La ideación suicida moderó positivamente la relación: el cambio de intención se tradujo en una búsqueda de tratamiento real aún mayor en aquellos con ideación suicida.
+* **Importancia clínica:** Valida una intervención digital de bajo coste y altamente escalable para superar la inercia terapéutica en una población con baja adherencia y alto riesgo.
+* **Limitaciones:** Reclutamiento en línea mediante plataforma digital (Prolific), lo que puede introducir sesgo de selección; seguimiento acotado a 30 días.
+* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42838232/](https://pubmed.ncbi.nlm.nih.gov/42838232/)
 
 ---
 
-### 4. Conectoma funcional cerebral completo como biomarcador predictivo en el trastorno por uso de videojuegos
-* **Título:** Predicting IGD treatment outcomes across interventions using a whole-brain functional connectome biomarker.
+### 4. Injerto tendinoso frente a capsulodesis dorsal en lesiones crónicas del ligamento escafosemilunar
+* **Título:** *Outcomes of Tendon Graft Versus Dorsal Capsulodesis Techniques for Chronic Scapholunate Ligament Injury in Adults: A Systematic Review.*
 * **Fecha:** 2027
-* **Revista:** *Dialogues in Clinical Neuroscience*
-* **Nivel de evidencia:** Evidencia clínica emergente (Ensayo clínico con biomarcador de neuroimagen y modelado predictivo de conectoma [CPM], n = 90 con validación externa).
-* **Hallazgo:** Mediante fMRI en reposo, una red combinada basada en el conectoma predijo significativamente la reducción de la gravedad adictiva posintervención (r = 0,480; p < 0,001). La conectividad cerebelosa integrada con redes motoras, subcorticales y de saliencia demostró capacidad predictiva validada en una cohorte independiente.
-* **Importancia médica:** Avanza la psiquiatría hacia la medicina personalizada al identificar sustratos neurobiológicos objetivos que anticipan la respuesta terapéutica a intervenciones conductuales antes de iniciarlas.
-* **Limitación:** Tamaño de muestra moderado (n = 90); requiere ensayos confirmatorios multiciudad y evaluación de coste-efectividad antes de su aplicación en la práctica clínica diaria.
-* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42862599/](https://pubmed.ncbi.nlm.nih.gov/42862599/)
+* **Revista:** *Journal of hand surgery global online*
+* **Tipo de estudio:** Revisión sistemática de estudios comparativos no aleatorizados (síntesis narrativa). Nivel de evidencia: **Evidencia emergente / baja certeza**.
+* **Hallazgo principal:** En 6 estudios ($n = 298$), ninguna de las dos técnicas demostró superioridad global consistente. La tenodesis de Brunelli modificada superó a otras técnicas de tenodesis en reducción de dolor (EVA 4.8 vs. 3.2 cm) y escala DASH (31.5 vs. 14.2 puntos). La capsulodesis dorsal ofreció alivio de dolor constante y menores fallos quirúrgicos. Ambas técnicas presentaron deterioro radiográfico a largo plazo, el cual no se correlacionó de forma constante con los síntomas clínicos.
+* **Importancia clínica:** Desmitifica la superioridad de la reconstrucción anatómica con injerto sobre la capsulodesis; recalca la necesidad de individualizar el procedimiento según las demandas funcionales y experiencia quirúrgica.
+* **Limitaciones:** Certeza de la evidencia calificada como "muy baja" (GRADE) debido a heterogeneidad y naturaleza no aleatorizada de los estudios (evaluados mediante ROBINS-I).
+* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42866307/](https://pubmed.ncbi.nlm.nih.gov/42866307/)
 
 ---
 
-### 5. Bienestar emocional materno perinatal vs. estilo de vida en el neurodesarrollo infantil
-* **Título:** Co-occurring maternal emotional well-being and lifestyle profiles from pregnancy to postpartum and offspring developmental outcomes: A prospective cohort study.
+### 5. Vesículas extracelulares de células madre mesenquimales en modelos de autismo
+* **Título:** *Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.*
 * **Fecha:** 2027
-* **Revista:** *Journal of Affective Disorders*
-* **Nivel de evidencia:** Evidencia observacional prospectiva (Estudio de cohorte prospectivo, n = 539 díadas madre-hijo).
-* **Hallazgo:** El perfil materno de alto riesgo (bajo bienestar y hábitos deficientes) se asoció con mayor agresividad (aβ = 5,34), problemas internalizantes (aβ = 5,65) y sospecha de retraso del lenguaje (AOR = 2,38; IC 95%: 1,23-4,61) en la descendencia de 2 a 5 años. Crucialmente, madres con bienestar emocional preservado pero menor adherencia a hábitos saludables mostraron desenlaces favorables en sus hijos, mientras que aquellas con bajo bienestar emocional pero hábitos saludables mantuvieron un riesgo conductual elevado en los niños.
-* **Importancia médica:** Desafía la priorización exclusiva de estilos de vida físicos (dieta/ejercicio) en obstetricia; la salud mental materna emerge como un factor determinante sobre el neurodesarrollo que no se compensa únicamente con conductas saludables.
-* **Limitación:** Muestra limitada a un único centro/región geográfica (Taiwán); factores de confusión no medidos del entorno posnatal temprano podrían influir en el desarrollo comunicativo y conductual.
-* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42810625/](https://pubmed.ncbi.nlm.nih.gov/42810625/)
+* **Revista:** *Behavioural brain research*
+* **Tipo de estudio:** Revisión sistemática y metaanálisis de estudios preclínicos (animales). Nivel de evidencia: **Evidencia preclínica**.
+* **Hallazgo principal:** En modelos murinos de autismo (5 estudios), los exosomas/vesículas extracelulares de MSC mejoraron la sociabilidad (Diferencia Media Estandarizada [SMD] = 1.34, IC 95%: 0.68–2.76), redujeron conductas repetitivas (SMD = -1.12) y disminuyeron citocinas proinflamatorias neurotóxicas (IL-1β: SMD -2.28; TNF-α: SMD -1.22; IL-6: SMD -1.03), elevando la IL-10 (SMD = 0.58).
+* **Importancia clínica:** Plantea una diana biológica y terapia libre de células prometedora para modular la neuroinflamación en trastornos del neurodesarrollo.
+* **Limitaciones:** **Estudio preclínico exclusivo en ratones.** No puede extrapolarse eficacia ni seguridad a humanos. Muestra pequeña ($k = 5$) y marcada heterogeneidad.
+* **Enlace:** [https://pubmed.ncbi.nlm.nih.gov/42759891/](https://pubmed.ncbi.nlm.nih.gov/42759891/)
 
 ---
 
 ## OTROS HALLAZGOS RELEVANTES
 
-* **Depuración de ROS intestinal y metaboloma microbiano en artritis reumatoide (Preclínica):** Nanoláminas de fósforo negro administradas por vía oral eliminaron especies reactivas de oxígeno (ROS) intestinales en ratones con artritis inducida por colágeno (CIA). Esto aumentó el metabolito microbiano ácido quinurénico (KYNA), el cual activó el receptor de aril hidrocarburos (AhR) e inhibió AKT/mTOR en células T CD4+, promoviendo la diferenciación hacia linfocitos Treg y restableciendo el balance Treg/Th17.
-  * *Revista / Fecha:* *Gut Microbes*, 2026.
-  * *Nivel de evidencia:* Preclínica (modelo animal murino).
-  * *Limitación:* Eficacia restringida a modelos murinos; no extrapolable aún a farmacoterapia humana.
-  * *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42888947/](https://pubmed.ncbi.nlm.nih.gov/42888947/)
-
-* **Polarización Th17/Treg en depresión mayor del adolescente (Clínica observacional):** Estudio transversal en 280 adolescentes (128 controles, 78 con depresión no psicótica, 74 con depresión psicótica). Ambos grupos con depresión presentaron niveles disminuidos de IL-6 e IL-10 y elevados de IL-17A, con un sesgo hacia el eje Th17/regulador (η² parcial = 0,158). Sin embargo, los perfiles de citoquinas periféricas no lograron diferenciar el subtipo psicótico del no psicótico.
-  * *Revista / Fecha:* *Journal of Affective Disorders*, 2027.
-  * *Nivel de evidencia:* Evidencia clínica observacional (casos y controles).
-  * *Limitación:* Estudio transversal que no permite inferir causalidad en la cronología neuroinflamatoria.
-  * *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42785393/](https://pubmed.ncbi.nlm.nih.gov/42785393/)
-
-* **Impedancia mucosa ex vivo para estadificación en cáncer gástrico temprano (Experimental diagnóstica):** En piezas resecadas por disección submucosa, la impedancia de baja frecuencia (MI-L) fue significativamente menor en tumores con invasión submucosa (pT1b: 6,9 Ω vs. pT1a: 9,7 Ω; p = 0,021) y en ulcerados (pUL1: 7,5 Ω vs. pUL0: 9,7 Ω; p = 0,030). La expresión inmunohistoquímica de Claudina-18 fue el único predictor independiente de MI-L.
-  * *Revista / Fecha:* *DEN Open*, 2027.
-  * *Nivel de evidencia:* Experimental diagnóstica *ex vivo*.
-  * *Limitación:* Mediciones realizadas en piezas quirúrgicas resecadas; su aplicabilidad *in vivo* en tiempo real durante la endoscopia requiere desarrollo tecnológico y validación clínica.
-  * *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42781318/](https://pubmed.ncbi.nlm.nih.gov/42781318/)
-
-* **Biomarcadores electroquímicos de activación endotelial (Experimental analítica):** Desarrollo de una plataforma portátil de espectroscopia de impedancia electroquímica (EIS) con electrodos de oro modificados con ZnO para cuantificar simultáneamente IL-6 (límite de detección 55,77 pg/mL) y E-selectina (3,38 ng/mL) en menos de 100 μL de plasma en menos de 10 minutos.
-  * *Revista / Fecha:* *Biosensors & Bioelectronics*, 2027.
-  * *Nivel de evidencia:* Experimental / Bioingeniería diagnóstica.
-  * *Limitación:* Validación analítica preliminar *in vitro*; falta validación clínica prospectiva en pacientes críticos o vasculópatas.
-  * *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42759301/](https://pubmed.ncbi.nlm.nih.gov/42759301/)
+* **Nanomedicina dirigida a neutrófilos en consolidación ósea bajo estrés:** En modelos murinos de estrés crónico (ansiedad) y fractura femoral, se identificó una subpoblación de neutrófilos patógenos ($TGF\beta 1^+ CCR5^+$) que inhiben osteoblastos. Un nanotransportador de EGCG cargado con AKBA dirigido a neutrófilos revirtió el bloqueo de la consolidación ósea (*Evidencia experimental/preclínica*).  
+  *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42831169/](https://pubmed.ncbi.nlm.nih.gov/42831169/)
+* **Polvos autogelificantes para hemostasia y manejo avanzado de heridas:** Revisión sobre biomateriales de rápida transición polvo-gel (*in situ*) para hemorragias no compresibles y heridas complejas, que combinan sellado físico con propiedades antiinflamatorias y proangiogénicas (*Evidencia preclínica/revisión narrativa*).  
+  *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42784980/](https://pubmed.ncbi.nlm.nih.gov/42784980/)
+* **Neuroimagen funcional (fMRI) combinada con Deep Learning en diagnóstico psiquiátrico:** El uso del preprocesamiento SPM-CONN junto con la red convolucional AlexNet alcanzó una precisión diagnóstica del 78.2% para Trastorno Bipolar y del 82.4% para Enfermedad de Alzheimer en datos de rs-fMRI (*Evidencia experimental/algorítmica*).  
+  *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42786613/](https://pubmed.ncbi.nlm.nih.gov/42786613/)
+* **Fragmentación del sueño y alteraciones conductuales en artritis murina (CIA):** La monitorización no invasiva a largo plazo en ratones con artritis por colágeno constató una reducción del 50% en el tiempo de reposo, correlacionándose las interrupciones del sueño con puntuaciones de mayor gravedad articular (*Evidencia preclínica*).  
+  *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42767510/](https://pubmed.ncbi.nlm.nih.gov/42767510/)
+* **Evolución y estado del arte en artroscopia de muñeca:** Transición de herramienta diagnóstica a plataforma reconstructiva/terapéutica mínimamente invasiva (pseudoartrosis de escafoides, fibrocartílago triangular e inestabilidad carpiana) (*Revisión narrativa / actualización clínica*).  
+  *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42859520/](https://pubmed.ncbi.nlm.nih.gov/42859520/)
+* **Inteligencia artificial en la prevención del suicidio:** Análisis de modelos de procesamiento de lenguaje para detectar señales sutiles de ideación suicida y simulación clínica mediante pacientes virtuales, advirtiendo sobre el uso no regulado de chatbots como sustitutos psicoterapéuticos (*Revisión cualitativa*).  
+  *Enlace:* [https://pubmed.ncbi.nlm.nih.gov/42862709/](https://pubmed.ncbi.nlm.nih.gov/42862709/)
 
 ---
 
-## QUÉ DEBERÍA ESTUDIAR
+## QUÉ DEBERÍA ESTUDIAR UN ESTUDIANTE DE MEDICINA
 
-1. **Fisiopatología del SIRS poscirculación extracorpórea vs. Sepsis nosocomial:** Comprender los mecanismos inmunológicos estériles activados por el bypass cardiopulmonar (contacto con superficies artificiales, lesión por isquemia-reperfusión) y la cinética de la PCR y la procalcitonina para evitar el uso inadecuado de antibióticos en la UCI cardiovascular.
-2. **Eje Intestino-Inmunidad-Articulación:** Estudiar la vía de señalización del receptor de hidrocarburos de arilo (AhR), la vía AKT/mTOR en linfocitos T colaboradores vírgenes y los mecanismos por los cuales los metabolitos microbianos (como el ácido quinurénico) regulan el balance fenotípico Treg/Th17.
-3. **Principios de Endoscopia Intervencionista:** Repasar la histología submucosa gastrointestinal, las indicaciones oncológicas de la resección en bloque y los principios biofísicos de tracción y tensión tisular que previenen perforaciones durante la disección submucosa endoscópica (ESD).
-4. **Epidemiología del movimiento y salud mental perinatal:** Analizar los modelos de sustitución isotemporal en medicina preventiva y la influencia del estrés/depresión perinatal sobre el eje hipotálamo-hipófisis-adrenal materno-fetal.
+1. **Patología dual y factores de riesgo en Trastorno Afectivo Bipolar:** Repasar la psicopatología descriptiva de manía/hipomanía, el cribado sistemático de consumo de tóxicos (especialmente cannabis) en primeros episodios afectivos y la neurobiología del sistema endocannabinoide.
+2. **Manejo del síndrome metabólico inducido por antipsicóticos:** Profundizar en los efectos metabólicos adversos de antipsicóticos de segunda generación y en el diseño de planes de ejercicio físico estructurado, conociendo su impacto directo sobre los síntomas negativos y la funcionalidad global.
+3. **Biomecánica e inestabilidad del carpo:** Estudiar la cinemática del ligamento escafosemilunar, la disociación radiocarpiana, la interpretación clínica de escalas funcionales (DASH) y la anatomía quirúrgica básica de tenodesis vs. capsulodesis.
+4. **Metodología de la investigación y lectura crítica:** Comprender la diferencia entre el estadístico SMD (diferencia media estandarizada) y MD (diferencia de medias), así como el marco GRADE para interpretar la degradación de certeza desde ensayos y estudios observacionales hasta metaanálisis preclínicos.
 
 ---
 
 ## ALERTAS DE EVIDENCIA
 
-* **Asociación no es causalidad (Salud mental en adolescentes y perfiles perinatales):** Los estudios de Fang et al. y Chakranon et al. muestran correlaciones robustas y asociaciones ajustadas, pero al ser observacionales no prueban que modificar el tiempo de pantalla o la dieta materna directamente "cure" los trastornos afectivos o prevenga los déficits del lenguaje sin considerar factores socioeconómicos y biológicos subyacentes.
-* **Brecha preclínica-humana (Fósforo negro y KYNA en Artritis):** Los resultados terapéuticos de las nanoláminas de fósforo negro (Ling et al.) fueron obtenidos en ratones con artritis inducida por colágeno. No deben interpretarse como una terapia aprobada o segura en humanos con artritis reumatoide; se encuentran en fase preclínica temprana.
-* **Significación estadística vs. Rendimiento diagnóstico (Biomarcadores post-CEC):** Aunque el pico de PCR y la temperatura mostraron significación estadística multivariable como predictores de infección (Erixon et al.), las curvas ROC evidenciaron un rendimiento global deficiente. Un valor estadísticamente significativo (p < 0,05) no garantiza que una prueba sea útil de forma aislada a la cabecera del paciente.
-* **Publicaciones sin datos primarios disponibles:** Varios registros analizados corresponden a protocolos de revisión sistemática (p. ej., Gandhi et al., *F1000Res* sobre hipotiroidismo subclínico) o resúmenes de conferencias sin texto/abstract accesible en la fuente. No deben emitirse juicios clínicos sobre intervenciones basadas en títulos o protocolos pendientes de resultados.
+* ⚠️ **Asociación vs. Causalidad (Cannabis y Trastorno Bipolar):** A pesar del RR de 2.46, se trata de datos de estudios observacionales basados en riesgos no ajustados. No se puede excluir causalidad inversa (automedicación en pródromos) ni factores de confusión no medidos (rasgos genéticos compartidos, policonsumo).
+* ⚠️ **Eficacia Preclínica vs. Traslación Humana (Vesículas de MSC en Autismo):** Los resultados del metaanálisis corresponden íntegramente a ratones. La respuesta de reducción de neuroinflamación y aumento de sociabilidad murina no garantiza eficacia ni biodisponibilidad en el neurodesarrollo humano.
+* ⚠️ **Disociación Clínico-Radiológica (Cirugía Escafosemilunar):** La progresión de artrosis o deterioro en radiografías a largo plazo no correlaciona de manera lineal con el dolor o la capacidad funcional percibida por el paciente. Además, la evidencia disponible es de certeza "muy baja" (GRADE).
+* ⚠️ **Significación Estadística vs. Importancia Clínica (Ejercicio y Antropometría):** Aunque el ejercicio reduce estadísticamente el peso corporal (-1.62 kg) y la circunferencia de cintura en pacientes que toman antipsicóticos, los propios autores advierten de que la magnitud no alcanza los umbrales de beneficio cardiometabólico clínicamente significativos por sí sola.
+* ⚠️ **Riesgos de IA en Salud Mental sin Validación Médica:** Los modelos de IA aplicados a la detección de ideación suicida o terapia digital plantean riesgos éticos y de seguridad si los pacientes acceden a herramientas no reguladas ni validadas clínicamente al margen del criterio psiquiátrico.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. The microbiome–nitric oxide axis in cancer immunotherapy: a targeted qualitative systematic review of mechanistic and translational evidence
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-10-09
-**Revista:** Front Immunol
+### 1. Therapeutic potential of mesenchymal stem cell-derived extracellular vesicles as a cell-free approach in autism spectrum disorder: A systematic review and meta-analysis of preclinical studies.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article, Meta-Analysis, Systematic Review
+**Autores:** Mohtashami T, Aghayan AH, Masoudi A, Atashi A, Garmabi B, Jamalpoor Z, Khaksari M
+**PMID:** 42759891  **DOI:** 10.1016/j.bbr.2026.116478
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759891/
+
+### 2. Investigating the role of artificial intelligence in predicting risk factors after liver transplantation: A systematic review
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-16
+**Revista:** Can Liver J
 **Tipo:** No especificado
-**Autores:** Enwere M, Bryan N, Onu A, Neufeld M, El-Hussein M, Yakub I, Omale C, Onyedike O, Atim T, Agbeyomi O, Davies E, Okeke U, Holmes L.
+**Autores:** Esmailzadeh A, Norouzkhani N, Heidari A, Habibi M.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 2. Early Initiation of Thyroid Hormone Therapy Versus Watchful Waiting or Delayed Treatment or no Treatment in Subclinical Hypothyroidism: A Systematic Review and Meta-analysis Protocol.
-**Área:** Ginecología y obstetricia
-**Fecha:** 2026-09-29
-**Revista:** F1000Res
+### 3. Machine Learning for Clinical Outcome Prediction After Transcatheter Aortic Valve Replacement: A Systematic Review and Meta-Analysis of Predictive Performance, Validation, and Clinical Readiness
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-01
+**Revista:** J Clin Med
 **Tipo:** No especificado
-**Autores:** Gandhi AP, Deshmukh KP, Kaliyappan A, Bang A, Gangane N.
-**PMID:** 42800939  **DOI:** 10.12688/f1000research.179360.3
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42800939/
-
-### 3. The prevalence of depressive symptoms in surrogate mothers following child relinquishment: a systematic review and meta-analysis
-**Área:** Ginecología y obstetricia
-**Fecha:** 2026-09-08
-**Revista:** Ann Med Surg (Lond)
-**Tipo:** No especificado
-**Autores:** Rashidian P, Amini-Salehi E, Haddadi M, Salehi S, Javankiani S, Abedinzadeh S, Karami S, Parsaei M, Ghaemi M, Hantoushzadeh S.
+**Autores:** Alizadehasl A, Abdi Bastami E, Hosseini Jebelli S, Narimani Davani D, Bahramnejad A, Yalameh Aliabadi A, Moussavi S, Ghaffari A, Amani-Beni R, Darouei B, Amini-Salehi E, Hashemi S, Golkar S, Hakimian H, Najdaghi S.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 4. Predicting IGD treatment outcomes across interventions using a whole-brain functional connectome biomarker.
-**Área:** Oncología e inmunoterapia
+### 4. Artificial Intelligence in Chronic Rhinosinusitis: From Molecular Profiling to Personalized Clinical Management—A Systematic Review
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-01
+**Revista:** Int J Mol Sci
+**Tipo:** No especificado
+**Autores:** Huang C, Hsieh D, Lin J, Sreesawat M, Yeh T, Lin C.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 5. Delusion of Pregnancy: An Updated Systematic Review
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-09-23
+**Revista:** J Clin Med
+**Tipo:** No especificado
+**Autores:** Fabris M, Ścigała D.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 6. When Fever Hides Fire: A Systematic Review of Clinical and Digital Approaches to Early Recognition of Pediatric Sepsis
+**Área:** Urgencias, cuidados críticos y sepsis
+**Fecha:** 2026-10-16
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Abdulrahman M, Abdalmagid O, Almardy A, Mohamed Elhassan O, Abu Haltem I, Ahmed A, Babekr N.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 7. Prognostic value of NLR, SII, PCT, and PLR in sepsis and septic shock: a systematic review and meta-analysis
+**Área:** Urgencias, cuidados críticos y sepsis
+**Fecha:** 2026-10-10
+**Revista:** Front Med (Lausanne)
+**Tipo:** No especificado
+**Autores:** Wang X, Wang K, Zhao F, Li F, Li L.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 8. Outcomes of Tendon Graft Versus Dorsal Capsulodesis Techniques for Chronic Scapholunate Ligament Injury in Adults: A Systematic Review.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Journal of hand surgery global online
+**Tipo:** Journal Article
+**Autores:** Alsanawi HAS, Elansary EAN, Asiri AAS, AlEtebi RAA, Mufti TMA, AlEtebi HAA, Alenazi NMM, Alnazhan ASA
+**PMID:** 42866307  **DOI:** 10.1016/j.jhsg.2026.101157
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42866307/
+
+### 9. Cannabis use and subsequent onset of manic symptoms and bipolar disorder: A systematic review and meta-analysis.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Journal of affective disorders
+**Tipo:** Journal Article, Systematic Review, Meta-Analysis, Review
+**Autores:** Sanjuan-Ortiz C, Querol P, Aymerich C, Laherran N, Ditlevsen F, Navalón P, Rojo-Bofill LM, Young AH
+**PMID:** 42838231  **DOI:** 10.1016/j.jad.2026.122588
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42838231/
+
+### 10. Exercise to enhance antipsychotic effectiveness and mitigate metabolic harm: systematic review and meta-analysis.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Journal of affective disorders
+**Tipo:** Journal Article, Systematic Review, Meta-Analysis, Review
+**Autores:** Etayo-Urtasun P, Ancín-Osés A, Izquierdo M, Sáez de Asteasu ML
+**PMID:** 42838230  **DOI:** 10.1016/j.jad.2026.122587
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42838230/
+
+### 11. AI-based clinical decision support systems for antibiotic therapy in common adult infections: a systematic review from development to clinical implementation
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-16
+**Revista:** Front Digit Health
+**Tipo:** No especificado
+**Autores:** Hueda-Zavaleta M, Flores-Palacios R, Bardales-Silva F, Cotacallapa-Pino E, Frenkel A, Minchon-Vizconde D, Gomez de la Torre Pretell J.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 12. Effects of VR interventions on pediatric ADHD: a systematic review, meta-analysis and exploratory machine-learning analysis
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-16
+**Revista:** Front Psychiatry
+**Tipo:** No especificado
+**Autores:** Zhou T, Li D, Chen X, Xu Y, Dai D, Zhang F.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 13. High-grade gliomas where resources define survival: a systematic review and meta-analysis of outcomes, surgical access, and molecular diagnostic gaps in low- and middle-income countries
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-16
+**Revista:** Front Oncol
+**Tipo:** No especificado
+**Autores:** Castillo Rangel C, Reyes Soto G, Berrio Perea E, Gutiérrez-Baños J, Diaz Juarez E, Salazar B, Chavda V, Peralta Baez I, Nurmukhametov R, Cuevas D, de la Cruz L, Rosario Rosario A, Bigay B, Gungor A, Encarnacion Ramirez M.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 14. The Effect of Oral Isotretinoin on Quality of Life in Patients With Acne Vulgaris: A Systematic Review and Meta-Analysis of Patient-Reported Outcomes
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-16
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Albaqami A, Albqami S.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 15. The Potential Therapeutic Effects of Testosterone on Sarcopenia: A Thorough Systematic Review
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-16
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Khan B, Rupanshu R, Mann R, Chopra I, Kilic A, Saxena A, Hamid P.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 16. Brief social contact videos to promote treatment seeking among young adults with depressive symptoms: Intention change, suicidal ideation, and treatment use in a randomized controlled trial.
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2027
+**Revista:** Journal of affective disorders
+**Tipo:** Journal Article, Randomized Controlled Trial
+**Autores:** Levy T, Kuperberg M, Avrahami M, Wainberg ML, Amsalem D
+**PMID:** 42838232  **DOI:** 10.1016/j.jad.2026.122575
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42838232/
+
+### 17. Artificial Intelligence in suicide prevention: promise, peril, and clinical implications for clinical practice.
+**Área:** Psiquiatría y salud mental
 **Fecha:** 2027
 **Revista:** Dialogues in clinical neuroscience
-**Tipo:** Clinical Trial, Journal Article
-**Autores:** Wei M, Luo X, Fu J, Li S, Ni H, Liu J, Dong GH
-**PMID:** 42862599  **DOI:** 10.1080/19585969.2026.2742156
+**Tipo:** Journal Article, Review
+**Autores:** Nobile B, Courtet P
+**PMID:** 42862709  **DOI:** 10.1080/19585969.2026.2745684
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42862599/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42862709/
 
-### 5. Chinese expert consensus on the clinical application of stromal vascular fraction combined with bone marrow flushing for osteonecrosis of the femoral head
-**Área:** Cirugía, trauma y ortopedia
-**Fecha:** 2026-09-01
-**Revista:** J Orthop Translat
+### 18. Ketogenic therapy as a potential novel treatment approach for PTSD: an integrative review and proposed mechanistic model.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-09-09
+**Revista:** Front Psychiatry
 **Tipo:** No especificado
-**Autores:** Wang X, Zhang J, Cheng L, Peng J.
+**Autores:** Engelhardt R, Ogedengbe JO, Millet MS, Ayad MEG, Schalinski I, Von Oertzen T, Rieckmann A, Effinger D, Hirschberger S, Palmer CM, Ede G, Kraus SW, Trommer D, Schreel L, Tulipan J, Way B, Müller RU, Hull A, Maes J, Potenza MN.
+**PMID:** 42780737  **DOI:** 10.3389/fpsyt.2026.1854499
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42780737/
+
+### 19. What's New in Hand and Wrist Arthroscopy: Indications, Techniques, and Emerging Applications.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Journal of hand surgery global online
+**Tipo:** Journal Article, Review
+**Autores:** Johnsen PH, Chhabra AB, DeGeorge BR
+**PMID:** 42859520  **DOI:** 10.1016/j.jhsg.2026.101140
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42859520/
+
+### 20. Artificial intelligence in the biomechanics of knee osteoarthritis: biomechanical phenotyping, risk stratification, diagnosis, treatment and clinical translation—a narrative review
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-10-09
+**Revista:** Front Bioeng Biotechnol
+**Tipo:** No especificado
+**Autores:** Zhang B, Yu X, Zhang Z, Zhou X, Zhao W, Zhao C.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 6. Associations of 24-hour movement behavior composition with depressive symptoms and problematic internet use in Chinese adolescents: A cohort study.
-**Área:** Pediatría y neonatología
-**Fecha:** 2027
-**Revista:** Journal of affective disorders
-**Tipo:** Journal Article
-**Autores:** Fang B, Sun Y, Bai Y, Liu WJ, Lin R, Xia W
-**PMID:** 42849854  **DOI:** 10.1016/j.jad.2026.122605
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42849854/
-
-### 7. Co-occurring maternal emotional well-being and lifestyle profiles from pregnancy to postpartum and offspring developmental outcomes: A prospective cohort study.
-**Área:** Ginecología y obstetricia
-**Fecha:** 2027
-**Revista:** Journal of affective disorders
-**Tipo:** Journal Article
-**Autores:** Chakranon P, Huang JP, Au HK, Lin CL, Chen YY, Mao SP, Kim P, Taya DA
-**PMID:** 42810625  **DOI:** 10.1016/j.jad.2026.122572
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810625/
-
-### 8. Advances and perspectives in genetically encoded biosensors for biomarker detection and theranostic circuits.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** Synthetic and systems biotechnology
-**Tipo:** Journal Article, Review
-**Autores:** Xu J, Qi Q, Wang Q
-**PMID:** 42831006  **DOI:** 10.1016/j.synbio.2026.09.006
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831006/
-
-### 9. Therapeutic Balloon-Assisted Enteroscopy: Recent Advances in the Management of Small Bowel Diseases.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article, Review
-**Autores:** Nagayama M, Kinoshita T, Kawaguchi H, Fujinuma T, Fujikura S, Hayashi H, Tamaru T, Sakamoto H
-**PMID:** 42852132  **DOI:** 10.1002/deo2.70449
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42852132/
-
-### 10. Not All Extracellular Vesicles Are Equal: A Narrative Comparative Review of Source-Dependent Function and Therapeutic Potential
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-09-23
-**Revista:** Cells
+### 21. The Parallel Consultation: A Literature Review of Patient Use of Large Language Models and Its Implications for Psychiatric Clinical Decision-Making
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-09-29
+**Revista:** Cureus
 **Tipo:** No especificado
-**Autores:** Zandi Mehran Y, Weber M, Hoseinzade F.
+**Autores:** Kahlon A, Wallace L, Walker T, Sivakumar S, Brara B, Bawden D.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 11. Incidence and implications of anti-rituximab antibodies in nephropathies and other immune-mediated diseases: a narrative review.
-**Área:** Inmunología y reumatología
+### 22. Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.
+**Área:** Psiquiatría y salud mental
 **Fecha:** 2026-09-15
-**Revista:** Front Immunol
+**Revista:** Front Psychiatry
 **Tipo:** No especificado
-**Autores:** Allinovi M, Lomi J, Accinno M, Teisseyre M, Diomaiuti M, Madeo R, Allegretta F, Matucci A, Vultaggio A.
-**PMID:** 42812566  **DOI:** 10.3389/fimmu.2026.1896560
+**Autores:** Civardi SC, Besana F, Durbano F, Toscano MOM, Raffone F, Dell'Osso BM, Olivola M.
+**PMID:** 42812990  **DOI:** 10.3389/fpsyt.2026.1858319
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42812566/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42812990/
 
-### 12. Long-term monitoring reveals immobility-defined sleep fragmentation and behavioural alterations in collagen-induced arthritis mouse model of both sexes.
-**Área:** Inmunología y reumatología
+### 23. Gelation mechanisms, structure-property relationships, and wound management applications of self-gelling powders.
+**Área:** Urgencias, cuidados críticos y sepsis
+**Fecha:** 2027
+**Revista:** Biomaterials advances
+**Tipo:** Journal Article, Review
+**Autores:** Zhu W, Yu W, Zhao F, Si G, Lv F
+**PMID:** 42784980  **DOI:** 10.1016/j.bioadv.2026.215194
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42784980/
+
+### 24. Sustainability of infectious disease elimination: a scoping review on integrating treatment and surveillance within health systems.
+**Área:** Epidemiología, salud pública y prevención
+**Fecha:** 2026-09-28
+**Revista:** BMJ Open
+**Tipo:** No especificado
+**Autores:** Baker MC, Minahan G, Khayat A, Dorris CS, Benghomari B, Brady M, Yousef D, Diawara A, Jarawan E.
+**PMID:** 42805648  **DOI:** 10.1136/bmjopen-2026-119269
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42805648/
+
+### 25. The health status of incarcerated people in Canada: a narrative review
+**Área:** Epidemiología, salud pública y prevención
+**Fecha:** 2026-09-26
+**Revista:** Front Public Health
+**Tipo:** No especificado
+**Autores:** Slaunwhite A, Hoolsema S, Ogiral A, Roth K, Smith S, Krishnamoorthy A, Mead A, Martin R.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 26. Scoping review of public health emergency management training programmes and curricula in Africa (2000-2025): implications for policy, practice and research.
+**Área:** Epidemiología, salud pública y prevención
+**Fecha:** 2026-09-21
+**Revista:** BMJ Public Health
+**Tipo:** No especificado
+**Autores:** Olu OO, Adewuyi P, Kyobe Bosa H, Monday J, Alpha ST, King RE, Yealue KDM, Tanyanyiwa ET, Akinwande O, Coulibaly SO, Ismail M, Maleghemi S, Petu A, Usman A, Lubajo R.
+**PMID:** 42781536  **DOI:** 10.1136/bmjph-2026-004980
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781536/
+
+### 27. Sculpting the developing brain: a review of neural mechanisms linking physical activity to executive function and emotion regulation in youth
+**Área:** Medicina basada en evidencia e investigación clínica
+**Fecha:** 2026-10-16
+**Revista:** Front Psychol
+**Tipo:** No especificado
+**Autores:** Wen D, Lin Y, Sun J, Lv S, Wang J, Yuan T, Zhu D.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 28. Aptamer-functionalized EGCG nanocarrier for neutrophil-targeted AKBA delivery promotes anxiety-related fracture healing.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Ouyang L, Zhang Y, Liao J, Zhang Z, He X, Lin Z, Tao R, Xie X
+**PMID:** 42831169  **DOI:** 10.1016/j.bioactmat.2026.09.028
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831169/
+
+### 29. Neuroimaging Biomarkers for Brain Disorder Diagnosis Using Advanced Learning Techniques.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2027
+**Revista:** International journal of neural systems
+**Tipo:** Journal Article
+**Autores:** Ion IA, Chira C
+**PMID:** 42786613  **DOI:** 10.1142/S0129065727500158
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42786613/
+
+### 30. Long-term monitoring reveals immobility-defined sleep fragmentation and behavioural alterations in collagen-induced arthritis mouse model of both sexes.
+**Área:** Psiquiatría y salud mental
 **Fecha:** 2027
 **Revista:** Behavioural brain research
 **Tipo:** Journal Article
@@ -234,184 +404,4 @@
 **PMID:** 42767510  **DOI:** 10.1016/j.bbr.2026.116495
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42767510/
-
-### 13. Targeted intestinal ROS scavenging alleviated rheumatoid arthritis by microbial metabolite kynurenic acid mediated Treg/Th17 balance through AhR pathway activation.
-**Área:** Inmunología y reumatología
-**Fecha:** 2026
-**Revista:** Gut microbes
-**Tipo:** Journal Article
-**Autores:** Ling Z, Xiang T, Yang C, Zhang D, You Y, Xiao S, Xie L, Tan J
-**PMID:** 42888947  **DOI:** 10.1080/19490976.2026.2739669
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42888947/
-
-### 14. Toward adaptive therapeutic timing: integration of mechanistic pharmacology and artificial intelligence in precision dosing.
-**Área:** Pediatría y neonatología
-**Fecha:** 2026-09-03
-**Revista:** Front Pharmacol
-**Tipo:** No especificado
-**Autores:** Gong Y, Ren W, Xiong Z, Wu C, Tan C.
-**PMID:** 42756177  **DOI:** 10.3389/fphar.2026.1890846
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756177/
-
-### 15. Postoperative infections after cardiac surgery with cardiopulmonary bypass - incidence, performance of diagnostic procedures, and predictive factors.
-**Área:** Cirugía, trauma y ortopedia
-**Fecha:** 2027
-**Revista:** Scandinavian cardiovascular journal : SCJ
-**Tipo:** Journal Article
-**Autores:** Erixon C, Johannesson E, Dardashti A, Melhammar L, Nilsson J, Thelaus L, Linder A, Zindovic I
-**PMID:** 42860039  **DOI:** 10.1080/14017431.2026.2745880
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42860039/
-
-### 16. Synchronous and Metachronous Multiple Gastric Epithelial Neoplasms Detected During Index Evaluation and Post-Endoscopic Submucosal Dissection Surveillance: A Descriptive Comparison.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Yoshio T, Fukunaga S, Nakane T, Minami S, Cho T, Tsuruta K, Tanaka H, Gotou R
-**PMID:** 42781370  **DOI:** 10.1002/deo2.70437
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781370/
-
-### 17. Clinical Outcomes of Rubber-clip-assisted Versus Conventional Colorectal Endoscopic Submucosal Dissection: A Retrospective Study.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Uyama K, Iwagami H, Akamatsu T, Sakano R, Kitada T, Shimoyama M, Terashita T, Nakatani Y
-**PMID:** 42781356  **DOI:** 10.1002/deo2.70415
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781356/
-
-### 18. Submucosal Invasion and Ulceration in Early Gastric Cancer Affect Mucosal Impedance.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Miyashiro K, Sawada Y, Kikuchi H, Goto S, Yoshizawa T, Nakano S, Asari T, Tetsuya T
-**PMID:** 42781318  **DOI:** 10.1002/deo2.70434
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42781318/
-
-### 19. Global trends and knowledge evolution of tertiary lymphoid structures in cancer immunotherapy: a bibliometric and visualization analysis
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-10-16
-**Revista:** Front Immunol
-**Tipo:** No especificado
-**Autores:** Li Y, Cao Z, Zhou J, Zhang Y, Han W, Wu Z.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 20. ESICM LIVES 2026
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-10-01
-**Revista:** Intensive Care Med Exp
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 21. TLR9 Agonists Potentiate Adoptive T-cell Therapy in Cancer through a B-cell-CD2 Costimulatory Axis.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-10-01
-**Revista:** Cancer Res
-**Tipo:** No especificado
-**Autores:** Ruffin AT, Toliopoulos V, Smith AS, Kumaresan S, Wyatt MM, Salzinger M, Cole AC, Wittling MC, Mason RL, Carmouche JH, Abdelbary MA, Liu Y, Posey AD, Lesinski GB, Paulos CM.
-**PMID:** 42406997  **DOI:** 10.1158/0008-5472.can-26-0202
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42406997/
-
-### 22. Intrathecal Allogeneic B7-H3-Targeted CAR γδ T Cells for Leptomeningeal Metastasis from Solid Tumors: Safety, Efficacy, and Immunologic Dynamics in a Phase I Trial.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-10-01
-**Revista:** Clin Cancer Res
-**Tipo:** No especificado
-**Autores:** Ma P, Zhou Y, Ma W, Wang Y, Cai H, Sui Y, Zhao L, Zhang Y, Wang S, Li N.
-**PMID:** 42207176  **DOI:** 10.1158/1078-0432.ccr-26-0738
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42207176/
-
-### 23. Integrated SEM, TEM and CLSM workflow for tegumental analysis of adult Schistosoma mansoni.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Micron (Oxford, England : 1993)
-**Tipo:** Journal Article
-**Autores:** de Carvalho Augusto R, João RCF, Barbosa HS, Mello-Silva CC, Santos CP
-**PMID:** 42822059  **DOI:** 10.1016/j.micron.2026.104119
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42822059/
-
-### 24. Thyroid hormone synthesis and AITD-related inflammatory factors are modulated during early pregnancy in ewes.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article
-**Autores:** Zhang Y, Wang X, Chang H, Yang H, Zhang L, Yang L
-**PMID:** 42790002  **DOI:** 10.1016/j.theriogenology.2026.118209
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42790002/
-
-### 25. Serum cytokines and T-helper-related immune axes in adolescent major depressive disorder with and without psychotic features.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Journal of affective disorders
-**Tipo:** Journal Article
-**Autores:** Luo J, Huang H, Shao W, Wu Y, Xu G, Qi Y, Zheng Y, He F
-**PMID:** 42785393  **DOI:** 10.1016/j.jad.2026.122533
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42785393/
-
-### 26. Linking cytokine signaling to vascular response: Impedance biosensing of E-selectin and IL-6 for endothelial activation assessment.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Biosensors & bioelectronics
-**Tipo:** Journal Article
-**Autores:** David BE, Madhurantakam S, Mathew G, Desai AM, Karnam JB, Dhamu VN, Muthukumar S, Prasad S
-**PMID:** 42759301  **DOI:** 10.1016/j.bios.2026.119230
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42759301/
-
-### 27. Immune–metabolic convergence in skeletal remodeling disorders: shared osteoimmune, senescent and lipid mechanisms across aging-related and immune-mediated bone disease
-**Área:** Inmunología y reumatología
-**Fecha:** 2026-10-10
-**Revista:** Front Immunol
-**Tipo:** No especificado
-**Autores:** Guo T, Zheng H, Jiang Q.
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 28. Discovery of Post-Translationally Modified Epitopes in Autoimmunity: Someone Has to Fish so Everyone Can Eat.
-**Área:** Inmunología y reumatología
-**Fecha:** 2026-10-01
-**Revista:** Immunol Rev
-**Tipo:** No especificado
-**Autores:** Arshad S, Cameron BM, Joglekar AV.
-**PMID:** 42802417  **DOI:** 10.1111/imr.70179
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42802417/
-
-### 29. Rheumatologists' expectations and perceptions of T-cell redirecting therapies: results from a cross-sectional survey.
-**Área:** Inmunología y reumatología
-**Fecha:** 2026-09-26
-**Revista:** Rheumatol Int
-**Tipo:** No especificado
-**Autores:** Meinecke A, Knitza J, Witte T, Rademacher J, Müller F, Düsing C, Zeeck M, Grieshaber-Bouyer R, Hagen M, Haase I, Holzer MT, Working Group Young Rheumatologists of the German society for Rheumatology and Immunology.
-**PMID:** 42799770  **DOI:** 10.1007/s00296-026-06300-3
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42799770/
-
-### 30. Proceedings of the 33rd European Paediatric Rheumatology Congress.
-**Área:** Inmunología y reumatología
-**Fecha:** 2026-09-16
-**Revista:** Pediatr Rheumatol Online J
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** 42750029  **DOI:** 10.1186/s12969-026-01260-1
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42750029/
 
