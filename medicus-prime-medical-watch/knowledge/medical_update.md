@@ -1,6 +1,6 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-10-24T16:31+00:00**
+> Actualizado: **2026-10-25T17:04+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 # MEDICUS PRIME — ACTUALIZACIÓN CIENTÍFICA
@@ -9,426 +9,432 @@
 
 ## TOP 5
 
-### 1. Azitromicina profiláctica en prematuros extremos: disrupción del microbioma y expansión del resistoma
-* **Título:** *The impact of prophylactic azithromycin on the developing preterm gut microbiome and resistome.*
-* **Fecha:** 2026
-* **Revista:** *Gut Microbes*
-* **Tipo de estudio:** Ensayo clínico multicéntrico, aleatorizado, doble ciego, controlado con placebo (Estudio AZTEC; n = 693).
-* **Nivel de evidencia:** Consolidada (Ensayo clínico aleatorizado en humanos).
-* **Hallazgo:** La administración intravenosa profiláctica de azitromicina durante 10 días a recién nacidos prematuros (< 30 semanas de gestación) redujo significativamente la diversidad alfa microbiana y la abundancia relativa de *Bifidobacterium*, al tiempo que aumentó la colonización por patobiontes (*Staphylococcus* y *Enterobacter*/*Klebsiella*). Asimismo, incrementó la presencia de genes de resistencia a macrólidos, notablemente *erm(C)*, los cuales persistieron hasta el final del seguimiento (día 21 o alta). La administración concomitante o discrecional de probióticos incrementó la abundancia de *Bifidobacterium*, pero no mitigó por completo el daño e incluso potenció la carga total de genes de resistencia y el enriquecimiento de *Enterobacter*/*Klebsiella*.
-* **Importancia para el estudiante:** Demuestra el impacto yatrogénico de los esquemas antibióticos empíricos profilácticos tempranos. Evidencia cómo la modulación farmacológica neonatal induce presiones de selección persistentes en el resistoma intestinal humano.
-* **Limitación:** El uso de probióticos se realizó a discreción individual de cada centro de cuidados intensivos neonatales participantes y no de forma aleatorizada estandarizada.
-* **Enlace:** [PubMed: 42879303](https://pubmed.ncbi.nlm.nih.gov/42879303/)
+### 1. Inercia clínica y subdiagnóstico crítico de fibrosis hepática avanzada en MASLD: análisis de la cohorte *All of Us*
+* **Título:** *Liver fibrosis risk, missed follow-up, and inequitable specialist referral in the All of Us Research Program: a retrospective cohort study*
+* **Fecha:** 2027
+* **Revista:** *Lancet Regional Health - Americas*
+* **Tipo de estudio:** Estudio de cohorte retrospectivo multicéntrico (N = 136.004 adultos)
+* **Nivel de evidencia:** **Consolidada** (evidencia observacional de gran escala poblacional).
+* **Hallazgo clave:** Un 19,8% de la cohorte presentó riesgo indeterminado y un 8,2% riesgo alto según el índice FIB-4 (>2,67). Un FIB-4 alto se asoció de forma independiente con un riesgo masivamente superior de desenlaces hepáticos adversos mayores (MALO) en comparación con el riesgo bajo (aHR 19,68; IC 95%: 17,88–21,67). No obstante, menos del 1% de los pacientes de alto riesgo recibieron pruebas confirmatorias elastográficas/serológicas o derivación a gastroenterología/hepatología (derivación efectiva: 0,19%).
+* **Importancia clínica:** Subraya una grave desconexión entre la estratificación de riesgo rutinaria y la acción médica en atención primaria. Demuestra el alto valor pronóstico de biomarcadores calculables a bajo costo (FIB-4) e identifica la urgente necesidad de implementar cálculos automatizados e interconsultas reflejas para evitar el subdiagnóstico de cirrosis y hepatocarcinoma prevenibles.
+* **Limitación:** Diseño retrospectivo observacional basado en registros de salud electrónicos de una cohorte de voluntarios, con potenciales sesgos de selección, datos faltantes y sin evaluar de manera directa la causalidad de intervenciones clínicas posteriores.
+* **Enlace:** [PubMed: 42920888](https://pubmed.ncbi.nlm.nih.gov/42920888/)
 
 ---
 
-### 2. Impacto clínico del asma comórbida en pacientes con enfermedad pulmonar obstructiva crónica (EPOC)
-* **Título:** *Comorbid asthma - occurrence and associations with patient-related outcomes in COPD: a cohort study.*
+### 2. Asociación entre el síndrome Cardiovascular-Renal-Metabólico (CKM) y mortalidad por suicidio
+* **Título:** *Cardiovascular-Kidney-Metabolic syndrome and suicidal death in a nationwide cohort study*
 * **Fecha:** 2027
-* **Revista:** *Scandinavian Journal of Primary Health Care*
-* **Tipo de estudio:** Estudio de cohortes longitudinal observacional retrospectivo y prospectivo (Cohorte 2005: n = 1060; Cohorte 2014: n = 1671).
-* **Nivel de evidencia:** Consolidada (Estudio de cohortes en población real con seguimiento a 10 años).
-* **Hallazgo:** La prevalencia de asma comórbida diagnosticada en pacientes con EPOC descendió del 22% (cohorte 2005) al 9% (cohorte 2014). En ambas cohortes, el diagnóstico comórbido se asoció independientemente con un mayor riesgo de exacerbaciones: OR 1,58 (IC 95%: 1,07-2,32; p = 0,02) y OR 2,20 (IC 95%: 1,38-3,52; p < 0,001), respectivamente. No se detectó deterioro diferencial en el estado de salud medido por el CCQ. Respecto a la mortalidad a 10 años, no hubo diferencias en la cohorte de 2005 (HR 0,92; IC 95%: 0,71-1,18), mientras que en la de 2014 se asoció a una menor mortalidad (HR 0,67; IC 95%: 0,49-0,93; p = 0,02).
-* **Importancia para el estudiante:** Refuerza la necesidad de identificar activamente el solapamiento de asma en pacientes con EPOC, dado que duplica el riesgo de exacerbaciones graves, lo cual condiciona la indicación terapéutica de corticoides inhalados según las guías clínicas.
-* **Limitación:** Los diagnósticos de asma y EPOC dependieron de registros médicos de práctica clínica habitual en atención primaria y especializada, sujetos a sesgos de clasificación temporal.
-* **Enlace:** [PubMed: 42894311](https://pubmed.ncbi.nlm.nih.gov/42894311/)
+* **Revista:** *Journal of Affective Disorders*
+* **Tipo de estudio:** Estudio de cohorte de base poblacional nacional (N = 4.601.001)
+* **Nivel de evidencia:** **Consolidada** (epidemiológica observacional de alta potencia estadística).
+* **Hallazgo clave:** Durante una mediana de seguimiento de 10,11 años (12.034 suicidios), los estadios avanzados del síndrome CKM se asociaron con un aumento significativo del riesgo de suicidio (Estadio 3: aHR 1,328; IC 95%: 1,217–1,449; Estadio 4: aHR 1,319; IC 95%: 1,220–1,426). La asociación persistió tras ajustar por diagnósticos psiquiátricos y en modelos de riesgos competitivos para mortalidad general (subdistribution HR para estadio 4: 1,246; IC 95%: 1,150–1,349). El impacto fue especialmente pronunciado en adultos jóvenes (20–39 años) y en aquellos sin diagnóstico previo documentado de depresión.
+* **Importancia clínica:** Advierte al médico clínico y cardiólogo que el deterioro multiorgánico cardiometabólico y renal conlleva una carga psicosocial oculta y letal. Respalda la incorporación obligatoria de cribado de salud mental dentro del manejo de pacientes con enfermedad vascular y metabólica avanzada.
+* **Limitación:** Asociación observacional que no demuestra causalidad biológica directa; uso de diagnósticos codificados en bases de reclamos de seguros que puede subestimar patologías psiquiátricas no declaradas.
+* **Enlace:** [PubMed: 42822542](https://pubmed.ncbi.nlm.nih.gov/42822542/)
 
 ---
 
-### 3. UNC93B1 como regulador inmunitario: de la susceptibilidad a virus a la autoinmunidad sistémica
-* **Título:** *The ups and downs of human UNC93B1: Autoimmune and viral conditions.*
+### 3. Radioterapia estereotáctica ablativa en fracción única (SF-SBRT) para tumores primarios extracraneales
+* **Título:** *Efficacy and safety of single-fraction stereotactic body radiotherapy (SBRT) for the curative treatment of extracranial primary Tumors: A collaborative systematic review on behalf of the SBRT Focus Group of the European Society for Radiotherapy & Oncology (ESTRO)*
 * **Fecha:** 2027
-* **Revista:** *Journal of Human Immunity*
-* **Tipo de estudio:** Revisión narrativa / síntesis mecanística basada en genética humana.
-* **Nivel de evidencia:** Consolidada / Emergente (Genética médica humana funcional).
-* **Hallazgo:** La proteína del retículo endoplásmico UNC93B1 coordina la estabilidad, tráfico intracelular y señalización competitiva de los receptores endosomales de ácidos nucleicos (TLR3, TLR7, TLR8 y TLR9). Mutaciones con pérdida de función (*loss-of-function*) bialélicas en *UNC93B1* anulan selectivamente la señalización de TLR3 en células del sistema nervioso central, predisponiendo a encefalitis por virus herpes simple tipo 1 (HSV-1). Por el contrario, variantes con ganancia de función (*gain-of-function*) hiperactivan TLR7/TLR8, rompiendo la tolerancia a lo propio y desencadenando lupus eritematoso sistémico (LES) de inicio precoz y lupus pernio/sabañón.
-* **Importancia para el estudiante:** Ilustra de manera paradigmática cómo un único nodo molecular puede bifurcar la patología médica: el déficit de señalización genera inmunodeficiencia primaria selectiva a infecciones virales, mientras que su exceso conduce a autoinmunidad sistémica mediada por interferón.
-* **Limitación:** Es un artículo de revisión narrativa que resume series de casos y estudios mecanicistas; no aporta nuevos datos epidemiológicos de incidencia poblacional.
-* **Enlace:** [PubMed: 42900002](https://pubmed.ncbi.nlm.nih.gov/42900002/)
+* **Revista:** *Clinical and Translational Radiation Oncology*
+* **Tipo de estudio:** Revisión sistemática colaborativa multidisciplinar (ESTRO)
+* **Nivel de evidencia:** **Consolidada** (síntesis sistemática de evidencia clínica).
+* **Hallazgo clave:** En localizaciones anatómicas seleccionadas, la SF-SBRT con fines curativos ofrece un control tumoral comparable al hipofraccionamiento clásico con un perfil de toxicidad favorable y ventajas logísticas sustanciales para el paciente y los sistemas de salud. Sin embargo, su éxito y seguridad dependen de criterios de selección anatómica muy estrictos y de requerimientos tecnológicos avanzados para la planificación y entrega guiada por imagen.
+* **Importancia clínica:** Permite entender la evolución de la radioterapia ultra-hipofraccionada hacia tratamientos ambulatorios en una única sesión, reduciendo listas de espera y optimizando la atención en cáncer extracraneal seleccionado.
+* **Limitación:** Gran heterogeneidad entre los protocolos y sitios primarios evaluados; requiere infraestructura tecnológica de alta gama no universalmente disponible en centros periféricos.
+* **Enlace:** [PubMed: 42898625](https://pubmed.ncbi.nlm.nih.gov/42898625/)
 
 ---
 
-### 4. Estimulación de la linfangiogénesis miocárdica mediante formulaciones poliméricas de bioingeniería tisular
-* **Título:** *Tissue engineering polymeric formulations enable lymphangiogenesis for myocardial repair.*
+### 4. Paro circulatorio hipotérmico leve frente a pinzamiento aórtico en la reparación de aneurisma de aorta torácica proximal
+* **Título:** *Circulatory arrest versus aortic cross-clamping in proximal thoracic aortic aneurysm repair*
 * **Fecha:** 2027
-* **Revista:** *Bioactive Materials*
-* **Tipo de estudio:** Estudio experimental traslacional (modelos preclínicos in vitro, en ratas y porcinos).
-* **Nivel de evidencia:** Preclínica.
-* **Hallazgo:** Mediante cribado de alto rendimiento se identificó el compuesto ácido β-(3,4-dihidroxifenil)láctico (3,4-DHPLA) como estimulador potente de células endoteliales linfáticas. Se diseñó un andamio de poliuretano biodegradable mediante impresión 3D y electrohilado para su liberación sostenida y responsiva al microambiente en modelos de isquemia/reperfusión miocárdica (ratas y cerdos). El implante mejoró significativamente la fracción de eyección, atenuó el remodelado ventricular adverso y promovió un microentorno pro-regenerativo con expansión de linfocitos T reguladores, macrófagos M2 y fibroblastos reparadores (COL12A1+, COL11A1+, NRG1+).
-* **Importancia para el estudiante:** Enseña un cambio de paradigma en la cardiología isquémica: la resolución del edema y del infiltrado inflamatorio mediante la red linfática cardíaca es tan relevante como la angiogénesis arterial para preservar la función ventricular post-infarto.
-* **Limitación:** Estudio estrictamente en animales; la complejidad de la implantación quirúrgica epicárdica del andamio polimérico supone una barrera considerable para su traslación inmediata al paciente clínico.
-* **Enlace:** [PubMed: 42908871](https://pubmed.ncbi.nlm.nih.gov/42908871/)
+* **Revista:** *Scandinavian Cardiovascular Journal*
+* **Tipo de estudio:** Estudio de cohorte observacional comparativo con emparejamiento por puntuación de propensión (N = 399)
+* **Nivel de evidencia:** **Prometedora** (estudio observacional comparativo unicéntrico).
+* **Hallazgo clave:** Al evaluar pacientes con diámetros aórticos ascendentes distales de 40 a 50 mm, el desenlace primario compuesto (mortalidad a 30 días, ictus o lesión renal aguda) mostró mayor incidencia no ajustada en el grupo de paro circulatorio hipotérmico leve (MHCA) frente al pinzamiento (6,5% vs. 2,3%, p = 0,035). Sin embargo, tras el emparejamiento por propensión 1:1, la diferencia perdió significación estadística (OR 2,4; IC 95%: 0,66–11,5), y la supervivencia a largo plazo fue comparable (p = 0,33).
+* **Importancia clínica:** Aporta tranquilidad técnica a los cirujanos cardiovasculares al demostrar que ambas estrategias presentan baja morbimortalidad y supervivencia equivalente a largo plazo, permitiendo individualizar la elección según la anatomía específica y la destreza del operador sin comprometer el pronóstico.
+* **Limitación:** Estudio observacional de centro único con tamaño muestral que, al dividirse en subgrupos emparejados, presenta intervalos de confianza amplios que no descartan diferencias clínicas moderadas (potencia estadística limitada).
+* **Enlace:** [PubMed: 42841288](https://pubmed.ncbi.nlm.nih.gov/42841288/)
 
 ---
 
-### 5. Senoterapia dirigida y quelación de hierro en la degeneración del disco intervertebral asociada a NOX4
-* **Título:** *Reprogramming NOX4-associated ferro-aging with an iron-chelating senescent-cell-targeted therapy for intervertebral disc degeneration.*
+### 5. Sistema modificado de estratificación ASA-PS para sedación guiada por endoscopistas en patología biliopancreática
+* **Título:** *Evaluating a Modified American Society of Anesthesiologists Physical Status-Based Sedation Management System for Pancreatobiliary Endoscopy: A Prospective Feasibility Study*
 * **Fecha:** 2027
-* **Revista:** *Bioactive Materials*
-* **Tipo de estudio:** Estudio experimental mecanicista (muestras tisulares humanas y modelo animal en rata).
-* **Nivel de evidencia:** Preclínica.
-* **Hallazgo:** Se identificó un programa patológico de "ferro-senescencia" (*ferro-aging*) caracterizado por sobrecarga de hierro celular, estrés oxidativo, peroxidación lipídica mediada por activación de ACSL4 dependiente de ROS y senescencia en células del núcleo pulposo, regulado proximalmente por NOX4. Se diseñó una formulación de nanozimas ("SenoFAN") funcionalizada con amentoflavona (inhibidor de NOX4) y recubierta con membranas celulares modificadas para ligando de NKG2D. En ratas con degeneración discal inducida por punción, SenoFAN secuestró selectivamente el hierro lábil, redujo marcadores de senescencia y preservó la microarquitectura del disco.
-* **Importancia para el estudiante:** Permite comprender las complejas interacciones entre la ferroptosis, el estrés oxidativo por sobrecarga de metales de transición y la senescencia celular como etiologías moleculares del dolor lumbar crónico degenerativo.
-* **Limitación:** Modelo en roedor de degeneración acelerada por daño mecánico agudo (punción), el cual reproduce de manera imperfecta el proceso multidecenal de la patología discal degenerativa humana.
-* **Enlace:** [PubMed: 42876555](https://pubmed.ncbi.nlm.nih.gov/42876555/)
+* **Revista:** *DEN Open*
+* **Tipo de estudio:** Estudio prospectivo de viabilidad unicéntrico de un solo brazo (N = 2.000)
+* **Nivel de evidencia:** **Prometedora** (estudio prospectivo de cohorte intervenida).
+* **Hallazgo clave:** De los 2.000 pacientes, el 11,6% se clasificó de alto riesgo sedativo mediante un algoritmo modificado de ASA-PS (sumando obesidad grave, SAOS con CPAP, EPOC con oxigenoterapia domiciliaria, baja capacidad funcional o antecedentes de sedación difícil). La sedación fue manejada por endoscopistas en el 95,7% de los casos seleccionados, registrándose eventos adversos relacionados con la sedación (SRAE) en solo el 3,3% de ellos, con una tasa de éxito del 96,7% y cero intubaciones traqueales o conversiones a anestesia general.
+* **Importancia clínica:** Demuestra que un triaje protocolizado y riguroso permite realizar procedimientos endoscópicos avanzados con sedación dirigida por endoscopistas de manera segura, aliviando la saturación de los servicios de anestesiología.
+* **Limitación:** Diseño no aleatorizado y unicéntrico realizado en un entorno altamente controlado; la extrapolación a centros con menor volumen de procedimientos biliopancreáticos debe ser cautelosa.
+* **Enlace:** [PubMed: 42871153](https://pubmed.ncbi.nlm.nih.gov/42871153/)
 
 ---
 
 ## OTROS HALLAZGOS RELEVANTES
 
-* **Descubrimiento de antagonistas orales de molécula pequeña del receptor 1 de PTH (PTH1R)**
-  * *Artículo:* Pontillo J, et al. *Bioorg Med Chem Lett.* 2027.
-  * *Nivel de evidencia:* Preclínica / Farmacológica temprana.
-  * *Hallazgo:* Se identificó y optimizó la molécula no peptídica "9c", un antagonista potente y bioactivo por vía oral con una $\text{IC}_{50}$ de 5,2 nM frente a hPTH1R para el tratamiento de la hipercalcemia secundaria a hiperparatiroidismo primario.
-  * *Limitación:* Estudio focalizado en síntesis y farmacocinética básica in vitro; carece de ensayos clínicos en humanos.
-  * [PubMed: 42822604](https://pubmed.ncbi.nlm.nih.gov/42822604/)
+* **Biomarcador conectómico funcional en Trastorno por Juego en Internet (IGD):**  
+  *Wei et al.* (*Dialogues Clin Neurosci*, 2027) emplearon modelado predictivo basado en el conectoma (CPM) con resonancia magnética funcional en estado de reposo (*rs-fMRI*) en 90 pacientes bajo tres terapias conductuales. Demostraron que una red combinada (centrada en conexiones subcorticales, salientes, motoras y cerebelares) predice significativamente la reducción de severidad clínica post-tratamiento ($r = 0,480, p < 0,001$).  
+  *Nivel de evidencia:* **Emergente / Traslacional**.  
+  [PubMed: 42862599](https://pubmed.ncbi.nlm.nih.gov/42862599/)
 
-* **Interacción del eje estrés-sistema inmunitario en la consolidación ósea mediante reprogramación de neutrófilos**
-  * *Artículo:* Ouyang L, et al. *Bioact Mater.* 2027.
-  * *Nivel de evidencia:* Preclínica (Modelo murino).
-  * *Hallazgo:* El estrés crónico por inmovilización expande una subpoblación patógena de neutrófilos $\text{TGF}\beta 1^+\text{CCR5}^+$ en la médula ósea, los cuales secretan $\text{TGF}\beta 1$ e inhiben la osteogénesis de células mesenquimales estromales. La nanoterapia AKBA@E-N orientada a neutrófilos inhibió la fosforilación de NF-$\kappa$B vía YAP1-USP31, revirtiendo el retardo de consolidación de fracturas femorales.
-  * *Limitación:* Hallazgo en roedores sometidos a estrés artificial; la aplicabilidad en retrasos de consolidación en pacientes traumatológicos humanos aún requiere confirmación.
-  * [PubMed: 42831169](https://pubmed.ncbi.nlm.nih.gov/42831169/)
+* **Mecanismo epigenético y biomaterial contra la osificación heterotópica del tendón:**  
+  *Feng et al.* (*Bioactive Materials*, 2027) identificaron que los condrocitos hipóxicos exportan lactato vía MCT1 hacia células madre mesenquimales derivadas del tendón, induciendo la lactilación de histona H3K18 (H3K18la) mediada por P300 e iniciando programas osteogénicos patológicos. Un hidrogel bioadhesivo cargado con vesículas y el inhibidor de P300 (A485) previno la osificación y estimuló la regeneración tendinosa en modelos murinos e *in vitro*.  
+  *Nivel de evidencia:* **Preclínica**.  
+  [PubMed: 42927122](https://pubmed.ncbi.nlm.nih.gov/42927122/)
 
-* **Vías patogénicas multidimensionales en la enfermedad de Parkinson y barreras terapéuticas**
-  * *Artículo:* Chen X, et al. *Exp Neurol.* 2027.
-  * *Nivel de evidencia:* Revisión narrativa / Mecanicista.
-  * *Hallazgo:* Se sintetizan los mecanismos fisiopatológicos de la neurodegeneración dopaminérgica (agregación de $\alpha$-sinucleína, inflamasoma NLRP3, disfunción mitocondrial, ferroptosis, cuproptosis, piroptosis y necroptosis) y las limitaciones farmacocinéticas cardinales para terapias modificadoras (baja penetrancia en la barrera hematoencefálica y falta de especificidad celular).
-  * *Limitación:* Artículo conceptual descriptivo sin validación experimental original.
-  * [PubMed: 42785542](https://pubmed.ncbi.nlm.nih.gov/42785542/)
+* **Disbiosis y perfil metabolómico en pacientes con VIH y MASLD:**  
+  *Liu et al.* (*Virulence*, 2027) reportaron en una cohorte transversal ($N = 60$) una depleción de bacterias comensales productoras de butirato (*Faecalibacterium*, *Anaerobutyricum*) e incremento de patógenos oportunistas (*Klebsiella*, *Enterococcus*), acompañado de una reducción significativa de metabolitos antiinflamatorios (ácido dodecanodioico, quinurénico) y aumento de factores proinflamatorios como gamma-glutamil-L-putrescina.  
+  *Nivel de evidencia:* **Emergente / Observacional exploratoria**.  
+  [PubMed: 42834659](https://pubmed.ncbi.nlm.nih.gov/42834659/)
 
-* **Evaluación de fitoterapia (extracto de piel de avellana) en diarrea neonatal de terneros**
-  * *Artículo:* Boccardo A, et al. *Vet Q.* 2026.
-  * *Nivel de evidencia:* Ensayo aleatorizado veterinario (Calidad negativa).
-  * *Hallazgo:* La suplementación oral con polifenoles de piel de avellana durante 5 días como adyuvante a fluidoterapia y antimicrobianos en terneros hospitalizados con diarrea no aportó beneficios adicionales en resolución fecal, hidratación, estrés oxidativo o mortalidad frente a la terapia habitual.
-  * *Limitación:* Estudio exclusivamente veterinario con n pequeña (n = 60). Útil únicamente como advertencia sobre el uso de fitoterápicos sin eficacia contrastada frente al tratamiento estándar.
-  * [PubMed: 42873768](https://pubmed.ncbi.nlm.nih.gov/42873768/)
+* **Proteómica tisular y crotonilación en nefropatía por IgA:**  
+  *Chen et al.* (*Journal of Proteomics*, 2027) integraron proteómica renal y análisis de crotonilación de lisina (Kcr) en células mononucleares de sangre periférica ($N = 48$), identificando 92 proteínas secretadas desreguladas y candidatos reguladores centrales (C3, SERPINA1, STAT1).  
+  *Nivel de evidencia:* **Preclínica / Generadora de hipótesis**.  
+  [PubMed: 42843589](https://pubmed.ncbi.nlm.nih.gov/42843589/)
+
+* **Síndrome de Pacak-Zhuang por variante somática en *EPAS1*:**  
+  *Li et al.* (*Hematology*, 2026) reportaron el caso pediátrico de una niña de 4 años con la variante somática *EPAS1* p.Pro531Leu y revisaron 18 casos de la literatura, resaltando la presentación clásica de poliglobulia refractaria, hipertensión arterial grave y paragangliomas múltiples con alta tasa de recidiva postquirúrgica.  
+  *Nivel de evidencia:* **Evidencia anecdótica / Serie de casos**.  
+  [PubMed: 42896046](https://pubmed.ncbi.nlm.nih.gov/42896046/)
+
+* **Enteroscopia asistida por balón (BAE) en patología del intestino delgado:**  
+  *Nagayama et al.* (*DEN Open*, 2027) sintetizan los avances terapéuticos de la BAE: hemostasia guiada por morfología (argón plasma y clips), resección preventiva de pólipos en síndromes hereditarios (Peutz-Jeghers, PAF) y dilatación endoscópica con balón para estenosis fibróticas en enfermedad de Crohn, evitando resecciones quirúrgicas extensas y síndrome de intestino corto.  
+  *Nivel de evidencia:* **Consolidada (en sus indicaciones estandarizadas) / Revisión narrativa**.  
+  [PubMed: 42852132](https://pubmed.ncbi.nlm.nih.gov/42852132/)
 
 ---
 
 ## QUÉ DEBERÍA ESTUDIAR
 
-1. **Impacto de la antibioterapia en la microbiota y el resistoma neonatal:**
-   * *Mecanismo:* Analizar la selección de genes de resistencia a macrólidos (*erm(C)*) y la alteración de la relación mutualista *Bifidobacterium* frente a enterobacterias en prematuros hospitalizados sometidos a esquemas profilácticos.
-   * *Relevancia clínica:* Racionalización del uso empírico de macrólidos (principio de *Antimicrobial Stewardship* en neonatología).
-2. **Síndrome de solapamiento Asma-EPOC (ACOS / Comorbilidad):**
-   * *Criterios:* Estudio de la espirometría con prueba broncodilatadora, recuento de eosinófilos en sangre periférica e historia de exacerbaciones frecuentes en pacientes fumadores con obstrucción al flujo aéreo.
-   * *Decisión terapéutica:* Identificación del fenotipo inflamatorio T2 subyacente para pautar corticoides inhalados (ICS) asociados a LABA/LAMA.
-3. **Inmunogenética de los receptores endosomales de ácidos nucleicos (TLR3/7/8/9 y UNC93B1):**
-   * *Mecanismo:* Papel del tráfico translocacional en el retículo endoplásmico. Diferenciación patogénica entre susceptibilidad genética aislada a encefalitis herpética (vía TLR3/interferón tipo I) frente a autoinmunidad sistémica con sobreexpresión de TLR7/TLR8 en lupus.
-4. **Fisiopatología del drenaje linfático miocárdico post-isquemia:**
-   * *Mecanismo:* Reconocer el aclaramiento de edema tisular y detritos celulares por los vasos linfáticos como modulador de la respuesta de macrófagos M1/M2 y la remodelación ventricular tras un infarto agudo de miocardio.
+1. **Índice FIB-4 y algoritmo de cribado en Esteatosis Hepática Metabólica (MASLD):**
+   * *Conceptos clave:* Cálculo del FIB-4 (Edad, AST, ALT, Plaquetas), puntos de corte de exclusión (<1,3; o <2,0 en >65 años) y de alta sospecha (>2,67).
+   * *Aplicación:* Indicación de segunda línea mediante elastografía de transición (FibroScan) o biomarcadores séricos directos antes de la derivación especializada.
+2. **Marco conceptual del Síndrome Cardiovascular-Renal-Metabólico (CKM):**
+   * *Conceptos clave:* Estadificación del síndrome CKM según la *American Heart Association* (estadios 0 a 4) e interrelación fisiopatológica entre resistencia a la insulina, disfunción endotelial, albuminuria y daño miocárdico.
+   * *Aplicación:* Reconocer a los estadios 3 y 4 como poblaciones de riesgo elevado no solo para eventos vasculares, sino para descompensación psiquiátrica y conducta suicida.
+3. **Fundamentos de la Radioterapia Estereotáctica Corporal (SBRT/SABR):**
+   * *Conceptos clave:* Biología del ultra-hipofraccionamiento, índice alfa/beta en tumores vs. tejidos sanos, dosis biológicamente efectiva (BED) y límites dosimétricos en órganos de riesgo cercanos.
+4. **Fisiopatología del eje EPAS1/HIF-2α en feocromocitomas/paragangliomas:**
+   * *Conceptos clave:* Control de la degradación mediada por hidroxilasas/VHL y transcripción inducible por hipoxia. Comprender la tríada del síndrome de Pacak-Zhuang (policitemia secundaria a eritropoyetina + paragangliomas/feocromocitomas + somatostatinomas).
+5. **Epigenética metabólica: Modificaciones post-traduccionales no acetilo:**
+   * *Conceptos clave:* Lactilación de histonas (H3K18la) y crotonilación de lisina (Kcr) como puentes directos entre el metabolismo celular (glucólisis anaerobia, ciclo de Krebs) y la activación transcripcional patológica.
 
 ---
 
 ## ALERTAS DE EVIDENCIA
 
-* **Asociación vs. Causalidad en Asma y Mortalidad por EPOC:**
-  * En la cohorte sueca de 2014, el asma comórbida mostró un hazard ratio protector estadísticamente significativo frente a la mortalidad a 10 años ($\text{HR} = 0,67$; $p = 0,02$). No debe interpretarse de forma errónea que "padecer asma previene la muerte en EPOC". Es muy probable que se trate de un sesgo de confusión: los pacientes con componente asmático suelen ser no fumadores o tener menor índice de paquetes-año, menor grado de enfisema destructivo y reciben precozmente tratamiento antiinflamatorio esteroideo protector.
-* **Extrapolación Indebida de Modelos Preclínicos:**
-  * Los resultados de las formulaciones nanotecnológicas (andamios poliméricos miocárdicos y nanozimas para disco intervertebral de *Bioactive Materials*) provienen de cerdos, ratas o cultivos celulares. No deben extrapolarse a eficacia ni seguridad en humanos en etapas actuales de formación clínica.
-* **Falsa Equivalencia Terapéutica en Probióticos:**
-  * En el estudio del ensayo AZTEC, los probióticos no revirtieron la resistencia bacteriana inducida por azitromicina; de hecho, aumentaron numéricamente la abundancia de ciertos patobiontes y la carga global de determinantes de resistencia antimicrobiana. No debe asumirse que prescribir probióticos de manera indiscriminada neutraliza de forma automática los efectos lesivos de los antibióticos sistémicos.
+* **Alerta 1: Causalidad no demostrada en la asociación CKM - Suicidio.**  
+  El estudio de *Huh et al.* reporta una asociación estadística firme entre estadios CKM avanzados y muerte por suicidio. **No debe interpretarse como causalidad biológica aislada.** Factores de confusión no medidos (dolor crónico, carga de polifarmacia, nivel socioeconómico desfavorecido, aislamiento social) pueden actuar como determinantes intermedios centrales.
+* **Alerta 2: Traslación prematura de biomateriales e ingeniería de tejidos.**  
+  Las investigaciones de *Feng et al.* (hidrogel para osificación heterotópica), *Chen et al.* (membrana Janus en periodontitis) y *Bigham et al.* (andamios 3D para osteosarcoma) corresponden estrictamente a **fases preclínicas** (*in vitro* y modelos en ratas/conejos). La seguridad toxicológica, biocompatibilidad a largo plazo y eficacia mecánica en humanos continúan sin verificación clínica.
+* **Alerta 3: Inercia diagnóstica frente al valor predictivo del FIB-4.**  
+  Tener un riesgo alto de FIB-4 multiplica notablemente la incidencia de desenlaces hepáticos mayores (aHR ~19,7), pero el valor predictivo positivo en poblaciones de baja prevalencia puede ser modesto. El FIB-4 es una prueba de **cribado y exclusión**, no un diagnóstico definitivo; debe continuarse obligatoriamente con confirmación elastográfica antes de diagnosticar cirrosis.
+* **Alerta 4: Confusión entre significación estadística y relevancia clínica en cirugía aórtica.**  
+  En el estudio de *Braatz et al.*, la diferencia bruta de eventos adversos (6,5% vs 2,3%) perdió significación tras el emparejamiento por propensión ($p = 0,33$; OR 2,4 con IC 95%: 0,66–11,5). El intervalo de confianza excesivamente amplio indica imprecisión estadística, por lo que la ausencia de diferencia estadísticamente significativa **no debe equipararse de forma absoluta a una equivalencia clínica probada**.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Prevalence, Incidence, and Impact of Cancer in Atrial Fibrillation: A Systematic Review and Meta-Analysis of 70,000,000 Patients.
-**Área:** Cardiología y medicina vascular
-**Fecha:** 2026-10-01
-**Revista:** Health Sci Rep
-**Tipo:** No especificado
-**Autores:** Yang L, Mao S, Wang L, Fan H, Zhang W, Wang M, Wang Y, Hao L, Yang Z, Liang B.
-**PMID:** 42827652  **DOI:** 10.1002/hsr2.73099
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42827652/
+### 1. Efficacy and safety of single-fraction stereotactic body radiotherapy (SBRT) for the curative treatment of extracranial primary Tumors: A collaborative systematic review on behalf of the SBRT Focus Group of the European Society for Radiotherapy & Oncology (ESTRO).
+**Área:** Nefrología y urología
+**Fecha:** 2027
+**Revista:** Clinical and translational radiation oncology
+**Tipo:** Journal Article, Review
+**Autores:** Cuccia F, Franzese C, Dubash S, Dionisi V, Brunner T, Cellini F, Hörner-Rieber J, Zilli T
+**PMID:** 42898625  **DOI:** 10.1016/j.ctro.2026.101295
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42898625/
 
-### 2. Predictive Value of Respiratory Parameters for Non-invasive Ventilation Failure in Acute Respiratory Failure: A Systematic Review.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-08-19
+### 2. Shared Decision-Making and Decision Support in Advanced Chronic Kidney Disease: A Systematic Review of Models, Treatment Pathways, and Patient-Centered Outcomes
+**Área:** Nefrología y urología
+**Fecha:** 2026-10-16
 **Revista:** Cureus
 **Tipo:** No especificado
-**Autores:** Mohammed Ramadan MA, Sabier Ali LME, Mohammed Elamin AM, Mohamed Ibrahim EM, Abdalkareem Abaker IS, Sidahmed Osman OA, Elfaki Omer EO.
-**PMID:** 42763529  **DOI:** 10.7759/cureus.114823
+**Autores:** Naeem A, Ashraf Z, Ali S, Hayder D, Wahane V, Poushi M, Kolo J, Jamil Wahdan M, Mohamed Seddik Y, Radi Al-maqableh R, Mahmoud Alghzawi S.
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42763529/
+**Enlace:** —
 
-### 3. Antibiotic Use, Bacterial Co-Infection, and Antimicrobial Resistance in Adults Hospitalized with COVID-19, Influenza, or RSV: A Systematic Review and Meta-Analysis.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-06-30
-**Revista:** Antibiotics (Basel)
+### 3. Facilitators and Barriers to Digital Health Technologies for Self-Management in Patients With Chronic Kidney Disease: Systematic Review Based on the Updated CFIR 2.0 Framework.
+**Área:** Nefrología y urología
+**Fecha:** 2026-09-21
+**Revista:** J Med Internet Res
 **Tipo:** No especificado
-**Autores:** Lucaciu FC, Rosca O, Mihai AM, Sima A, Suba MI, Wellmann N, Rosian A, Oancea C, Cialma M, Tarau A, Bosoanca A, Marc M.
-**PMID:** 42505617  **DOI:** 10.3390/antibiotics15070654
+**Autores:** Su F, Yao Y, Lin X, Su Q, Hu Y, Pei H, Xu Q.
+**PMID:** 42766847  **DOI:** 10.2196/103560
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42505617/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42766847/
 
-### 4. The impact of prophylactic azithromycin on the developing preterm gut microbiome and resistome.
-**Área:** Microbiología, infectología y resistencia antimicrobiana
+### 4. The microbiome–nitric oxide axis in cancer immunotherapy: a targeted qualitative systematic review of mechanistic and translational evidence
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-10-09
+**Revista:** Front Immunol
+**Tipo:** No especificado
+**Autores:** Enwere M, Bryan N, Onu A, Neufeld M, El-Hussein M, Yakub I, Omale C, Onyedike O, Atim T, Agbeyomi O, Davies E, Okeke U, Holmes L.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 5. From etiology to precision oncology: a systematic review of the causes and evolving treatments of prostate cancer.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-10-07
+**Revista:** Front Oncol
+**Tipo:** No especificado
+**Autores:** Kisakye NI, Ayebazibwe G, Mary Amito P, Ajambo PD, Tirwomwe M, Tiko A, Pliers T, Owamukamaeli A, Nduhukire T, Chrispuss N, Mandera I, Owomugisha R, Terkimbi SD.
+**PMID:** 42908603  **DOI:** 10.3389/fonc.2026.1941788
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42908603/
+
+### 6. Predicting IGD treatment outcomes across interventions using a whole-brain functional connectome biomarker.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** Dialogues in clinical neuroscience
+**Tipo:** Clinical Trial, Journal Article
+**Autores:** Wei M, Luo X, Fu J, Li S, Ni H, Liu J, Dong GH
+**PMID:** 42862599  **DOI:** 10.1080/19585969.2026.2742156
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42862599/
+
+### 7. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-01
+**Revista:** J Clin Apher
+**Tipo:** No especificado
+**Autores:** Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.
+**PMID:** 42747330  **DOI:** 10.1002/jca.70141
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
+
+### 8. Liver fibrosis risk, missed follow-up, and inequitable specialist referral in the All of Us Research Program: a retrospective cohort study.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Lancet regional health. Americas
+**Tipo:** Journal Article
+**Autores:** Sellers K, White TM, Manolas MI, Hagström H, Brennan PN, Diaz LA, Bansal MB, Danpanichkul P
+**PMID:** 42920888  **DOI:** 10.1016/j.lana.2026.101676
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42920888/
+
+### 9. Cardiovascular-Kidney-Metabolic syndrome and suicidal death in a nationwide cohort study.
+**Área:** Nefrología y urología
+**Fecha:** 2027
+**Revista:** Journal of affective disorders
+**Tipo:** Journal Article
+**Autores:** Huh H, Kang MW, Lee J, Oh J, Kim M, Koh JH, Kwon JK, Cho JM
+**PMID:** 42822542  **DOI:** 10.1016/j.jad.2026.122581
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42822542/
+
+### 10. Evaluating a Modified American Society of Anesthesiologists Physical Status-Based Sedation Management System for Pancreatobiliary Endoscopy: A Prospective Feasibility Study.
+**Área:** Endocrinología, metabolismo y obesidad
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Hanaoka T, Okuwaki K, Watanabe M, Matsuda H, Adachi K, Tamaki A, Ogawa D, Sakai M
+**PMID:** 42871153  **DOI:** 10.1002/deo2.70445
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42871153/
+
+### 11. Microenvironmental barriers to healing in osteoradionecrosis and opportunities for regenerative intervention.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article, Review
+**Autores:** La Croix AE, Torres Gouveia ME, Bertone PM, Nemanic NM, Bahney CS, Hixon KR
+**PMID:** 42910095  **DOI:** 10.1016/j.bioactmat.2026.09.020
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42910095/
+
+### 12. Gut microbiota shaping fatty liver disease progression.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Life science alliance
+**Tipo:** Journal Article, Review
+**Autores:** Wysokińska M, Mysza M, Uryga AE, Kołodziejczyk AA
+**PMID:** 42864263  **DOI:** 10.26508/lsa.202603756
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42864263/
+
+### 13. Racial, Ethnic, and Immigration-Related Disparities Across the Gastrointestinal Care Continuum: A Scoping Review.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-08
+**Revista:** J Clin Med
+**Tipo:** No especificado
+**Autores:** Thomas R, Belghiti M, Tran HR, Tandon P.
+**PMID:** 42795734  **DOI:** 10.3390/jcm15186961
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42795734/
+
+### 14. Pacak-Zhuang syndrome with EPAS1 p.Pro531Leu somatic variant: one case report and literature review.
+**Área:** Nefrología y urología
 **Fecha:** 2026
-**Revista:** Gut microbes
-**Tipo:** Journal Article, Randomized Controlled Trial, Multicenter Study
-**Autores:** Ahearn-Ford S, Aboklaish A, Young GR, Lowe J, Masi AC, Gallacher D, Marchesi JR, Berrington JE
-**PMID:** 42879303  **DOI:** 10.1080/19490976.2026.2748147
+**Revista:** Hematology (Amsterdam, Netherlands)
+**Tipo:** Journal Article, Case Reports, Review
+**Autores:** Li X, Song S, Wang L, Zhong Z, Qi Y, Gong Y
+**PMID:** 42896046  **DOI:** 10.1080/16078454.2026.2749300
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42879303/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42896046/
 
-### 5. Effects on health and antioxidant status of oral supplementation of hazelnut skin extract in dairy calves with neonatal diarrhea: a randomized clinical trial in hospitalized patients.
-**Área:** Microbiología, infectología y resistencia antimicrobiana
-**Fecha:** 2026
-**Revista:** The veterinary quarterly
-**Tipo:** Journal Article, Randomized Controlled Trial, Veterinary
-**Autores:** Boccardo A, Sannazzaro M, Sala G, Gazzola E, Martucci I, Curone G, Castrica M, Ferrulli V
-**PMID:** 42873768  **DOI:** 10.1080/01652176.2026.2691428
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42873768/
-
-### 6. Comorbid asthma - occurrence and associations with patient-related outcomes in COPD: a cohort study.
-**Área:** Neumología y medicina respiratoria
+### 15. Therapeutic Balloon-Assisted Enteroscopy: Recent Advances in the Management of Small Bowel Diseases.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2027
-**Revista:** Scandinavian journal of primary health care
-**Tipo:** Journal Article
-**Autores:** Athlin Å, Lisspers K, Hasselgren M, Ställberg B, Sandelowsky H, Giezeman M, Janson C, Kisiel MA
-**PMID:** 42894311  **DOI:** 10.1080/02813432.2026.2747915
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42894311/
-
-### 7. The application progress of detection technology for Bacillus cereus in food: Challenges, innovations and future prospects.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Food microbiology
+**Revista:** DEN open
 **Tipo:** Journal Article, Review
-**Autores:** Zhang Y, Zhang X, Zheng H, Wang H, Yu M, Jia W, Jia Z, Cui J
-**PMID:** 42901663  **DOI:** 10.1016/j.fm.2026.105310
+**Autores:** Nagayama M, Kinoshita T, Kawaguchi H, Fujinuma T, Fujikura S, Hayashi H, Tamaru T, Sakamoto H
+**PMID:** 42852132  **DOI:** 10.1002/deo2.70449
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42901663/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42852132/
 
-### 8. Integrating high-resolution proximity labelling with orthogonal interactome benchmarks: Insights from Kinetoplastid systems.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Journal of proteomics
-**Tipo:** Journal Article, Review
-**Autores:** Ata A, Topuz Ata D, Odacı ZT
-**PMID:** 42833553  **DOI:** 10.1016/j.jprot.2026.105739
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42833553/
+### 16. Artificial Intelligence in Gastroenterology: Towards Explainable, Generalisable and Clinically Actionable Decision Support.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-30
+**Revista:** Diagnostics (Basel)
+**Tipo:** No especificado
+**Autores:** Baydili İ, Tasci B, Dogan S, Tuncer T.
+**PMID:** 42882337  **DOI:** 10.3390/diagnostics16193182
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42882337/
 
-### 9. Machine learning algorithms empower traditional Chinese medicine: Breakthrough approaches from chemical component analysis to pharmacological mechanism research.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2027
-**Revista:** Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
-**Tipo:** Journal Article, Review
-**Autores:** Han Z, Zhao F, Xu H, Zhang Z, Wu J, Zhang Y, Pan J, Li M
-**PMID:** 42830003  **DOI:** 10.1016/j.saa.2026.128859
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42830003/
-
-### 10. Analysis of multidimensional molecular mechanisms in Parkinson's disease and precise therapeutic strategies.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2027
-**Revista:** Experimental neurology
-**Tipo:** Journal Article, Review
-**Autores:** Chen X, Zhao Z, Shen Y, Ji Y, Yao X, Gu X, Qi L, Sun H
-**PMID:** 42785542  **DOI:** 10.1016/j.expneurol.2026.116041
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42785542/
-
-### 11. Understanding genetic determinants of bacterial adaptation to plant niches: Toward more robust bioinoculant design.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Microbiological research
-**Tipo:** Journal Article, Review
-**Autores:** Villa-Rodríguez E, Ferguson S, Stougaard J, Radutoiu S
-**PMID:** 42863410  **DOI:** 10.1016/j.micres.2026.128760
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42863410/
-
-### 12. Programmable histone acetylation enables reversible regulation of cellulase production in Myceliophthora thermophila.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Microbiological research
-**Tipo:** Journal Article
-**Autores:** Li Y, Zhao X, Yang X, Wang J, Liu D, Yu Q, Liu Q, Tian C
-**PMID:** 42832928  **DOI:** 10.1016/j.micres.2026.128747
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42832928/
-
-### 13. Zygote origin shapes sensitivity to electrical voltage field and editing susceptibility after CRISPR/Cas9-RNP electroporation in bovine embryos.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article
-**Autores:** Rahimi M, Miskel D, Schreiber M, Habermann H, Haake L, Brenig B, Besenfelder U, Havlicek V
-**PMID:** 42810238  **DOI:** 10.1016/j.theriogenology.2026.118215
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810238/
-
-### 14. Aptamer-functionalized EGCG nanocarrier for neutrophil-targeted AKBA delivery promotes anxiety-related fracture healing.
-**Área:** Farmacología y nuevos tratamientos
+### 17. Targeting the lactate/P300/H3K18la epigenetic pathway with a mechanoadaptive biomimetic hydrogel to suppress traumatic tendon heterotopic ossification.
+**Área:** Endocrinología, metabolismo y obesidad
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Ouyang L, Zhang Y, Liao J, Zhang Z, He X, Lin Z, Tao R, Xie X
-**PMID:** 42831169  **DOI:** 10.1016/j.bioactmat.2026.09.028
+**Autores:** Feng H, Ang K, Deng Z, Cui C, Chen J, Huang N, Feng Y, Zhang J
+**PMID:** 42927122  **DOI:** 10.1016/j.bioactmat.2026.10.006
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42831169/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42927122/
 
-### 15. Tissue engineering polymeric formulations enable lymphangiogenesis for myocardial repair.
-**Área:** Cardiología y medicina vascular
+### 18. Neuroimaging Biomarkers for Brain Disorder Diagnosis Using Advanced Learning Techniques.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** International journal of neural systems
+**Tipo:** Journal Article
+**Autores:** Ion IA, Chira C
+**PMID:** 42786613  **DOI:** 10.1142/S0129065727500158
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42786613/
+
+### 19. Discovering Heterogeneous Neurodegenerative Disease Patterns From MRI Data for Improved Prediction.
+**Área:** Neurología, neurociencias y lesión del sistema nervioso
+**Fecha:** 2027
+**Revista:** Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention
+**Tipo:** Journal Article
+**Autores:** Zhang Y, Li H, Fan Y
+**PMID:** 42857586  **DOI:** 10.1007/978-3-032-38239-9_16
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42857586/
+
+### 20. Janus-structured piezoelectric membrane couples barrier protection with pathological microenvironment-responsive bioactivity for periodontal bone regeneration.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Liu Z, Li R, Huang W, Zhang J, Qu Y, Dong W, Liu Y, Li Q
-**PMID:** 42908871  **DOI:** 10.1016/j.bioactmat.2026.08.048
+**Autores:** Chen C, Sun J, Fang K, Miao W, Du X, Li J, Wen X, Qu Z
+**PMID:** 42910091  **DOI:** 10.1016/j.bioactmat.2026.10.013
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42908871/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42910091/
 
-### 16. DiFVM: A Vectorized Graph-Based Finite Volume Solver for Differentiable CFD on Unstructured Meshes.
-**Área:** Cardiología y medicina vascular
+### 21. Surface-modified 3D-printed sphene scaffolds for photothermal osteosarcoma therapy and osteogenic stimulation.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2027
-**Revista:** Journal of computational physics
+**Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Du P, Li Y, Xu M, Wang JX
-**PMID:** 42877889  **DOI:** 10.1016/j.jcp.2026.115429
+**Autores:** Bigham A, Hu X, Mariano A, Ventre M, Serrano-Ruiz M, Yang X, Zhang X, Bemporad E
+**PMID:** 42903901  **DOI:** 10.1016/j.bioactmat.2026.10.004
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42877889/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42903901/
 
-### 17. Artificial intelligence and radiomics in drug-induced interstitial lung disease.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-05-05
-**Revista:** ERJ Open Res
-**Tipo:** No especificado
-**Autores:** Marchi G, Fanni SC, Mercier M, Cefalo J, Salerni C, Ferioli M, Candoli P, Romei C, Gori L, Cucchiara F, Cenerini G, Guglielmi G, Pistelli F, Carrozzi L, Mondoni M.
-**PMID:** 42094223  **DOI:** 10.1183/23120541.01150-2025
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42094223/
+### 22. Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Virulence
+**Tipo:** Journal Article
+**Autores:** Liu H, Xu T, Guo Y, Zhou X, Yan C, Zhu B, Xie Y
+**PMID:** 42834659  **DOI:** 10.1080/21505594.2026.2739091
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42834659/
 
-### 18. The ups and downs of human UNC93B1: Autoimmune and viral conditions.
-**Área:** Genética, genómica y medicina molecular
+### 23. Hematopoietic cell transplantation using treosulfan-based conditioning for IL-10 receptor deficiency.
+**Área:** Gastroenterología, hepatología y nutrición
 **Fecha:** 2027
 **Revista:** Journal of human immunity
 **Tipo:** Journal Article
-**Autores:** Idiiatullina E, Casanova JL, Zhang SY
-**PMID:** 42900002  **DOI:** 10.70962/jhi.20260059
+**Autores:** Lakkaraja M, Schmitt EG, Sood AK, Chen K, Modi AJ, Verbsky JW, Torgerson T, Wahbeh G
+**PMID:** 42878707  **DOI:** 10.70962/jhi.20260123
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42900002/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42878707/
 
-### 19. Special Issue: EACR 2026 Congress: Innovative Cancer Science, 8-11 June 2026.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-08-01
-**Revista:** Mol Oncol
+### 24. Dietary Quality, Not Plant Content, in Metabolic Dysfunction-Associated Steatotic Liver Disease prevention: Reading the Confidence Interval Against the Prediction Interval.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Journal of clinical and experimental hepatology
+**Tipo:** Letter
+**Autores:** Kaushal K, Phugat S, Tevethia HV
+**PMID:** 42927164  **DOI:** 10.1016/j.jceh.2026.103682
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42927164/
+
+### 25. Sex-Stratified Analysis in Metabolic Dysfunction-Associated Steatotic Liver Disease Genetic Association Studies: A Missing Dimension.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2027
+**Revista:** Journal of clinical and experimental hepatology
+**Tipo:** Letter
+**Autores:** Kaushal K, Yadav V, Ramakrishna G
+**PMID:** 42903827  **DOI:** 10.1016/j.jceh.2026.103684
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42903827/
+
+### 26. Poster Abstracts - Academy of Managed Care Pharmacy 2026.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-10-01
+**Revista:** J Manag Care Spec Pharm
 **Tipo:** No especificado
 **Autores:** No disponible
-**PMID:** 42633749  **DOI:** 10.1002/1878-0261.70318
+**PMID:** 42911119  **DOI:** 10.18553/jmcp.2026.32.10-d.s1
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42633749/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42911119/
 
-### 20. Publication Only
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-06-01
-**Revista:** Hemasphere
+### 27. Abstracts
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-10-01
+**Revista:** JPGN Rep
 **Tipo:** No especificado
 **Autores:** No disponible
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 21. Plenary Abstracts Session & Oral Presentations
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-06-01
-**Revista:** Hemasphere
+### 28. Special Collection: Abstracts from IUNS-ICN Paris 2025
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-04
+**Revista:** J Nutr Sci
 **Tipo:** No especificado
 **Autores:** No disponible
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 22. ICE2026/JES2026 Abstract Book
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-05-14
-**Revista:** Endocr J
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 23. Global MyoG research 2004-2024: a bibliometric analysis of trends and translational implications.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-03-05
-**Revista:** Exp Biol Med (Maywood)
-**Tipo:** No especificado
-**Autores:** Hu L, Zhuang W, Chen W, Yang S, Chen S, Wang X, Gao Q, Chen J.
-**PMID:** 41868599  **DOI:** 10.3389/ebm.2026.10929
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/41868599/
-
-### 24. The 30<sup>th</sup> Scientific Conference of the Society on NeuroImmune Pharmacology in Annapolis, Maryland, May 3<sup>rd</sup> - 6<sup>th</sup>, 2026.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2026-03-01
-**Revista:** NeuroImmune Pharm Ther
-**Tipo:** No especificado
-**Autores:** Chang L, Sil S, Fields JA, Andrews A, Ramirez S, Noel R.
-**PMID:** 42058367  **DOI:** 10.1515/nipt-2026-0006
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42058367/
-
-### 25. Reprogramming NOX4-associated ferro-aging with an iron-chelating senescent-cell-targeted therapy for intervertebral disc degeneration.
-**Área:** Farmacología y nuevos tratamientos
+### 29. Circulatory arrest versus aortic cross-clamping in proximal thoracic aortic aneurysm repair.
+**Área:** Nefrología y urología
 **Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Wang J, Chen Q, Xing J, Sun Y, Yan C, Zhao B, Han L, Sun J
-**PMID:** 42876555  **DOI:** 10.1016/j.bioactmat.2026.09.030
+**Revista:** Scandinavian cardiovascular journal : SCJ
+**Tipo:** Journal Article, Comparative Study, Observational Study
+**Autores:** Braatz E, Stenman M, Al-Mousli J, Dalén M, Olsson C
+**PMID:** 42841288  **DOI:** 10.1080/14017431.2026.2745873
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42876555/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42841288/
 
-### 26. Discovery and characterization of potent and efficacious small-molecule parathyroid hormone Receptor-1 (PTH1R) antagonists for the treatment of hypercalcemia.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2027
-**Revista:** Bioorganic & medicinal chemistry letters
-**Tipo:** Journal Article
-**Autores:** Pontillo J, Wang S, Zhu Y, Rico-Bautista E, Shintaku J, Urgaonkar S, Antwan A, Betz SF
-**PMID:** 42822604  **DOI:** 10.1016/j.bmcl.2026.130789
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42822604/
-
-### 27. Integrated SEM, TEM and CLSM workflow for tegumental analysis of adult Schistosoma mansoni.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2027
-**Revista:** Micron (Oxford, England : 1993)
-**Tipo:** Journal Article
-**Autores:** de Carvalho Augusto R, João RCF, Barbosa HS, Mello-Silva CC, Santos CP
-**PMID:** 42822059  **DOI:** 10.1016/j.micron.2026.104119
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42822059/
-
-### 28. Abstracts of the 84<sup>th</sup> Annual Meeting of the Japanese Cancer Association.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2026-01-01
-**Revista:** Cancer Sci
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** 41493844  **DOI:** 10.1111/cas.70254
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/41493844/
-
-### 29. Sensitive detection of 4-hydroxy-2-nonenal-modified proteins in oxidative stress-related diseases.
-**Área:** Microbiología, infectología y resistencia antimicrobiana
+### 30. Integrated analysis identifies dysregulated secretory proteins and crotonylation profiles associated with immune regulation in IgA nephropathy.
+**Área:** Nefrología y urología
 **Fecha:** 2027
 **Revista:** Journal of proteomics
 **Tipo:** Journal Article
-**Autores:** Méndez-Cuadro D, Kamali AN, Ruiz C, Pérez-Benavente S, Hernáez ML, Rodríguez-Cavallo E, Puyet A, Bautista JM
-**PMID:** 42854895  **DOI:** 10.1016/j.jprot.2026.105738
+**Autores:** Chen J, Zhang W, Dai Y, Ma H, Ma J, Zou G, Yan Q, Hu G
+**PMID:** 42843589  **DOI:** 10.1016/j.jprot.2026.105737
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42854895/
-
-### 30. CATH-1 supplementation improves sperm quality and fertility of rooster semen during cold storage by reducing bacterial contamination.
-**Área:** Microbiología, infectología y resistencia antimicrobiana
-**Fecha:** 2027
-**Revista:** Theriogenology
-**Tipo:** Journal Article
-**Autores:** Authaida S, Boonkum W, Duangjinda M, Shimada M, Kaeoket K, Rerkyusuke S, Chankitisakul V
-**PMID:** 42810235  **DOI:** 10.1016/j.theriogenology.2026.118229
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42810235/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42843589/
 
