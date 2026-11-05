@@ -1,282 +1,212 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-11-04T20:24+00:00**
+> Actualizado: **2026-11-05T20:42+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Facilitators and Barriers to Digital Health Technologies for Self-Management in Patients With Chronic Kidney Disease: Systematic Review Based on the Updated CFIR 2.0 Framework.
-**Área:** Nefrología y urología
-**Fecha:** 2026-09-21
-**Revista:** J Med Internet Res
-**Tipo:** No especificado
-**Autores:** Su F, Yao Y, Lin X, Su Q, Hu Y, Pei H, Xu Q.
-**PMID:** 42766847  **DOI:** 10.2196/103560
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42766847/
-
-### 2. Early Initiation of Thyroid Hormone Therapy Versus Watchful Waiting or Delayed Treatment or no Treatment in Subclinical Hypothyroidism: A Systematic Review and Meta-analysis Protocol.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2026-09-29
-**Revista:** F1000Res
-**Tipo:** No especificado
-**Autores:** Gandhi AP, Deshmukh KP, Kaliyappan A, Bang A, Gangane N.
-**PMID:** 42800939  **DOI:** 10.12688/f1000research.179360.3
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42800939/
-
-### 3. The Efficacy and Safety of Dalfampridine on Cognition and Fatigue in People With Multiple Sclerosis: A Systematic Review and Meta-Analysis.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
+### 1. Endobronchial Valves for Persistent Air Leak and Bronchopleural Fistula in Children: A Systematic Review of Indications, Procedural Approaches, and Outcomes.
+**Área:** Pediatría y neonatología
 **Fecha:** 2027
-**Revista:** International journal of MS care
-**Tipo:** Journal Article
-**Autores:** Halabi MH, Alromayan R, Almutairi M, Alasmari H, AlGhamdi MA, Makkawi S
-**PMID:** 42974622  **DOI:** 10.7224/1537-2073.2026-004
+**Revista:** Journal of bronchology & interventional pulmonology
+**Tipo:** Journal Article, Systematic Review
+**Autores:** Mahindrakar N, Bhandari P, Yedatore R, Vorakunthada Y, Lilitwat W
+**PMID:** 42935016  **DOI:** 10.1097/LBR.0000000000001097
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42974622/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42935016/
 
-### 4. Predicting IGD treatment outcomes across interventions using a whole-brain functional connectome biomarker.
-**Área:** Oncología e inmunoterapia
+### 2. Comparative Efficacy and Safety of Liraglutide Versus Metformin in Women With Polyendocrine Metabolic Ovarian Syndrome (PMOS): A Systematic Review and Meta-Analysis of Randomized Controlled Trials.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-04
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Banerjee I, Krissheeven M, Pandey N, Banerjee S, Robinson J, Banerjee I.
+**PMID:** 42830876  **DOI:** 10.7759/cureus.115758
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42830876/
+
+### 3. Anxiety symptoms following conception through assisted reproductive technology: a systematic review.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-07-20
+**Revista:** Front Psychiatry
+**Tipo:** No especificado
+**Autores:** Davies NL, Carson L, Keynejad RC.
+**PMID:** 42548846  **DOI:** 10.3389/fpsyt.2026.1709200
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42548846/
+
+### 4. Sex-dependent habenular dysregulation across the continuum of stress exposure and depression severity: A systematic review of preclinical and clinical evidence.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article, Systematic Review, Review
+**Autores:** Ferreira-Vorkapic C, Coelho RR, Wiech M, Tocco F, Todde F
+**PMID:** 42880597  **DOI:** 10.1016/j.bbr.2026.116531
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42880597/
+
+### 5. Gender differences in the effects of economic inequality on mental conditions: a multivariate meta-analysis of Gini index and relative income position in high-income OECD countries.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-09-03
+**Revista:** Front Psychiatry
+**Tipo:** No especificado
+**Autores:** Kalinowski O, Rössler W.
+**PMID:** 42756354  **DOI:** 10.3389/fpsyt.2026.1835495
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756354/
+
+### 6. Prognostic value of NLR, SII, PCT, and PLR in sepsis and septic shock: a systematic review and meta-analysis
+**Área:** Urgencias, cuidados críticos y sepsis
+**Fecha:** 2026-10-10
+**Revista:** Front Med (Lausanne)
+**Tipo:** No especificado
+**Autores:** Wang X, Wang K, Zhao F, Li F, Li L.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 7. Artificial Intelligence in suicide prevention: promise, peril, and clinical implications for clinical practice.
+**Área:** Psiquiatría y salud mental
 **Fecha:** 2027
 **Revista:** Dialogues in clinical neuroscience
-**Tipo:** Clinical Trial, Journal Article
-**Autores:** Wei M, Luo X, Fu J, Li S, Ni H, Liu J, Dong GH
-**PMID:** 42862599  **DOI:** 10.1080/19585969.2026.2742156
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42862599/
-
-### 5. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
-**Área:** Nefrología y urología
-**Fecha:** 2026-09-01
-**Revista:** J Clin Apher
-**Tipo:** No especificado
-**Autores:** Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.
-**PMID:** 42747330  **DOI:** 10.1002/jca.70141
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
-
-### 6. Evaluating a Modified American Society of Anesthesiologists Physical Status-Based Sedation Management System for Pancreatobiliary Endoscopy: A Prospective Feasibility Study.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Hanaoka T, Okuwaki K, Watanabe M, Matsuda H, Adachi K, Tamaki A, Ogawa D, Sakai M
-**PMID:** 42871153  **DOI:** 10.1002/deo2.70445
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42871153/
-
-### 7. Gestational exposure to organophosphate esters (OPEs) and adiposity during middle childhood in the MIREC Cohort.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2026-10-02
-**Revista:** Environ Res
-**Tipo:** No especificado
-**Autores:** Phiri YVA, Chen A, Ashley-Martin J, Arbuckle TE, Braun JM, Moonie S, Oulhote Y, Fraser W, Borghese MM, Krzeczkowski J, Velez MP, Lanphear B, Morrison KM, Fisher M, Palmert MR, Bouchard MF, Vuong AM.
-**PMID:** 42826875  **DOI:** 10.1016/j.envres.2026.125835
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42826875/
-
-### 8. Primary care effectiveness, multimorbidity, and hospital use in public and private health-care systems in Brazil: a cross-sectional analysis of data from the 2019-2021 Brazilian longitudinal study of aging.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
-**Fecha:** 2027
-**Revista:** Lancet regional health. Americas
-**Tipo:** Journal Article
-**Autores:** Oliveira GM, Nunes BP, Lam K, Lima-Costa MF, Torres JL, Macinko J, Moreira BS, Avelino-Silva TJ
-**PMID:** 42935795  **DOI:** 10.1016/j.lana.2026.101680
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42935795/
-
-### 9. A topologically engineered hydrogel platform targeting IL11 promotes renal repair after partial nephrectomy.
-**Área:** Nefrología y urología
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Yu Z, Dong X, Li F, Zhang Y, Dai S, Cao N, Jia X, Zhao J
-**PMID:** 42959456  **DOI:** 10.1016/j.bioactmat.2026.10.024
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42959456/
-
-### 10. Unsolved problems with ENaC: From molecules to mammals.
-**Área:** Nefrología y urología
-**Fecha:** 2027
-**Revista:** The Journal of general physiology
 **Tipo:** Journal Article, Review
-**Autores:** Palmer LG
-**PMID:** 42980615  **DOI:** 10.1085/jgp.202614077
+**Autores:** Nobile B, Courtet P
+**PMID:** 42862709  **DOI:** 10.1080/19585969.2026.2745684
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42980615/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42862709/
 
-### 11. Educational support programs for individuals with end-stage renal disease on hemodialysis: a scoping review.
-**Área:** Nefrología y urología
-**Fecha:** 2026-07-04
-**Revista:** BMC Nephrol
-**Tipo:** No especificado
-**Autores:** Musabirema P, Maree JE, Tshabalala AM, Kelly MS.
-**PMID:** 42399844  **DOI:** 10.1186/s12882-026-05173-9
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42399844/
-
-### 12. From animal behavior to human perioperative neurocognitive disorders: Translational boundaries of the gut-brain axis.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
+### 8. Maternal diet and offspring ASD and ADHD: A critical narrative review of dietary patterns, choline, and polyphenol-related exposures.
+**Área:** Ginecología y obstetricia
 **Fecha:** 2027
 **Revista:** Behavioural brain research
 **Tipo:** Journal Article, Review
-**Autores:** Zhu C, Wei J
-**PMID:** 42869281  **DOI:** 10.1016/j.bbr.2026.116533
+**Autores:** Alalwan TA, Perna S
+**PMID:** 42849536  **DOI:** 10.1016/j.bbr.2026.116512
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42869281/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42849536/
 
-### 13. Therapeutic Balloon-Assisted Enteroscopy: Recent Advances in the Management of Small Bowel Diseases.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** DEN open
+### 9. Contraception during the transition to menopause: a commentary.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026
+**Revista:** Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology
 **Tipo:** Journal Article, Review
-**Autores:** Nagayama M, Kinoshita T, Kawaguchi H, Fujinuma T, Fujikura S, Hayashi H, Tamaru T, Sakamoto H
-**PMID:** 42852132  **DOI:** 10.1002/deo2.70449
+**Autores:** Versailles JBE, Bahamondes L, Grandi G, Juliato CRT
+**PMID:** 42981163  **DOI:** 10.1080/09513590.2026.2739166
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42852132/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42981163/
 
-### 14. Recent advances in functionalized electrospun nanofibers for biomedical and therapeutic applications: A comprehensive review.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article, Review
-**Autores:** Deshmukh K, Pandey M, Moulahoum H, Ghorbanizamani F, Kovářík T, Przekora-Kuśmierz A, Jena H, Vora M
-**PMID:** 42960302  **DOI:** 10.1016/j.bioactmat.2026.10.009
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42960302/
+### 10. Digital mental health tools for use by individuals in opioid use recovery: An academic scoping and commercial review.
+**Área:** Psiquiatría y salud mental
+**Fecha:** 2026-07-30
+**Revista:** PLOS Digit Health
+**Tipo:** No especificado
+**Autores:** D'Arcey JN, Zedan SA, Tackaberry-Giddens L, McIntyre C, Junaid S, Asuncion TR, Kidd SA.
+**PMID:** 42531192  **DOI:** 10.1371/journal.pdig.0001544
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42531192/
 
-### 15. Spatial mechanopriming of multicellular interfaces drives cytoskeletal-to-nuclear remodeling to boost therapeutic efficacy of stem cells.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Bayaraa O, Lee NH, Kim SH, Lee H, Li CJ, Fu X, Hyun J, Choi G
-**PMID:** 42960265  **DOI:** 10.1016/j.bioactmat.2026.09.042
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42960265/
+### 11. Pyonephrosis-An Updated Morphological Glimpse into the Contemporary Management of an Immemorial Pathology: A Narrative Review.
+**Área:** Urgencias, cuidados críticos y sepsis
+**Fecha:** 2026-10-14
+**Revista:** Diagnostics (Basel)
+**Tipo:** No especificado
+**Autores:** Latcu S, Novacescu D, Baloi A, Zara F, Dumitru CS, Caprariu R, Cut TG, Marinescu A, Lazureanu VE, Bratosin F, Petrica FL, Cumpanas A.
+**PMID:** 42938174  **DOI:** 10.3390/diagnostics16203334
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42938174/
 
-### 16. Injectable bioactive glass hydrogels orchestrate metalloimmunotherapy by depleting pathogenic B cells and rescuing bone in rheumatoid arthritis.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Yan Z, Chen Y, Zeng F, Chen Q, Cai H, Qin R, Xu J, Gu B
-**PMID:** 42959986  **DOI:** 10.1016/j.bioactmat.2026.08.057
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42959986/
-
-### 17. A GelMA hydrogel co-loaded with ursolic acid, ferulic acid and naringin facilitates dentin regeneration by providing a multi-component odontogenic microenvironment.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Biomaterials advances
-**Tipo:** Journal Article
-**Autores:** Che J, Yang A, Mo F, Gao Y, Li Y, Cui Y, Zhuo F, Hong Y
-**PMID:** 42874379  **DOI:** 10.1016/j.bioadv.2026.215242
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42874379/
-
-### 18. Iron-quercetin-incorporated PCL/PEO nanofibrous scaffolds for ADSC secretome modulation and in vitro regenerative responses.
-**Área:** Inmunología y reumatología
-**Fecha:** 2027
-**Revista:** Biomaterials advances
-**Tipo:** Journal Article
-**Autores:** Daranarong D, Kantapan J, Jenvoraphot T, Innuan P, Rolin G, Viennet-Steiner C, Roytrakul S, Punyodom W
-**PMID:** 42863275  **DOI:** 10.1016/j.bioadv.2026.215236
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42863275/
-
-### 19. Targeting the lactate/P300/H3K18la epigenetic pathway with a mechanoadaptive biomimetic hydrogel to suppress traumatic tendon heterotopic ossification.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Feng H, Ang K, Deng Z, Cui C, Chen J, Huang N, Feng Y, Zhang J
-**PMID:** 42927122  **DOI:** 10.1016/j.bioactmat.2026.10.006
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42927122/
-
-### 20. Cascade DNA walker-driven photo-controlled CRISPR/Cas12a nanorobot enabling ultrasensitive one-pot detection of dual miRNAs in triple-negative breast cancer.
-**Área:** Oncología e inmunoterapia
+### 12. Rapid and visual detection of group B Streptococcus based on an ERA-CasMNPs colorimetric biosensor.
+**Área:** Pediatría y neonatología
 **Fecha:** 2027
 **Revista:** Talanta
 **Tipo:** Journal Article
-**Autores:** Yu L, Li X, Huang L
-**PMID:** 42933160  **DOI:** 10.1016/j.talanta.2026.130831
+**Autores:** Guo H, Jiang Y, Li D, He K, Chen Y, Li Y, Dai S, He Y
+**PMID:** 42892015  **DOI:** 10.1016/j.talanta.2026.130794
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42933160/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42892015/
 
-### 21. Teclistamab versus lenalidomide-dexamethasone in high-risk smoldering multiple myeloma: a randomized phase 2 trial.
-**Área:** Oncología e inmunoterapia
-**Fecha:** 2026-09-11
-**Revista:** Nat Med
-**Tipo:** No especificado
-**Autores:** Nadeem O, Cordas Dos Santos DM, Magidson S, Matous J, Medvedova E, O'Donnell E, Redd RA, Liu Y, Midha S, Sperling AS, Arters F, Davie C, Ricciardi C, Toenges R, Bidikian N, Hussein S, Alberge JB, Kim S, Pantano-Rubino L, Corrado F, Ashton H, Addonizio D, Mohamed S, Sturtevant A, Marto M, Bergeron A, Malfona F, Panaro K, Richardson PG, Ritz J, Trippa L, Ghobrial IM.
-**PMID:** 42728379  **DOI:** 10.1038/s41591-026-04642-w
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42728379/
+### 13. Atypical early-life ultrasonic vocalizations disrupt the pup-dam communication dyad in the BTBR model of autism spectrum disorder.
+**Área:** Pediatría y neonatología
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article
+**Autores:** Cofsky NI, Binder MS
+**PMID:** 42874787  **DOI:** 10.1016/j.bbr.2026.116527
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42874787/
 
-### 22. Circulatory arrest versus aortic cross-clamping in proximal thoracic aortic aneurysm repair.
-**Área:** Nefrología y urología
+### 14. Postoperative infections after cardiac surgery with cardiopulmonary bypass - incidence, performance of diagnostic procedures, and predictive factors.
+**Área:** Cirugía, trauma y ortopedia
 **Fecha:** 2027
 **Revista:** Scandinavian cardiovascular journal : SCJ
-**Tipo:** Journal Article, Comparative Study, Observational Study
-**Autores:** Braatz E, Stenman M, Al-Mousli J, Dalén M, Olsson C
-**PMID:** 42841288  **DOI:** 10.1080/14017431.2026.2745873
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42841288/
-
-### 23. Integrated analysis identifies dysregulated secretory proteins and crotonylation profiles associated with immune regulation in IgA nephropathy.
-**Área:** Nefrología y urología
-**Fecha:** 2027
-**Revista:** Journal of proteomics
 **Tipo:** Journal Article
-**Autores:** Chen J, Zhang W, Dai Y, Ma H, Ma J, Zou G, Yan Q, Hu G
-**PMID:** 42843589  **DOI:** 10.1016/j.jprot.2026.105737
+**Autores:** Erixon C, Johannesson E, Dardashti A, Melhammar L, Nilsson J, Thelaus L, Linder A, Zindovic I
+**PMID:** 42860039  **DOI:** 10.1080/14017431.2026.2745880
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42843589/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42860039/
 
-### 24. ALMS1 stabilizes the proximal centriole to drive transition zone assembly and ciliogenesis.
-**Área:** Nefrología y urología
+### 15. Causal discovery from nonstationary subsample time series.
+**Área:** Pediatría y neonatología
 **Fecha:** 2027
-**Revista:** The Journal of cell biology
+**Revista:** Neural networks : the official journal of the International Neural Network Society
 **Tipo:** Journal Article
-**Autores:** Phan TP, Derderian C, Herranz-Pérez V, Li KH, Burlingame AL, Reiter JF
-**PMID:** 42969949  **DOI:** 10.1083/jcb.202605019
+**Autores:** Chen W, Huang Q, Wang F, Hao Z, Cai R
+**PMID:** 42868904  **DOI:** 10.1016/j.neunet.2026.109731
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42969949/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42868904/
 
-### 25. Deficiency of NBAS causes immune dysregulation due to hyperactivation of IFN signaling.
-**Área:** Nefrología y urología
+### 16. Adolescent social isolation drives sex-dependent shifts in medial prefrontal cortex endocannabinoid tone and excitatory/inhibitory balance: the protective role of a methyl donor.
+**Área:** Pediatría y neonatología
 **Fecha:** 2027
-**Revista:** Journal of human immunity
+**Revista:** Neuropharmacology
 **Tipo:** Journal Article
-**Autores:** Liu C, Zhang L, Lu M, Shen Y, Yao Y, Liu F, Wang Q, Zhang B
-**PMID:** 42949555  **DOI:** 10.70962/jhi.20260018
+**Autores:** Ricciardi F, Mosca L, Belardo C, Bonsale R, Fusco A, Teweldemedhin MM, Piscitelli F, di Marzo V
+**PMID:** 42933530  **DOI:** 10.1016/j.neuropharm.2026.111237
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42949555/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42933530/
 
-### 26. Abstracts of the ICARE 2026 80th SIAARTI National Congress.
-**Área:** Nefrología y urología
-**Fecha:** 2026-10-20
-**Revista:** J Anesth Analg Crit Care
+### 17. Children's health before, during, and after parental/caregiver immigration detention in the United States: findings from a cross-sectional survey.
+**Área:** Pediatría y neonatología
+**Fecha:** 2027
+**Revista:** Lancet regional health. Americas
+**Tipo:** Journal Article
+**Autores:** Thapa K, Patler C, Saadi A
+**PMID:** 42926867  **DOI:** 10.1016/j.lana.2026.101658
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42926867/
+
+### 18. Abstracts
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-10-01
+**Revista:** JPGN Rep
 **Tipo:** No especificado
 **Autores:** No disponible
-**PMID:** 42897627  **DOI:** 10.1186/s44158-026-00440-5
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42897627/
+**Enlace:** —
 
-### 27. ESICM LIVES 2026.
-**Área:** Nefrología y urología
-**Fecha:** 2026-10-09
-**Revista:** Intensive Care Med Exp
+### 19. International Variations in the Use of Antimicrobials and Management of Sepsis: A Survey of 382 Neonatal Units in 12 Countries.
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-09-29
+**Revista:** Neonatology
+**Tipo:** No especificado
+**Autores:** Seliga-Siwecka J, Romańska J, Lui K, Mussi-Pinhata MM, San Feliciano L, Lehtonen L, Helenius K, Vento M, Bassler D, Kusuda S, Biran V, Klinger G, Isayama T, Puglia M, Battin M, Norman M, Naver L, Adams M, Reichman B, Beltempo M, Shah PS.
+**PMID:** 42809485  **DOI:** 10.1159/neo/adsag014
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42809485/
+
+### 20. Proceedings of the 33rd European Paediatric Rheumatology Congress.
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-09-16
+**Revista:** Pediatr Rheumatol Online J
 **Tipo:** No especificado
 **Autores:** No disponible
-**PMID:** 42855639  **DOI:** 10.1186/s40635-026-00962-w
+**PMID:** 42750029  **DOI:** 10.1186/s12969-026-01260-1
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42855639/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42750029/
 
-### 28. Special Collection: Abstracts from IUNS-ICN Paris 2025
-**Área:** Nefrología y urología
+### 21. Special Collection: Abstracts from IUNS-ICN Paris 2025
+**Área:** Pediatría y neonatología
 **Fecha:** 2026-09-04
 **Revista:** J Nutr Sci
 **Tipo:** No especificado
@@ -285,23 +215,93 @@
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 29. Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2027
-**Revista:** Virulence
-**Tipo:** Journal Article
-**Autores:** Liu H, Xu T, Guo Y, Zhou X, Yan C, Zhu B, Xie Y
-**PMID:** 42834659  **DOI:** 10.1080/21505594.2026.2739091
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42834659/
+### 22. Special Issue: EACR 2026 Congress: Innovative Cancer Science, 8-11 June 2026.
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-08-01
+**Revista:** Mol Oncol
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** 42633749  **DOI:** 10.1002/1878-0261.70318
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42633749/
 
-### 30. Heterojunction nanozyme achieve highly efficient antibacterial by cuproptosis-like death and ferroptosis-like death.
-**Área:** Endocrinología, metabolismo y obesidad
+### 23. Abstracts from the 19th European Headache Congress (EHC).
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-07-20
+**Revista:** J Headache Pain
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** 42472778  **DOI:** 10.1186/s10194-026-02378-z
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42472778/
+
+### 24. Influence of perineal tears and body image disturbance on postpartum sexual quality of life: a cross-sectional study.
+**Área:** Ginecología y obstetricia
 **Fecha:** 2027
-**Revista:** Bioactive materials
+**Revista:** Journal of psychosomatic obstetrics and gynaecology
 **Tipo:** Journal Article
-**Autores:** Wang W, Zhu R, Gui H, Jin X, Wei X, Wang X
-**PMID:** 42953337  **DOI:** 10.1016/j.bioactmat.2026.10.020
+**Autores:** Fillion D, Ruffolo AF, Verlet N, Martin C, Garabedian C, Rubod C, Kerbage Y, Cosson M
+**PMID:** 42853895  **DOI:** 10.1080/0167482X.2026.2716382
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42953337/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42853895/
+
+### 25. "Sailing Two Boats" the fragmented identity of working women and the hidden labor of infertility: a qualitative analysis.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2027
+**Revista:** Journal of psychosomatic obstetrics and gynaecology
+**Tipo:** Journal Article
+**Autores:** Dhar S, Poojari VG, Adiga P, Mundkur A, Tomar A, Kumar P
+**PMID:** 42842760  **DOI:** 10.1080/0167482X.2026.2742884
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42842760/
+
+### 26. Maternal piromelatine treatment is associated with attenuated behavioral alterations and sex-specific changes in hippocampal pCREB/BDNF signaling in adult offspring following prenatal constant-light exposure.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article
+**Autores:** Stoyanova T, Ivanova P, Tchekalarova J
+**PMID:** 42892467  **DOI:** 10.1016/j.bbr.2026.116539
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42892467/
+
+### 27. Functional remodeling of the maternal brain: Linking brain c-Fos dynamics to behavioral changes in pregnancy: An exploratory study.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article
+**Autores:** Yang L, Shang Y, Liu X, Wang J, Zhang H, Yang L
+**PMID:** 42874785  **DOI:** 10.1016/j.bbr.2026.116520
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42874785/
+
+### 28. Abstracts From the 2026 Health Care Systems Research Network (HCSRN) Annual Conference, Dallas, Texas.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-15
+**Revista:** J Patient Cent Res Rev
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** 42812882  **DOI:** 10.17294/2330-0698.2385
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42812882/
+
+### 29. Poster Session 3 : Friday, 9 October 2026   11:00 – 12:15
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-01
+**Revista:** Pregnancy (Hoboken)
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 30. Mapping the causal landscape of polycystic ovary syndrome: A systematic Mendelian randomization evidence synthesis and the MR-PCOS atlas platform.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-08-01
+**Revista:** Medicine (Baltimore)
+**Tipo:** No especificado
+**Autores:** Du S, Dai D, Pan W, Zhou J, Wang K.
+**PMID:** 42629737  **DOI:** 10.1097/md.0000000000050366
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42629737/
 
