@@ -1,6 +1,6 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-11-08T18:21+00:00**
+> Actualizado: **2026-11-09T22:58+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 # MEDICUS PRIME — ACTUALIZACIÓN CIENTÍFICA
@@ -9,136 +9,125 @@
 
 ## TOP 5
 
-### 1. Eficacia y seguridad de dalfampridina en la cognición y fatiga en esclerosis múltiple
-* **Título:** The Efficacy and Safety of Dalfampridine on Cognition and Fatigue in People With Multiple Sclerosis: A Systematic Review and Meta-Analysis.
-* **Fecha:** 2027
-* **Revista:** *International Journal of MS Care*
-* **Tipo de estudio:** Revisión sistemática y meta-análisis de ensayos clínicos aleatorizados (ECA).
-* **Nivel de evidencia:** Consolidada (meta-análisis de 13 ECA, n = 827).
-* **Hallazgo:** La dalfampridina (bloqueador de canales de potasio) mostró una mejoría estadísticamente significativa en el rendimiento cognitivo frente a placebo (DME = 0,21; IC 95%: 0,04 a 0,38; p = 0,01; I² = 6%). No obstante, no demostró beneficio sobre la fatiga (DM = 3,70; IC 95%: -4,37 a 11,77; p = 0,37; I² = 19%). La tasa de eventos adversos fue equivalente a placebo (RR = 1,11; IC 95%: 0,99 a 1,25; p = 0,08).
-* **Importancia clínica:** La dalfampridina está aprobada para trastornos de la marcha en esclerosis múltiple; este meta-análisis respalda un beneficio adicional y específico sobre dominios cognitivos, aunque con un tamaño de efecto modesto (DME = 0,21).
-* **Limitación:** El tamaño muestral acumulado es moderado y el tamaño del efecto cognitivo es pequeño; no debe prescribirse bajo la expectativa de reducir la fatiga.
+### 1. Dalfampridina en esclerosis múltiple: modesta mejoría cognitiva sin impacto en la fatiga
+* **Título:** The Efficacy and Safety of Dalfampridine on Cognition and Fatigue in People With Multiple Sclerosis: A Systematic Review and Meta-Analysis.  
+* **Fecha:** 2027  
+* **Revista:** *International Journal of MS Care*  
+* **Tipo de estudio:** Revisión sistemática y meta-análisis de ensayos clínicos aleatorizados (ECA). Nivel de evidencia: **Consolidada / Prometedora**.  
+* **Hallazgo:** En un meta-análisis de 13 ECA con 827 pacientes, el bloqueador de canales de potasio dalfampridina mostró una mejoría estadísticamente significativa en los síntomas cognitivos frente a placebo (*Standardized Mean Difference* [SMD] = 0,21; IC 95%: 0,04 a 0,38; *p* = 0,01; $I^2 = 6\%$). No obstante, no redujo la fatiga (*Mean Difference* [MD] = 3,70; IC 95%: -4,37 a 11,77; *p* = 0,37; $I^2 = 19\%$). El perfil de eventos adversos fue comparable al placebo (RR = 1,11; IC 95%: 0,99 a 1,25; *p* = 0,08).  
+* **Importancia clínica:** La dalfampridina está aprobada para trastornos de la marcha en esclerosis múltiple. Este estudio confirma un beneficio biológicamente plausible pero de magnitud pequeña en cognición (tamaño de efecto leve, SMD 0,21), descartando su utilidad terapéutica para el manejo de la fatiga.  
+* **Limitación:** El tamaño de muestra total acumulado es moderado ($n=827$), y la significación estadística del SMD no se traduce necesariamente en una diferencia clínica mínima importante (MCID) estandarizada en la práctica diaria.  
 * **Enlace:** [PubMed (PMID: 42974622)](https://pubmed.ncbi.nlm.nih.gov/42974622/)
 
 ---
 
-### 2. Impacto pronóstico del asma comórbida en la evolución clínica y exacerbaciones de la EPOC
-* **Título:** Comorbid asthma - occurrence and associations with patient-related outcomes in COPD: a cohort study.
-* **Fecha:** 2027
-* **Revista:** *Scandinavian Journal of Primary Health Care*
-* **Tipo de estudio:** Estudio de cohortes observacional longitudinal (cohortes 2005 [n = 1.060] y 2014 [n = 1.671] con seguimiento a 10 años).
-* **Nivel de evidencia:** Consolidada / Observacional robusta.
-* **Hallazgo:** La prevalencia de asma diagnosticada concomitantemente en pacientes con EPOC descendió del 22% (cohorte 2005) al 9% (cohorte 2014; p < 0,001). En ambas cohortes, la presencia de asma comórbida duplicó prácticamente el riesgo de exacerbaciones: cohorte 2005 (OR = 1,58; IC 95%: 1,07-2,32; p = 0,02) y cohorte 2014 (OR = 2,20; IC 95%: 1,38-3,52; p < 0,001). No hubo diferencias en el estado de salud basal (cuestionario CCQ) y la mortalidad a 10 años no aumentó (en 2014 se observó menor mortalidad: HR = 0,67; IC 95%: 0,49-0,93).
-* **Importancia clínica:** Destaca la necesidad de pesquisar activamente el componente asmático en EPOC (fenotipo ACO o solapamiento), ya que es un predictor independiente de exacerbaciones frecuentes que guía la indicación de corticoides inhalados.
-* **Limitación:** Basado en registros clínicos de diagnósticos médicos codificados; la reducción aparente de mortalidad en la cohorte 2014 puede deberse a factores de confusión no medidos o a diferencias en el tratamiento farmacológico recibido (ej. mayor uso de ICS).
-* **Enlace:** [PubMed (PMID: 42894311)](https://pubmed.ncbi.nlm.nih.gov/42894311/)
+### 2. Infecciones postquirúrgicas tras cirugía cardíaca con CEC: pobre rendimiento de biomarcadores inflamatorios convencionales
+* **Título:** Postoperative infections after cardiac surgery with cardiopulmonary bypass - incidence, performance of diagnostic procedures, and predictive factors.  
+* **Fecha:** 2027  
+* **Revista:** *Scandinavian Cardiovascular Journal*  
+* **Tipo de estudio:** Estudio de cohorte bidireccional ($n=1.222$). Nivel de evidencia: **Consolidada (observacional)**.  
+* **Hallazgo:** La incidencia de infecciones postoperatorias tras circulación extracorpórea (CEC) fue del 17,3%, duplicando la mortalidad a 90 días (3,8% vs. 1,5%, *p* = 0,045) y a 1 año (5,7% vs. 2,7%, *p* = 0,032). La proteína C reactiva (PCR), el recuento leucocitario y la temperatura corporal tuvieron un rendimiento diagnóstico deficiente (curvas ROC pobres) debido al síndrome de respuesta inflamatoria sistémica propio de la CEC. Sin embargo, el pico febril tardío (día 5 en infectados vs. día 2 en no infectados) y el pico de PCR fueron predictores independientes (OR 2,408 y OR 1,069, respectivamente).  
+* **Importancia clínica:** Advierte al clínico sobre la trampa diagnóstica de los biomarcadores habituales en los primeros días tras CEC; el patrón cronológico (aparición de fiebre tardía a partir del 5.º día) es un signo de sospecha mucho más relevante que la magnitud aislada del reactante en el postoperatorio inmediato.  
+* **Limitación:** Diseño unicéntrico y naturaleza observacional, sujeta a factores de confusión por complejidad quirúrgica basal.  
+* **Enlace:** [PubMed (PMID: 42860039)](https://pubmed.ncbi.nlm.nih.gov/42860039/)
 
 ---
 
-### 3. Parada circulatoria hipotérmica leve frente a pinzamiento aórtico en la reparación de aneurismas de aorta torácica proximal
-* **Título:** Circulatory arrest versus aortic cross-clamping in proximal thoracic aortic aneurysm repair.
-* **Fecha:** 2027
-* **Revista:** *Scandinavian Cardiovascular Journal*
-* **Tipo de estudio:** Estudio de cohorte observacional comparativo con emparejamiento por puntuación de propensión (PSM) (n = 399: 261 pinzamiento aórtico, 138 parada circulatoria hipotérmica leve [MHCA]).
-* **Nivel de evidencia:** Consolidada en el marco observacional (estudio con ajuste por propensión).
-* **Hallazgo:** La variable combinada primaria a 30 días (mortalidad, ictus o lesión renal aguda) ocurrió en el 3,8% global. En el análisis no ajustado fue superior en MHCA (6,5% vs. 2,3%, p = 0,035); sin embargo, tras el emparejamiento por propensión no existieron diferencias estadísticamente significativas (OR = 2,4; IC 95%: 0,66-11,5). La supervivencia a largo plazo fue comparable (log-rank p = 0,33).
-* **Importancia clínica:** Valida la seguridad perioperatoria de ambas estrategias en pacientes con diámetros de aorta distal de 40 a 50 mm, permitiendo al cirujano seleccionar la técnica de anastomosis distal en función de la anatomía local sin comprometer la supervivencia.
-* **Limitación:** Estudio unicéntrico observacional; el amplio intervalo de confianza en el análisis emparejado denota potencia estadística limitada para eventos adversos poco frecuentes.
-* **Enlace:** [PubMed (PMID: 42841288)](https://pubmed.ncbi.nlm.nih.gov/42841288/)
+### 3. Válvulas endobronquiales en fuga aérea persistente y fístula broncopleural pediátrica: terapia de rescate
+* **Título:** Endobronchial Valves for Persistent Air Leak and Bronchopleural Fistula in Children: A Systematic Review of Indications, Procedural Approaches, and Outcomes.  
+* **Fecha:** 2027  
+* **Revista:** *Journal of Bronchology & Interventional Pulmonology*  
+* **Tipo de estudio:** Revisión sistemática de estudios observacionales y series de casos. Nivel de evidencia: **Emergente / Baja certeza**.  
+* **Hallazgo:** Tras analizar 13 reportes pediátricos, la colocación de válvulas endobronquiales/intrabronquiales logró mejoría del escape aéreo en pacientes con neumonía necrotizante, fuga postoperatoria, ECMO o ventilación prolongada. Las complicaciones reportadas incluyeron migración o aflojamiento valvular, tejido de granulación, atelectasia, hemoptisis menor y neumotórax contralateral.  
+* **Importancia clínica:** Demuestra la viabilidad de una opción mínimamente invasiva de rescate o puente cuando falla el drenaje conservador y la toracotomía conlleva un riesgo prohibitivo en pediatría.  
+* **Limitación:** Evidencia restringida a series retrospectivas pequeñas, definiciones heterogéneas de desenlaces y alto potencial de sesgo de publicación.  
+* **Enlace:** [PubMed (PMID: 42935016)](https://pubmed.ncbi.nlm.nih.gov/42935016/)
 
 ---
 
-### 4. Proteína con dominio DUF6383 de *Parabacteroides distasonis* como biomarcador pronóstico en hepatitis asociada al alcohol
-* **Título:** DUF6383-domain containing protein from Parabacteroides distasonis predicts survival in patients with alcohol-associated hepatitis.
-* **Fecha:** 2027
-* **Revista:** *Gut Microbes Reports*
-* **Tipo de estudio:** Estudio multicéntrico de perfiles metaproteómicos y validación por qPCR en cohorte independiente (Cohorte de descubrimiento n = 119; cohorte de validación n = 72).
-* **Nivel de evidencia:** Prometedora (biomarcador traslacional con validación molecular independiente).
-* **Hallazgo:** Se identificó una marcada disbiosis con enriquecimiento de Bacteroidetes y pérdida de Firmicutes. La proteína bacteriana con dominio DUF6383 derivada de *P. distasonis* se asoció con infiltración inflamatoria hepática, daño histológico y desgranulación de neutrófilos del huésped. Una alta abundancia de esta proteína predijo de forma estadísticamente significativa una menor supervivencia a 90 días en pacientes con hepatitis asociada al alcohol, lo que fue confirmado a nivel genómico en la cohorte independiente.
-* **Importancia clínica:** Abre la puerta a la estratificación pronóstica no invasiva basada en el proteoma del microbioma intestinal e identifica posibles dianas patogénicas en el eje intestino-hígado.
-* **Limitación:** Identifica una asociación pronóstica; no demuestra causalidad directa entre la toxina/proteína bacteriana y la mortalidad hepática.
-* **Enlace:** [PubMed (PMID: 42985619)](https://pubmed.ncbi.nlm.nih.gov/42985619/)
+### 4. Biosensor ERA-Cas12a para la detección rápida y visual de *Streptococcus agalactiae* (EGB)
+* **Título:** Rapid and visual detection of group B Streptococcus based on an ERA-CasMNPs colorimetric biosensor.  
+* **Fecha:** 2027  
+* **Revista:** *Talanta*  
+* **Tipo de estudio:** Validación analítica experimental de prueba diagnóstica. Nivel de evidencia: **Experimental / Preclínica**.  
+* **Hallazgo:** Se desarrolló una plataforma colorimétrica (ERA-CasMNPs) dirigida al gen *cfb* de *Streptococcus* del grupo B (EGB), combinando amplificación enzimática por recombinasa (ERA), trans-escisión con CRISPR/Cas12a y nanopartículas magnéticas ligadas a peroxidasa de rábano (HRP). El ensayo opera en 85 minutos con un límite de detección al 95% de 23,3 copias/μL. Evaluado en 135 aislados bacterianos clínicos, mostró sensibilidad de 97,33%, especificidad de 98,33% y precisión diagnóstica del 97,78% comparado con RT-qPCR.  
+* **Importancia clínica:** Ofrece una alternativa visual de detección rápida de colonización materna periparto sin necesidad de termocicladores sofisticados, ideal para escenarios de recursos limitados.  
+* **Limitación:** Estudio de laboratorio con cultivos bacterianos aislados; requiere validación prospectiva en muestras clínicas complejas directas (hisopados vagino-rectales de embarazadas en trabajo de parto).  
+* **Enlace:** [PubMed (PMID: 42892015)](https://pubmed.ncbi.nlm.nih.gov/42892015/)
 
 ---
 
-### 5. Factibilidad de un sistema de sedación basado en ASA-PS modificado en endoscopia biliopancreática dirigida por endoscopistas
-* **Título:** Evaluating a Modified American Society of Anesthesiologists Physical Status-Based Sedation Management System for Pancreatobiliary Endoscopy: A Prospective Feasibility Study.
-* **Fecha:** 2027
-* **Revista:** *DEN Open*
-* **Tipo de estudio:** Estudio prospectivo de viabilidad de un solo brazo (n = 2.000).
-* **Nivel de evidencia:** Emergente (estudio prospectivo de centro único no aleatorizado).
-* **Hallazgo:** Mediante un algoritmo modificado de ASA-PS que integró predictores clínicos de riesgo (obesidad severa, SAHOS con CPAP, EPOC con oxigenoterapia, baja clase funcional y sedación difícil previa), el 11,6% se catalogó como alto riesgo; tras evaluación anestésica, el 95,7% (n = 1.914) fue sedado por endoscopistas. En este grupo, los eventos adversos relacionados con la sedación (SRAE) se limitaron al 3,3% (éxito del 96,7%), sin requerimiento de intubación orotraqueal ni conversión a anestesia general.
-* **Importancia clínica:** Ofrece una vía sistemática y segura de optimización de recursos anestésicos escasos en unidades de endoscopia de alta complejidad sin comprometer la seguridad del paciente.
-* **Limitación:** Diseño unicéntrico no ciego, sin grupo control directo contemporáneo asignado al azar.
-* **Enlace:** [PubMed (PMID: 42871153)](https://pubmed.ncbi.nlm.nih.gov/42871153/)
+### 5. Imagen espectral asistida (SAVE) frente a luz blanca y NBI en cáncer esofágico de células escamosas
+* **Título:** Enhanced Esophageal Cancer Detection Using Spectrum-Aided Vision Enhancer: A Comparative Study of White Light Imaging, Narrow-Band Imaging, and Algorithmic Narrow-Band Imaging-Like Imaging.  
+* **Fecha:** 2027  
+* **Revista:** *DEN Open*  
+* **Tipo de estudio:** Estudio exploratorio observacional de precisión diagnóstica con imágenes. Nivel de evidencia: **Emergente / Preliminar**.  
+* **Hallazgo:** En un set de 1.350 imágenes endoscópicas de 158 pacientes evaluadas a ciegas por 3 endoscopistas, el algoritmo SAVE (que reconstruye un realce similar a NBI a partir de luz blanca) obtuvo sensibilidad (0,81-0,97) y especificidad (0,85-0,96) semejantes a NBI y luz blanca para carcinoma epidermoide avanzado. Sin embargo, su sensibilidad para displasia precoz fue deficiente (0,39-0,62 frente a 0,55-0,85 de NBI).  
+* **Importancia clínica:** Aunque algoritmos computacionales pueden aproximar el contraste vascular macroscópico, no reemplazan a la imagen de banda estrecha óptica para la detección de lesiones displásicas tempranas.  
+* **Limitación:** Estudio retrospectivo sobre imágenes estáticas (no endoscopia en tiempo real) y con baja sensibilidad para el cribado de lesiones precursoras.  
+* **Enlace:** [PubMed (PMID: 42985276)](https://pubmed.ncbi.nlm.nih.gov/42985276/)
 
 ---
 
 ## OTROS HALLAZGOS RELEVANTES
 
-* **Vulnerabilidad climática en salud respiratoria (Estudio epidemiológico masivo):** Un estudio de caso cruzado estratificado en el tiempo sobre la cohorte de 100 millones de brasileños (1.199.636 muertes en migrantes internos vs. 3.716.900 en no migrantes) documentó que las temperaturas extremas frías y cálidas elevan la mortalidad por todas las causas. Específicamente, los migrantes internos con bajo nivel educativo presentaron una vulnerabilidad desproporcionada a la mortalidad respiratoria por calor extremo (RR = 1,84; IC 95%: 1,25-2,71). *Evidencia observacional epidemiológica consolidada.* [PubMed (PMID: 42990832)](https://pubmed.ncbi.nlm.nih.gov/42990832/)
-* **Inmunodeficiencia primaria del receptor de IL-10:** Se reportó que el acondicionamiento basado en treosulfano para el trasplante de progenitores hematopoyéticos (TPH) en deficiencia del receptor de interleucina-10 (IL-10R) logró quimerismo completo del donante y supervivencia favorable, destacando el uso del inhibidor de IL-1 (anakinra) como terapia puente antiinflamatoria previa al trasplante. *Evidencia clínica emergente / reporte de casos.* [PubMed (PMID: 42878707)](https://pubmed.ncbi.nlm.nih.gov/42878707/)
-* **Preservación cardíaca en trasplantes combinados:** Un estudio preliminar retrospectivo (n = 17) en trasplantes combinados (corazón-hígado y corazón-riñón) comparó el almacenamiento hipotérmico controlado (CHS, n = 7) frente al almacenamiento en hielo convencional (ICS, n = 10). La disfunción precoz grave del injerto ocurrió en 0% con CHS frente a 70% con ICS, con menor estancia en UCI y menos complicaciones. *Evidencia clínica preliminar (muestra muy reducida).* [PubMed (PMID: 42999535)](https://pubmed.ncbi.nlm.nih.gov/42999535/)
-* **Expresión de ARNm de SGLT2 en monocitos y esteatosis hepática:** En 82 pacientes con diabetes tipo 2 y MASLD tratados con luseogliflozina, una mayor expresión basal de ARNm de SGLT2 en monocitos circulantes correlacionó independientemente con una mayor reducción en el índice FIB-4 a 6 meses. *Evidencia exploratoria/observacional.* [PubMed (PMID: 42968831)](https://pubmed.ncbi.nlm.nih.gov/42968831/)
-* **Regeneración renal guiada por biomateriales e interferencia de ARN:** Se desarrolló un andamio de hidrogel bioimpreso funcionalizado con vesículas extracelulares que liberan siRNA contra IL-11 para prevenir la fibrosis renal tras nefrectomía parcial en modelos murinos, logrando revertir la transición epitelio-mesénquima vía STAT3-ERK-GSK3β-SNAI1. *Evidencia preclínica.* [PubMed (PMID: 42959456)](https://pubmed.ncbi.nlm.nih.gov/42959456/)
-* **Fisiopatología del canal epitelial de sodio (ENaC):** Revisión mecanicista sobre el transporte de sodio en riñón, colon y pulmón, analizando las lagunas de conocimiento sobre su modulación por aldosterona y su implicación en la hipertensión esencial, síndrome nefrótico y fibrosis quística. *Revisión conceptual.* [PubMed (PMID: 42980615)](https://pubmed.ncbi.nlm.nih.gov/42980615/)
-* **Nanotecnología antibacteriana y osteogénica en implantes:** Desarrollo de puntos de carbono derivados de polímeros de amonio cuaternario-guanidina (GQCDs) que inhiben selectivamente la cadena respiratoria bacteriana a la vez que preservan la respiración mitocondrial del osteoblasto en modelos de rata y beagle. *Evidencia preclínica.* [PubMed (PMID: 42904193)](https://pubmed.ncbi.nlm.nih.gov/42904193/)
-* **Hidrogel captador de óxido nítrico para enfermedad inflamatoria intestinal:** Plataforma inyectable intrarrectal reactiva a microambientes inflamatorios cargada con dexametasona que reduce la mucosa ulcerada en colitis murina inducida por DSS. *Evidencia preclínica.* [PubMed (PMID: 42860119)](https://pubmed.ncbi.nlm.nih.gov/42860119/)
+* **Conectoma funcional cerebral en el trastorno por juego en internet (TJI):** Un estudio en 90 individuos evaluados mediante resonancia magnética funcional (fMRI) en reposo identificó que redes de conectoma predictivo (CPM) motoras, subcorticales y de prominencia, junto con circuitos cerebelosos, predicen la reducción sintomática tras tres intervenciones conductuales distintas ($r = 0,480$; $p < 0,001$).  
+  *Nivel de evidencia: Experimental clínica*. [PubMed (PMID: 42862599)](https://pubmed.ncbi.nlm.nih.gov/42862599/)
+* **Asociación de lesiones mucosas gástricas con tumores epiteliales duodenales no ampollares:** En una cohorte retrospectiva de 130 tumores duodenales resecados, las lesiones mucosas de tipo gástrico (metaplasia foveolar, heterotopía, hiperplasia de Brunner) se asociaron con el fenotipo mucinoso gástrico (OR ajustada: 7,00; IC 95%: 1,98 a 30,95; $p = 0,002$). Es una correlación patológica transversal sin demostración de causalidad biológica directa.  
+  *Nivel de evidencia: Observacional retrospectiva*. [PubMed (PMID: 42948259)](https://pubmed.ncbi.nlm.nih.gov/42948259/)
+* **Pancreatitis aguda por migración de grapas quirúrgicas:** Caso de una paciente sometida a pancreatectomía distal laparoscópica que desarrolló pancreatitis aguda al día 51 postoperatorio secundaria a la impactación de grapas quirúrgicas en la papila menor, resuelta mediante CPRE. Recuerda que la migración de cuerpos extraños debe considerarse ante pancreatitis diferida posquirúrgica.  
+  *Nivel de evidencia: Reporte de caso*. [PubMed (PMID: 42979178)](https://pubmed.ncbi.nlm.nih.gov/42979178/)
+* **Evolución endoscópica de adenoma de glándulas pilóricas (AGP):** Se documenta el crecimiento durante 11 años de una lesión fúndica con apariencia inicial de pólipo de glándulas fúndicas (PGF) que creció a 22 mm en mucosa no atrófica, confirmando AGP con displasia de bajo grado tras disección submucosa. Refuerza la indicación de biopsiar pólipos fúndicos atípicos o en crecimiento.  
+  *Nivel de evidencia: Reporte de caso*. [PubMed (PMID: 42985699)](https://pubmed.ncbi.nlm.nih.gov/42985699/)
+* **AsnAsa quimérica termo-sensible en modelos murinos:** Una proteína de fusión de asparaginasa con polipéptido tipo elastina y LHRH prolongó la vida media plasmática a ~400 horas y redujo la inmunogenicidad 70 veces, logrando inhibición tumoral y de metástasis en modelos de cáncer de mama triple negativo al combinarse con anti-PD-L1.  
+  *Nivel de evidencia: Preclínica in vivo (animal)*. [PubMed (PMID: 42901134)](https://pubmed.ncbi.nlm.nih.gov/42901134/)
+* **Vesículas extracelulares con let-7a-5p en andamiajes para regeneración traqueal:** Un andamiaje bioactivo de policaprolactona/Pluronic F127 con vesículas extracelulares enriquecidas con let-7a-5p polarizó macrófagos a fenotipo reparador M2 (vía inhibición de NF-$\kappa$B) y mejoró la epitelización en un modelo de defecto traqueal segmental en conejos.  
+  *Nivel de evidencia: Preclínica in vivo (animal)*. [PubMed (PMID: 42999915)](https://pubmed.ncbi.nlm.nih.gov/42999915/)
+* **Nanovesículas híbridas senescentes como células presentadoras de antígeno artificiales (aAPCs):** Fusión de membranas de células tumorales senescentes y eritrocitos que direcciona antígenos al bazo e induce activación de linfocitos CD8+ en modelos murinos B16-OVA y MC38.  
+  *Nivel de evidencia: Preclínica in vivo (animal)*. [PubMed (PMID: 42914653)](https://pubmed.ncbi.nlm.nih.gov/42914653/)
+* **Alteración en vocalizaciones ultrasónicas y cuidado materno en modelo de TEA:** Crías de ratón BTBR (modelo de espectro autista) mostraron patrones anómalos de comunicación acústica que retrasaron su rescate materno por la presa, vinculando parámetros acústicos con la conducta diádica.  
+  *Nivel de evidencia: Preclínica conductual animal*. [PubMed (PMID: 42874787)](https://pubmed.ncbi.nlm.nih.gov/42874787/)
+* **Anticoncepción en la perimenopausia:** Revisión orientada a la transición menopáusica destacando que la edad por sí sola no contraindica métodos hormonales (LARCs o SARCs), pero exige individualización por riesgo metabólico y cardiovascular.  
+  *Nivel de evidencia: Comentario de expertos / Revisión narrativa*. [PubMed (PMID: 42981163)](https://pubmed.ncbi.nlm.nih.gov/42981163/)
+* **Biomateriales y citoquinas en cicatrización:** Análisis translacional que subraya que desde 1997 (becaplermina) no se aprueba una terapia basada en citoquinas vehiculizadas con biomateriales, debido a vidas medias cortas, toxicidad sistémica y pleiotropía.  
+  *Nivel de evidencia: Revisión narrativa/traslacional*. [PubMed (PMID: 42901135)](https://pubmed.ncbi.nlm.nih.gov/42901135/)
 
 ---
 
-## QUÉ DEBERÍA ESTUDIAR UN ESTUDIANTE DE MEDICINA
+## QUÉ DEBERÍA ESTUDIAR
 
-1. **Eje Intestino-Hígado y Metaproteómica:** Comprender cómo las alteraciones estructurales de la microbiota y la translocación de proteínas bacterianas modulan la respuesta inflamatoria estéril del parénquima hepático a través de neutrófilos en hepatopatías agudas y crónicas.
-2. **Diagnóstico Diferencial y Fenotipificación en Patología Obstructiva (EPOC vs. Asma):** Repasar los criterios diagnósticos espirométricos y clínicos de reversibilidad. Entender que el solapamiento o comorbilidad de asma en un paciente con EPOC altera drásticamente la tasa anual de exacerbaciones y define el umbral para iniciar glucocorticoides inhalados.
-3. **Manejo del Riesgo Perioperatorio y Escalas de Sedación (ASA-PS):** Estudiar los determinantes fisiológicos de complicaciones de la vía aérea en procedimientos endoscópicos invasivos (SAHOS, obesidad mórbida, baja reserva cardiopulmonar) y cómo se estratifican los pacientes entre sedación monitorizada por endoscopista vs. anestesiólogo.
-4. **Farmacocinética y Farmacodinamia de Canales Iónicos en Neurología:** Revisar el mecanismo de acción de los bloqueadores de canales de potasio dependientes de voltaje (dalfampridina / 4-aminopiridina) en axones desmielinizados y su impacto bioeléctrico en la transmisión del potencial de acción del sistema nervioso central.
+1. **Fisiopatología del Síndrome Post-Bomba (CEC) y Cinética de Biomarcadores:**  
+   *Comprender la diferencia entre la cascada inflamatoria inducida por la interacción sangre-circuito extracorpóreo y la verdadera sepsis posquirúrgica. La elevación precoz de PCR y leucocitos es universal; el diagnóstico diferencial recae en la aparición tardía de fiebre (a partir del día 5) y en la identificación de focos.*
+2. **Evaluación Crítica de Medidas de Efecto en Ensayos Clínicos (SMD vs. MCID):**  
+   *Aprender a interpretar el tamaño de efecto con Diferencia de Medias Estandarizada (SMD). En el meta-análisis de dalfampridina, un SMD de 0,21 es estadísticamente significativo ($p=0,01$), pero denota un efecto clínicamente modesto que exige evaluar escalas funcionales validadas.*
+3. **Manejo Intervencionista de Fugas Aéreas Complejas:**  
+   *Revisar la fisiopatología de las fístulas broncopleurales de alto gasto y el principio mecánico unidireccional de las válvulas endobronquiales (permitir salida de aire y secreciones impidiendo la entrada en inspiración).*
+4. **Principios de Diagnóstico Molecular Basado en CRISPR/Cas12a:**  
+   *Estudiar el mecanismo de la actividad nucleasa "colateral" o "trans" inespecífica de Cas12a una vez reconocida la secuencia diana (*cfb* en EGB), y cómo se acopla a metodologías isotérmicas como la amplificación por recombinasa (ERA).*
 
 ---
 
 ## ALERTAS DE EVIDENCIA
 
-* **Alerta 1: Causalidad vs. Correlación en Biomarcadores Transcriptómicos (SGLT2 en monocitos y FIB-4):**
-  El estudio de Okuma (*Diabetol Int*) encuentra una correlación estadística entre el nivel basal de ARNm de SGLT2 en monocitos y el descenso del FIB-4. **No** se debe interpretar como una prueba de que los inhibidores de SGLT2 actúen a través de una vía de señalización inmunológica funcional en el monocito, ni como evidencia directa de reversión histológica de la fibrosis hepática (el índice FIB-4 es un marcador subrogado hematimétrico/enzimático, no una biopsia).
-* **Alerta 2: Confusión por Indicación en Cirugía Aórtica (Pinzamiento vs. Parada Hipotérmica):**
-  La aparente mayor morbilidad cruda de la parada circulatoria hipotérmica leve frente al clampaje aórtico (6,5% vs. 2,3%) desaparece al ajustar las características basales mediante emparejamiento por propensión (OR = 2,4; IC 95%: 0,66-11,5). Esto demuestra que las diferencias iniciales reflejaban una selección clínica y anatómica basal más desfavorable de los pacientes sometidos a parada circulatoria, no una inferioridad intrínseca del procedimiento.
-* **Alerta 3: Extrapolación de Resultados Preclínicos en Ingeniería Tisular:**
-  Los resultados de hidrogeles bioactivos para regeneración renal (siRNA anti-IL11), stents biliares degradables con curcumina e hidrogeles rectales captadores de óxido nítrico para colitis corresponden en su totalidad a modelos murinos, de conejos o cultivos *in vitro*. No deben interpretarse como alternativas terapéuticas humanas validadas hasta que se demuestre su biocompatibilidad, seguridad y eficacia en fases clínicas formales.
+* **Dalfampridina no indicada para fatiga:** A pesar de hipótesis previas sobre conducción nerviosa axonal, la evidencia sintetizada por meta-análisis demuestra ausencia de beneficio sobre la fatiga en esclerosis múltiple ($p = 0,37$). No debe prescribirse fuera de ficha técnica con este objetivo.
+* **Falsa seguridad de biomarcadores post-CEC:** Valores elevados de PCR o leucocitos en los primeros 3 días tras cirugía cardíaca no confirman per se infección bacteriana ni deben motivar el inicio indiscriminado de antibióticos de amplio espectro en ausencia de criterios hemodinámicos o microbiológicos.
+* **Limitación del software SAVE en endoscopia esofágica:** Los algoritmos de reconstrucción digital similares a NBI no deben utilizarse como método estándar de pesquisa de displasia escamosa precoz debido a su inaceptable tasa de falsos negativos (sensibilidad tan baja como el 39%).
+* **Cuidado con extrapolar nanotecnología y biología tumoral preclínica a humanos:** Las estrategias de ingeniería celular/scaffolds (asparaginasa fusionada, nanovesículas senescentes, andamiajes con EV-let-7a) presentadas corresponden a modelos murinos o de conejos; reflejan viabilidad mecanicista pero no eficacia ni seguridad en seres humanos.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Predictive Value of Respiratory Parameters for Non-invasive Ventilation Failure in Acute Respiratory Failure: A Systematic Review.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-08-19
-**Revista:** Cureus
+### 1. The microbiome–nitric oxide axis in cancer immunotherapy: a targeted qualitative systematic review of mechanistic and translational evidence
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-10-09
+**Revista:** Front Immunol
 **Tipo:** No especificado
-**Autores:** Mohammed Ramadan MA, Sabier Ali LME, Mohammed Elamin AM, Mohamed Ibrahim EM, Abdalkareem Abaker IS, Sidahmed Osman OA, Elfaki Omer EO.
-**PMID:** 42763529  **DOI:** 10.7759/cureus.114823
+**Autores:** Enwere M, Bryan N, Onu A, Neufeld M, El-Hussein M, Yakub I, Omale C, Onyedike O, Atim T, Agbeyomi O, Davies E, Okeke U, Holmes L.
+**PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42763529/
+**Enlace:** —
 
-### 2. Antibiotic Use, Bacterial Co-Infection, and Antimicrobial Resistance in Adults Hospitalized with COVID-19, Influenza, or RSV: A Systematic Review and Meta-Analysis.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-06-30
-**Revista:** Antibiotics (Basel)
-**Tipo:** No especificado
-**Autores:** Lucaciu FC, Rosca O, Mihai AM, Sima A, Suba MI, Wellmann N, Rosian A, Oancea C, Cialma M, Tarau A, Bosoanca A, Marc M.
-**PMID:** 42505617  **DOI:** 10.3390/antibiotics15070654
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42505617/
-
-### 3. Early Initiation of Thyroid Hormone Therapy Versus Watchful Waiting or Delayed Treatment or no Treatment in Subclinical Hypothyroidism: A Systematic Review and Meta-analysis Protocol.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2026-09-29
-**Revista:** F1000Res
-**Tipo:** No especificado
-**Autores:** Gandhi AP, Deshmukh KP, Kaliyappan A, Bang A, Gangane N.
-**PMID:** 42800939  **DOI:** 10.12688/f1000research.179360.3
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42800939/
-
-### 4. The Efficacy and Safety of Dalfampridine on Cognition and Fatigue in People With Multiple Sclerosis: A Systematic Review and Meta-Analysis.
-**Área:** Neurología, neurociencias y lesión del sistema nervioso
+### 2. The Efficacy and Safety of Dalfampridine on Cognition and Fatigue in People With Multiple Sclerosis: A Systematic Review and Meta-Analysis.
+**Área:** Inmunología y reumatología
 **Fecha:** 2027
 **Revista:** International journal of MS care
 **Tipo:** Journal Article
@@ -147,158 +136,228 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42974622/
 
-### 5. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2026-09-01
-**Revista:** J Clin Apher
-**Tipo:** No especificado
-**Autores:** Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.
-**PMID:** 42747330  **DOI:** 10.1002/jca.70141
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
-
-### 6. Comorbid asthma - occurrence and associations with patient-related outcomes in COPD: a cohort study.
-**Área:** Neumología y medicina respiratoria
+### 3. Endobronchial Valves for Persistent Air Leak and Bronchopleural Fistula in Children: A Systematic Review of Indications, Procedural Approaches, and Outcomes.
+**Área:** Pediatría y neonatología
 **Fecha:** 2027
-**Revista:** Scandinavian journal of primary health care
-**Tipo:** Journal Article
-**Autores:** Athlin Å, Lisspers K, Hasselgren M, Ställberg B, Sandelowsky H, Giezeman M, Janson C, Kisiel MA
-**PMID:** 42894311  **DOI:** 10.1080/02813432.2026.2747915
+**Revista:** Journal of bronchology & interventional pulmonology
+**Tipo:** Journal Article, Systematic Review
+**Autores:** Mahindrakar N, Bhandari P, Yedatore R, Vorakunthada Y, Lilitwat W
+**PMID:** 42935016  **DOI:** 10.1097/LBR.0000000000001097
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42894311/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42935016/
 
-### 7. Differential mortality risks associated with ambient temperature among migrants and non-migrants: a space-time-stratified case-crossover study of the 100 Million Brazilian Cohort (2000-2020).
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** Lancet regional health. Americas
-**Tipo:** Journal Article
-**Autores:** Firouraghi N, Cortes TR, Jacobson LV, Neves DJD, Silveira IH, Hajat S, Barreto ML, Pescarini JM
-**PMID:** 42990832  **DOI:** 10.1016/j.lana.2026.101687
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42990832/
-
-### 8. Portal Vein Thrombosis Risk in Cirrhotic Patients With Portal Hypertension on Beta-Blockers: A Multi-Institutional Cohort Study.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2026-09-01
-**Revista:** Liver Int
+### 4. Early Initiation of Thyroid Hormone Therapy Versus Watchful Waiting or Delayed Treatment or no Treatment in Subclinical Hypothyroidism: A Systematic Review and Meta-analysis Protocol.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-29
+**Revista:** F1000Res
 **Tipo:** No especificado
-**Autores:** Abosheaishaa H, Elfert K, Abusuliman M, Ismail A, Olimy A, Alzamzamy AE, Omran A, Rizzo V, Nassar M, El-Kassas M.
-**PMID:** 42642993  **DOI:** 10.1111/liv.70843
+**Autores:** Gandhi AP, Deshmukh KP, Kaliyappan A, Bang A, Gangane N.
+**PMID:** 42800939  **DOI:** 10.12688/f1000research.179360.3
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42642993/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42800939/
 
-### 9. Evaluating a Modified American Society of Anesthesiologists Physical Status-Based Sedation Management System for Pancreatobiliary Endoscopy: A Prospective Feasibility Study.
-**Área:** Endocrinología, metabolismo y obesidad
+### 5. The prevalence of depressive symptoms in surrogate mothers following child relinquishment: a systematic review and meta-analysis
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-08
+**Revista:** Ann Med Surg (Lond)
+**Tipo:** No especificado
+**Autores:** Rashidian P, Amini-Salehi E, Haddadi M, Salehi S, Javankiani S, Abedinzadeh S, Karami S, Parsaei M, Ghaemi M, Hantoushzadeh S.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 6. Predicting IGD treatment outcomes across interventions using a whole-brain functional connectome biomarker.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** Dialogues in clinical neuroscience
+**Tipo:** Clinical Trial, Journal Article
+**Autores:** Wei M, Luo X, Fu J, Li S, Ni H, Liu J, Dong GH
+**PMID:** 42862599  **DOI:** 10.1080/19585969.2026.2742156
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42862599/
+
+### 7. Chinese expert consensus on the clinical application of stromal vascular fraction combined with bone marrow flushing for osteonecrosis of the femoral head
+**Área:** Cirugía, trauma y ortopedia
+**Fecha:** 2026-09-01
+**Revista:** J Orthop Translat
+**Tipo:** No especificado
+**Autores:** Wang X, Zhang J, Cheng L, Peng J.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 8. Motor difficulties and associated risk factors at 12 years in children born extremely preterm: a population-based cohort study.
+**Área:** Pediatría y neonatología
+**Fecha:** 2026-10-20
+**Revista:** Arch Dis Child
+**Tipo:** No especificado
+**Autores:** Örtqvist M, Padilla N, Montgomery C, Sävman K, Abrahamsson T, Farooqi A, Serenius F, Thorell LB, Ådén U.
+**PMID:** 42103362  **DOI:** 10.1136/archdischild-2025-329687
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42103362/
+
+### 9. Application of Mechanistic Modeling to Support Dose-Relevant Decision Making for CAR-T Cell Therapy in Oncology: A Systematic Scoping Review.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-11-01
+**Revista:** Clin Transl Sci
+**Tipo:** No especificado
+**Autores:** Odujinrin D, McClelland G.
+**PMID:** 42992542  **DOI:** 10.1111/cts.70756
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42992542/
+
+### 10. Chimeric Antigen Receptor T-cell (CAR-T) Therapy in Autoimmune Diseases: A Narrative Review
+**Área:** Inmunología y reumatología
+**Fecha:** 2026-10-19
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Molina-Garcia I, Oliveros-Perez J, Molina-Garcia S, Guevara-Ostos A, Blanco-Contreras M, Camacho-Flores L, Rodriguez L.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 11. Engineering biomaterials to improve cytokine therapies for wound healing.
+**Área:** Inmunología y reumatología
+**Fecha:** 2027
+**Revista:** Biomaterials
+**Tipo:** Journal Article, Review
+**Autores:** Horton I, Maisel K, Sadtler K
+**PMID:** 42901135  **DOI:** 10.1016/j.biomaterials.2026.124695
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42901135/
+
+### 12. Contraception during the transition to menopause: a commentary.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026
+**Revista:** Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology
+**Tipo:** Journal Article, Review
+**Autores:** Versailles JBE, Bahamondes L, Grandi G, Juliato CRT
+**PMID:** 42981163  **DOI:** 10.1080/09513590.2026.2739166
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42981163/
+
+### 13. Reproductive and Gynecologic Effects of Glucagon-Like Peptide-1 Receptor Agonists in Women With Polycystic Ovary Syndrome: A Scoping Review.
+**Área:** Ginecología y obstetricia
+**Fecha:** 2026-09-28
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Snytte J, Hazan B, Weissman A, Mayrovitz HN.
+**PMID:** 42953685  **DOI:** 10.7759/cureus.117072
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42953685/
+
+### 14. A let-7a-5p-engineered extracellular vesicle-laden bioactive scaffold promotes immunomodulation and regeneration of segmental tracheal defects.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Liu B, Wei N, Liang L, Shi Z, Liu P, Zeng T, Zhang H, Zhang H
+**PMID:** 42999915  **DOI:** 10.1016/j.bioactmat.2026.10.008
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42999915/
+
+### 15. Rapid and visual detection of group B Streptococcus based on an ERA-CasMNPs colorimetric biosensor.
+**Área:** Pediatría y neonatología
+**Fecha:** 2027
+**Revista:** Talanta
+**Tipo:** Journal Article
+**Autores:** Guo H, Jiang Y, Li D, He K, Chen Y, Li Y, Dai S, He Y
+**PMID:** 42892015  **DOI:** 10.1016/j.talanta.2026.130794
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42892015/
+
+### 16. Atypical early-life ultrasonic vocalizations disrupt the pup-dam communication dyad in the BTBR model of autism spectrum disorder.
+**Área:** Pediatría y neonatología
+**Fecha:** 2027
+**Revista:** Behavioural brain research
+**Tipo:** Journal Article
+**Autores:** Cofsky NI, Binder MS
+**PMID:** 42874787  **DOI:** 10.1016/j.bbr.2026.116527
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42874787/
+
+### 17. Postoperative infections after cardiac surgery with cardiopulmonary bypass - incidence, performance of diagnostic procedures, and predictive factors.
+**Área:** Cirugía, trauma y ortopedia
+**Fecha:** 2027
+**Revista:** Scandinavian cardiovascular journal : SCJ
+**Tipo:** Journal Article
+**Autores:** Erixon C, Johannesson E, Dardashti A, Melhammar L, Nilsson J, Thelaus L, Linder A, Zindovic I
+**PMID:** 42860039  **DOI:** 10.1080/14017431.2026.2745880
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42860039/
+
+### 18. Correction to "Primary Anaplastic Lymphoma Kinase-Positive Inflammatory Myofibroblastic Tumor of the Small Bowel Detected by Capsule Endoscopy: A Case Report".
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Published Erratum
+**Autores:** No disponible
+**PMID:** 42985701  **DOI:** 10.1002/deo2.70462
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42985701/
+
+### 19. Enhanced Esophageal Cancer Detection Using Spectrum-Aided Vision Enhancer: A Comparative Study of White Light Imaging, Narrow-Band Imaging, and Algorithmic Narrow-Band Imaging-Like Imaging.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2027
 **Revista:** DEN open
 **Tipo:** Journal Article
-**Autores:** Hanaoka T, Okuwaki K, Watanabe M, Matsuda H, Adachi K, Tamaki A, Ogawa D, Sakai M
-**PMID:** 42871153  **DOI:** 10.1002/deo2.70445
+**Autores:** Wu JW, Wang YK, Mukundan A, Karmakar R, Nhu NNQ, Nagisetti Y, Liao WC, Han ML
+**PMID:** 42985276  **DOI:** 10.1002/deo2.70467
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42871153/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42985276/
 
-### 10. A topologically engineered hydrogel platform targeting IL11 promotes renal repair after partial nephrectomy.
-**Área:** Nefrología y urología
+### 20. Acute Pancreatitis Caused by Impaction of Migrated Surgical Staples in the Duodenal Papilla After Distal Pancreatectomy.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2027
-**Revista:** Bioactive materials
+**Revista:** DEN open
 **Tipo:** Journal Article
-**Autores:** Yu Z, Dong X, Li F, Zhang Y, Dai S, Cao N, Jia X, Zhao J
-**PMID:** 42959456  **DOI:** 10.1016/j.bioactmat.2026.10.024
+**Autores:** Inaba K, Motomura M, Azuma Y, Kimoto T, Takahashi H, Ueo T, Narita R, Tada K
+**PMID:** 42979178  **DOI:** 10.1002/deo2.70465
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42959456/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42979178/
 
-### 11. Racial, Ethnic, and Immigration-Related Disparities Across the Gastrointestinal Care Continuum: A Scoping Review.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2026-09-08
-**Revista:** J Clin Med
+### 21. Prevalence and Clinical Significance of Gastric-Type Mucosal Lesions in Non-Ampullary Duodenal Epithelial Tumors Based on Mucin Phenotype.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Ohno K, Nakatani E, Kurokami T, Kawai A, Matsuda M, Masui Y, Satoh T, Hirata T
+**PMID:** 42948259  **DOI:** 10.1002/deo2.70443
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42948259/
+
+### 22. A testable framework integrates platelet engineering and injectable hydrogels with CAR T cells for localized treatment of microscopic residual disease after breast cancer surgery.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-11-02
+**Revista:** Discov Nano
 **Tipo:** No especificado
-**Autores:** Thomas R, Belghiti M, Tran HR, Tandon P.
-**PMID:** 42795734  **DOI:** 10.3390/jcm15186961
+**Autores:** Heydari F, Alqassimi MS, Mansuri N, Derakhshani M, Hamblin MR, Naghinezhad J.
+**PMID:** 42970186  **DOI:** 10.1186/s11671-026-05095-3
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42795734/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42970186/
 
-### 12. Unsolved problems with ENaC: From molecules to mammals.
-**Área:** Nefrología y urología
-**Fecha:** 2027
-**Revista:** The Journal of general physiology
-**Tipo:** Journal Article, Review
-**Autores:** Palmer LG
-**PMID:** 42980615  **DOI:** 10.1085/jgp.202614077
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42980615/
-
-### 13. Spatial mechanopriming of multicellular interfaces drives cytoskeletal-to-nuclear remodeling to boost therapeutic efficacy of stem cells.
-**Área:** Endocrinología, metabolismo y obesidad
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Bayaraa O, Lee NH, Kim SH, Lee H, Li CJ, Fu X, Hyun J, Choi G
-**PMID:** 42960265  **DOI:** 10.1016/j.bioactmat.2026.09.042
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42960265/
-
-### 14. Online chiral derivatization coupled with CE-MS for baseline separation of 16 proteinogenic amino acid enantiomers.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2027
-**Revista:** Talanta
-**Tipo:** Journal Article
-**Autores:** Lu J, Gao W, Huang Q, Du L, Li H, Hu X, Wang C, Zhao Y
-**PMID:** 42863172  **DOI:** 10.1016/j.talanta.2026.130748
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42863172/
-
-### 15. Artificial Intelligence in Gastroenterology: Towards Explainable, Generalisable and Clinically Actionable Decision Support.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2026-09-30
-**Revista:** Diagnostics (Basel)
+### 23. Immune checkpoints: cross-disease insights and clinical dilemmas.
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-10-28
+**Revista:** Biomark Res
 **Tipo:** No especificado
-**Autores:** Baydili İ, Tasci B, Dogan S, Tuncer T.
-**PMID:** 42882337  **DOI:** 10.3390/diagnostics16193182
+**Autores:** Shu Y, Zhao JX, Guo BY, Liu Y, Zhou M, Ma N, Zhu CL, Zou Z.
+**PMID:** 42958364  **DOI:** 10.1186/s40364-026-01030-x
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42882337/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42958364/
 
-### 16. From prevalence to prognosis: the clinical relevance of depression and anxiety in COPD.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** Scandinavian journal of primary health care
-**Tipo:** Journal Article
-**Autores:** Montserrat-Capdevila J
-**PMID:** 42867073  **DOI:** 10.1080/02813432.2026.2738628
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42867073/
+### 24. Global trends and knowledge evolution of tertiary lymphoid structures in cancer immunotherapy: a bibliometric and visualization analysis
+**Área:** Oncología e inmunoterapia
+**Fecha:** 2026-10-16
+**Revista:** Front Immunol
+**Tipo:** No especificado
+**Autores:** Li Y, Cao Z, Zhou J, Zhang Y, Han W, Wu Z.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
 
-### 17. From laboratory quantification to rapid on-site testing: Screening of high-affinity monoclonal antibody pairs targeting the RSV F protein and analytical evaluation across multiple assay platforms.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** Talanta
-**Tipo:** Journal Article
-**Autores:** Peng S, Liu Q, Duan C, Liu J, Wang R, Huang Y, Long A, Deng Q
-**PMID:** 42927721  **DOI:** 10.1016/j.talanta.2026.130820
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42927721/
-
-### 18. Guanidine-quaternary ammonium polymer-derived carbon dots differentially modulate bacterial respiration and osteoblast mitochondria to resolve infection and foster osteointegration.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Bai X, Qin A, Wang Z, Kong G, Zhang M, Li H, Zhao R, Yu Y
-**PMID:** 42904193  **DOI:** 10.1016/j.bioactmat.2026.09.048
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42904193/
-
-### 19. Preliminary experience with controlled hypothermic storage of donor heart in combined heart transplantation.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2027
-**Revista:** JHLT open
-**Tipo:** Journal Article
-**Autores:** Argaw ST, Lora Ronco L, Frering A, Kloeckner M, Coutance G, Coilly A, Vibert E, Snanoudj R
-**PMID:** 42999535  **DOI:** 10.1016/j.jhlto.2026.100707
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42999535/
-
-### 20. ESICM LIVES 2026.
-**Área:** Neumología y medicina respiratoria
+### 25. ESICM LIVES 2026.
+**Área:** Oncología e inmunoterapia
 **Fecha:** 2026-10-09
 **Revista:** Intensive Care Med Exp
 **Tipo:** No especificado
@@ -307,103 +366,53 @@
 **Fuente:** Europe PMC
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/42855639/
 
-### 21. Publication Only
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-06-01
-**Revista:** Hemasphere
+### 26. Long-term Endoscopic Evolution of a Pyloric Gland Adenoma Arising in Nonatrophic Gastric Mucosa and Initially Resembling a Fundic Gland Polyp.
+**Área:** Inmunología y reumatología
+**Fecha:** 2027
+**Revista:** DEN open
+**Tipo:** Journal Article
+**Autores:** Kobayashi R, Nakanishi H, Takaura K, Tanaka S, Maeyashiki C, Tamaki N, Yasui Y, Sakurai U
+**PMID:** 42985699  **DOI:** 10.1002/deo2.70464
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42985699/
+
+### 27. Hybrid nanovesicle artificial antigen-presenting cells integrate endogenous tumor antigen display with senescence-mimetic erythrocyte membrane-directed splenic T-cell priming.
+**Área:** Inmunología y reumatología
+**Fecha:** 2027
+**Revista:** Biomaterials
+**Tipo:** Journal Article
+**Autores:** Yang Z, Li S, Guo Y, Wang T, Han H, Ma M, Zhang Y, Tang W
+**PMID:** 42914653  **DOI:** 10.1016/j.biomaterials.2026.124717
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42914653/
+
+### 28. Thermosensitive and tumor-targeted asparaginase fusion protein enables metabolic-immunotherapy for solid tumors.
+**Área:** Inmunología y reumatología
+**Fecha:** 2027
+**Revista:** Biomaterials
+**Tipo:** Journal Article
+**Autores:** Gong L, Wang X, Zheng Y, Liu S, Zhang F, Sun Y, Qi Y, Han L
+**PMID:** 42901134  **DOI:** 10.1016/j.biomaterials.2026.124711
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42901134/
+
+### 29. Immune–metabolic convergence in skeletal remodeling disorders: shared osteoimmune, senescent and lipid mechanisms across aging-related and immune-mediated bone disease
+**Área:** Inmunología y reumatología
+**Fecha:** 2026-10-10
+**Revista:** Front Immunol
 **Tipo:** No especificado
-**Autores:** No disponible
+**Autores:** Guo T, Zheng H, Jiang Q.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 22. Chronic phase ventilation strategy in established severe bronchopulmonary dysplasia: A critical evaluation of the evidence.
-**Área:** Neumología y medicina respiratoria
-**Fecha:** 2026-03-28
-**Revista:** SAGE Open Med
-**Tipo:** No especificado
-**Autores:** Joffe AR, Lemke RP.
-**PMID:** 41948201  **DOI:** 10.1177/20503121261431454
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/41948201/
-
-### 23. Bioactive shape-memory biodegradable biliary stent functionalized with dHAM-Curcumin for improved biliary repair and microenvironment modulation.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2027
-**Revista:** Biomaterials
-**Tipo:** Journal Article
-**Autores:** Dai C, Zhang H, Bai Y, Guan X, Li R, Quan D, Ding Y, Rao Z
-**PMID:** 42927684  **DOI:** 10.1016/j.biomaterials.2026.124688
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42927684/
-
-### 24. Inflammation-anchored injectable hydrogel integrating pathological nitric oxide scavenging and on-demand drug release for localized inflammatory bowel disease therapy.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2027
-**Revista:** Biomaterials
-**Tipo:** Journal Article
-**Autores:** Eom S, Lee S, Boo Y, Kim J, Kim WJ
-**PMID:** 42860119  **DOI:** 10.1016/j.biomaterials.2026.124684
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42860119/
-
-### 25. Hematopoietic cell transplantation using treosulfan-based conditioning for IL-10 receptor deficiency.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2027
-**Revista:** Journal of human immunity
-**Tipo:** Journal Article
-**Autores:** Lakkaraja M, Schmitt EG, Sood AK, Chen K, Modi AJ, Verbsky JW, Torgerson T, Wahbeh G
-**PMID:** 42878707  **DOI:** 10.70962/jhi.20260123
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42878707/
-
-### 26. DUF6383-domain containing protein from Parabacteroides distasonis predicts survival in patients with alcohol-associated hepatitis.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2027
-**Revista:** Gut microbes reports
-**Tipo:** Journal Article
-**Autores:** Kreimeyer H, Gonzalez C, Fondevila MF, AlcHepNet Investigators, Canbay A, Stärkel P, Gonzalez DJ, Schnabl B
-**PMID:** 42985619  **DOI:** 10.1080/29933935.2026.2728306
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42985619/
-
-### 27. Baseline monocyte SGLT2 mRNA expression and changes in the fibrosis-4 index after luseogliflozin treatment in participants with type 2 diabetes and MASLD.
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2027
-**Revista:** Diabetology international
-**Tipo:** Journal Article
-**Autores:** Okuma H
-**PMID:** 42968831  **DOI:** 10.1007/s13340-026-00941-2
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42968831/
-
-### 28. Poster Abstracts - Academy of Managed Care Pharmacy 2026.
-**Área:** Gastroenterología, hepatología y nutrición
+### 30. Discovery of Post-Translationally Modified Epitopes in Autoimmunity: Someone Has to Fish so Everyone Can Eat.
+**Área:** Inmunología y reumatología
 **Fecha:** 2026-10-01
-**Revista:** J Manag Care Spec Pharm
+**Revista:** Immunol Rev
 **Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** 42911119  **DOI:** 10.18553/jmcp.2026.32.10-d.s1
+**Autores:** Arshad S, Cameron BM, Joglekar AV.
+**PMID:** 42802417  **DOI:** 10.1111/imr.70179
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42911119/
-
-### 29. Special Collection: Abstracts from IUNS-ICN Paris 2025
-**Área:** Gastroenterología, hepatología y nutrición
-**Fecha:** 2026-09-04
-**Revista:** J Nutr Sci
-**Tipo:** No especificado
-**Autores:** No disponible
-**PMID:** —  **DOI:** —
-**Fuente:** Europe PMC
-**Enlace:** —
-
-### 30. Circulatory arrest versus aortic cross-clamping in proximal thoracic aortic aneurysm repair.
-**Área:** Nefrología y urología
-**Fecha:** 2027
-**Revista:** Scandinavian cardiovascular journal : SCJ
-**Tipo:** Journal Article, Comparative Study, Observational Study
-**Autores:** Braatz E, Stenman M, Al-Mousli J, Dalén M, Olsson C
-**PMID:** 42841288  **DOI:** 10.1080/14017431.2026.2745873
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42841288/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42802417/
 
