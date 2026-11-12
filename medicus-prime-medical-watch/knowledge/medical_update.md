@@ -1,307 +1,307 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-11-11T20:07+00:00**
+> Actualizado: **2026-11-12T20:44+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. The performance of ChatGPT and other large language models on multiple-choice questions in biomedical disciplines: A meta-analysis.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2026-05-19
-**Revista:** Anat Sci Educ
-**Tipo:** No especificado
-**Autores:** Cheverko CM, Mavrych V, Bolgova O, Mohamed FRR, Westrick J, Juarez L, Rush E, Solka KA, Doubleday AF, Byram JN, Becker R, Gomez V, Ganeng BKA, Hoffman LA, Roach VA, Brown KM, DeVaul N, Garnett CN, Herriott HL, Lufler RS, Mussell JC, Balta JY, Pascoe MA, Middleton JW, Duffy S, Stephens GC, Wilson AB.
-**PMID:** 42153764  **DOI:** 10.1002/ase.70262
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42153764/
-
-### 2. Novel creatine formulation exhibits similar serum creatine concentrations and pharmacokinetics to creatine monohydrate in healthy adults.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2026
-**Revista:** Journal of the International Society of Sports Nutrition
-**Tipo:** Journal Article, Randomized Controlled Trial
-**Autores:** DelBiondo GM, Gottlieb CW, Baker PA, Johnson WM, Kelly CG, Smith-Ryan AE
-**PMID:** 43001460  **DOI:** 10.1080/15502783.2026.2745618
+### 1. Exposure to natural disasters and vaccination indicators: a systematic review and directions for future research.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2027
+**Revista:** Vaccine
+**Tipo:** Systematic Review, Journal Article, Review
+**Autores:** Shea B, Shaman J
+**PMID:** 42945701  **DOI:** 10.1016/j.vaccine.2026.129277
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43001460/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42945701/
 
-### 3. Translation, cross-cultural adaptation of longitudinal curriculum objectives in sexual health to Brazilian medical education.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+### 2. Predictors of cardiovascular events in multiple myeloma: a systematic review and exploratory meta-analysis.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2026-10-20
+**Revista:** Front Cardiovasc Med
+**Tipo:** No especificado
+**Autores:** Lv T, Liu M, Zhang W, Zhang J, Fang Y.
+**PMID:** 43011843  **DOI:** 10.3389/fcvm.2026.1925889
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43011843/
+
+### 3. Predictive Value of Respiratory Parameters for Non-invasive Ventilation Failure in Acute Respiratory Failure: A Systematic Review.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-08-19
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Mohammed Ramadan MA, Sabier Ali LME, Mohammed Elamin AM, Mohamed Ibrahim EM, Abdalkareem Abaker IS, Sidahmed Osman OA, Elfaki Omer EO.
+**PMID:** 42763529  **DOI:** 10.7759/cureus.114823
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42763529/
+
+### 4. Antibiotic Use, Bacterial Co-Infection, and Antimicrobial Resistance in Adults Hospitalized with COVID-19, Influenza, or RSV: A Systematic Review and Meta-Analysis.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-06-30
+**Revista:** Antibiotics (Basel)
+**Tipo:** No especificado
+**Autores:** Lucaciu FC, Rosca O, Mihai AM, Sima A, Suba MI, Wellmann N, Rosian A, Oancea C, Cialma M, Tarau A, Bosoanca A, Marc M.
+**PMID:** 42505617  **DOI:** 10.3390/antibiotics15070654
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42505617/
+
+### 5. Shared Decision-Making and Decision Support in Advanced Chronic Kidney Disease: A Systematic Review of Models, Treatment Pathways, and Patient-Centered Outcomes
+**Área:** Nefrología y urología
+**Fecha:** 2026-10-16
+**Revista:** Cureus
+**Tipo:** No especificado
+**Autores:** Naeem A, Ashraf Z, Ali S, Hayder D, Wahane V, Poushi M, Kolo J, Jamil Wahdan M, Mohamed Seddik Y, Radi Al-maqableh R, Mahmoud Alghzawi S.
+**PMID:** —  **DOI:** —
+**Fuente:** Europe PMC
+**Enlace:** —
+
+### 6. Facilitators and Barriers to Digital Health Technologies for Self-Management in Patients With Chronic Kidney Disease: Systematic Review Based on the Updated CFIR 2.0 Framework.
+**Área:** Nefrología y urología
 **Fecha:** 2026-09-21
-**Revista:** Sex Med
+**Revista:** J Med Internet Res
 **Tipo:** No especificado
-**Autores:** Neto TA, de Oliveira Valentino TC, Facio Junior FN.
-**PMID:** 42769748  **DOI:** 10.1093/sexmed/qfag090
+**Autores:** Su F, Yao Y, Lin X, Su Q, Hu Y, Pei H, Xu Q.
+**PMID:** 42766847  **DOI:** 10.2196/103560
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42769748/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42766847/
 
-### 4. From detection to prediction: AI-integrated molecular and biosensing approaches for psychrotrophic and thermophilic spoilage bacteria in dairy systems.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** International journal of food microbiology
-**Tipo:** Journal Article, Review
-**Autores:** Shamlan A, Khan MU, Farid A, Huo S, Liu H, Chen Z
-**PMID:** 42913359  **DOI:** 10.1016/j.ijfoodmicro.2026.112130
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42913359/
+### 7. Guidelines on the Use of Therapeutic Apheresis in Clinical Practice-Evidence-Based Approach From the Writing Committee of the American Society for Apheresis: The Tenth Special Issue.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-01
+**Revista:** J Clin Apher
+**Tipo:** No especificado
+**Autores:** Zantek ND, Alquist CR, Hofmann JC, Klingel R, Levenbrown Y, Onwuemene OA, Patidar G, Patriquin CJ, Raval JS, Sanchez AP, Schneiderman J, Tanhehco YC, Connelly-Smith L.
+**PMID:** 42747330  **DOI:** 10.1002/jca.70141
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42747330/
 
-### 5. Ultrasound-triggered bio-scaffold integrating engineered stem cells for cartilage regeneration.
-**Área:** Genética, genómica y medicina molecular
+### 8. Acute multi-organ dysfunction (aMOD): Brighton Collaboration case definition and guidelines for data collection, analysis, and presentation of immunization safety data.
+**Área:** Nefrología y urología
 **Fecha:** 2027
-**Revista:** Biomaterials advances
+**Revista:** Vaccine
 **Tipo:** Journal Article
-**Autores:** Guo J, Peng Y, Xiao X, Li S, Zhu J, Lin J, Li J, Wu D
-**PMID:** 42950788  **DOI:** 10.1016/j.bioadv.2026.215261
+**Autores:** O'Connor C, Jacob ST, Levy JH, Nwagha T, Ramesh D, Munoz FM, Farnon EC, Law B
+**PMID:** 42963301  **DOI:** 10.1016/j.vaccine.2026.129264
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42950788/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42963301/
 
-### 6. Breaking the degenerative triad: Microenvironment reprogramming biomaterials for intervertebral disc regeneration.
-**Área:** Medicina regenerativa y terapias avanzadas
+### 9. Comorbid asthma - occurrence and associations with patient-related outcomes in COPD: a cohort study.
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article, Review
-**Autores:** Zhao X, Han X, Hu Z, Chen Y, Wang X, Liu Q, Hu X, Zhang Q
-**PMID:** 42964622  **DOI:** 10.1016/j.bioactmat.2026.10.026
+**Revista:** Scandinavian journal of primary health care
+**Tipo:** Journal Article
+**Autores:** Athlin Å, Lisspers K, Hasselgren M, Ställberg B, Sandelowsky H, Giezeman M, Janson C, Kisiel MA
+**PMID:** 42894311  **DOI:** 10.1080/02813432.2026.2747915
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42964622/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42894311/
 
-### 7. Microenvironmental barriers to healing in osteoradionecrosis and opportunities for regenerative intervention.
-**Área:** Medicina regenerativa y terapias avanzadas
+### 10. Differential mortality risks associated with ambient temperature among migrants and non-migrants: a space-time-stratified case-crossover study of the 100 Million Brazilian Cohort (2000-2020).
+**Área:** Neumología y medicina respiratoria
 **Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article, Review
-**Autores:** La Croix AE, Torres Gouveia ME, Bertone PM, Nemanic NM, Bahney CS, Hixon KR
-**PMID:** 42910095  **DOI:** 10.1016/j.bioactmat.2026.09.020
+**Revista:** Lancet regional health. Americas
+**Tipo:** Journal Article
+**Autores:** Firouraghi N, Cortes TR, Jacobson LV, Neves DJD, Silveira IH, Hajat S, Barreto ML, Pescarini JM
+**PMID:** 42990832  **DOI:** 10.1016/j.lana.2026.101687
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42910095/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42990832/
 
-### 8. Role of protein lactylation in pulmonary and cardiovascular diseases: Current research and future perspectives (Review).
-**Área:** Farmacología y nuevos tratamientos
+### 11. Liver fibrosis risk, missed follow-up, and inequitable specialist referral in the All of Us Research Program: a retrospective cohort study.
+**Área:** Gastroenterología, hepatología y nutrición
 **Fecha:** 2027
-**Revista:** Molecular medicine reports
-**Tipo:** Journal Article, Review
-**Autores:** Pan ZA, Tong LT, Wang ZM
-**PMID:** 42992569  **DOI:** 10.3892/mmr.2026.14065
+**Revista:** Lancet regional health. Americas
+**Tipo:** Journal Article
+**Autores:** Sellers K, White TM, Manolas MI, Hagström H, Brennan PN, Diaz LA, Bansal MB, Danpanichkul P
+**PMID:** 42920888  **DOI:** 10.1016/j.lana.2026.101676
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42992569/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42920888/
 
-### 9. Recent advances in functionalized electrospun nanofibers for biomedical and therapeutic applications: A comprehensive review.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article, Review
-**Autores:** Deshmukh K, Pandey M, Moulahoum H, Ghorbanizamani F, Kovářík T, Przekora-Kuśmierz A, Jena H, Vora M
-**PMID:** 42960302  **DOI:** 10.1016/j.bioactmat.2026.10.009
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42960302/
-
-### 10. From biomarkers to therapeutic targets: Biomaterial-mediated cfDNA scavenging in inflammation.
-**Área:** Farmacología y nuevos tratamientos
+### 12. Polymeric and metallic occluders for interventional therapy of cardiovascular diseases.
+**Área:** Cardiología y medicina vascular
 **Fecha:** 2027
 **Revista:** Biomaterials
 **Tipo:** Journal Article, Review
-**Autores:** Liu S, Cheng X, Liu L, Luo E, Shao D, Huang H, Liu H
-**PMID:** 42887236  **DOI:** 10.1016/j.biomaterials.2026.124700
+**Autores:** Liu R, Wang Q, Ding J
+**PMID:** 42892255  **DOI:** 10.1016/j.biomaterials.2026.124701
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42887236/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42892255/
 
-### 11. Spatial mechanopriming of multicellular interfaces drives cytoskeletal-to-nuclear remodeling to boost therapeutic efficacy of stem cells.
-**Área:** Medicina regenerativa y terapias avanzadas
+### 13. A topologically engineered hydrogel platform targeting IL11 promotes renal repair after partial nephrectomy.
+**Área:** Nefrología y urología
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Bayaraa O, Lee NH, Kim SH, Lee H, Li CJ, Fu X, Hyun J, Choi G
-**PMID:** 42960265  **DOI:** 10.1016/j.bioactmat.2026.09.042
+**Autores:** Yu Z, Dong X, Li F, Zhang Y, Dai S, Cao N, Jia X, Zhao J
+**PMID:** 42959456  **DOI:** 10.1016/j.bioactmat.2026.10.024
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42960265/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42959456/
 
-### 12. CRISPR/Cas12a-powered self-sustaining catalytic nucleic acid circuit for highly sensitive detection of aflatoxin B1.
-**Área:** Genética, genómica y medicina molecular
+### 14. Transposable elements as dual agents in livestock-parasite interactions: From parasite adaptation to host genetic innovation.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
 **Fecha:** 2027
-**Revista:** Talanta
-**Tipo:** Journal Article
-**Autores:** Wu Z, Ma Y, Li X, Yan Z, Huang Y, Wang K, Quan W, Mo L
-**PMID:** 42914884  **DOI:** 10.1016/j.talanta.2026.130809
+**Revista:** Gene
+**Tipo:** Journal Article, Review
+**Autores:** Omara A, Moawad AS, Ge J, Geng T
+**PMID:** 42874966  **DOI:** 10.1016/j.gene.2026.150454
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42914884/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42874966/
 
-### 13. Sustained delivery of 3D-bioprinted stem cell-derived small extracellular vesicles promotes neural regeneration following traumatic brain injury via the CREB1/PGC-1α/FNDC5 axis.
-**Área:** Medicina regenerativa y terapias avanzadas
+### 15. When the earth shakes on fragile foundations: the Venezuelan earthquakes and two decades of public health system erosion.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
 **Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Ai Y, Zhang Q, Chen T, Lin L, Chen Z, Liu G, Liu J, Dong Z
-**PMID:** 42999541  **DOI:** 10.1016/j.bioactmat.2026.10.030
+**Revista:** Lancet regional health. Americas
+**Tipo:** Journal Article, Review
+**Autores:** Paníz-Mondolfi AE, Chaccour C, Carrión-Nessi FS, Acosta-Serrano Á, Zambrano O, Gabaldón-Figueira JC, Grillet ME
+**PMID:** 42921337  **DOI:** 10.1016/j.lana.2026.101666
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42999541/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42921337/
 
-### 14. Artificial Intelligence as a Catalyst for Cell-Based Therapies in Retinal Disease.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-10-16
-**Revista:** Cells
+### 16. Prehospital PEEP for Acute Respiratory Distress: Protocol for a Scoping Review.
+**Área:** Neumología y medicina respiratoria
+**Fecha:** 2026-09-01
+**Revista:** Acta Anaesthesiol Scand
 **Tipo:** No especificado
-**Autores:** Srivastava GK, Shukla P, Millas SC, Lokanathan Y.
-**PMID:** 42929859  **DOI:** 10.3390/cells15201887
+**Autores:** Wittrock D, Bauer JM, Hägi-Pedersen D, Christensen HC, Mikkelsen S, Brøchner AC.
+**PMID:** 42528123  **DOI:** 10.1111/aas.70314
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42929859/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42528123/
 
-### 15. Cellularized Skin Substitute Bioengineering for Regenerative Medicine: Cell Sources, Culture Strategies, and Transition Toward Defined, Xeno-Free Culture Systems.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-08-21
-**Revista:** Adv Healthc Mater
-**Tipo:** No especificado
-**Autores:** Lemaître G, Trouillas M, Vinasco-Sandoval T, Giordano C, Lellouch AG, Rachidi W, Lataillade JJ, Fortunel NO.
-**PMID:** 42629982  **DOI:** 10.1002/adhm.71630
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42629982/
-
-### 16. Machine learning models to predict pathological complete response after chemoradiotherapy in muscle-invasive bladder cancer: toward optimized indications for bladder preservation.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2027
-**Revista:** Clinical and translational radiation oncology
-**Tipo:** Journal Article
-**Autores:** Fujiwara M, Tanaka H, Hirahara D, Saho T, Takaya E, Matsumoto S, Yoshitomi K, Kobayashi M
-**PMID:** 42997524  **DOI:** 10.1016/j.ctro.2026.101320
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42997524/
-
-### 17. Cascade DNA walker-driven photo-controlled CRISPR/Cas12a nanorobot enabling ultrasensitive one-pot detection of dual miRNAs in triple-negative breast cancer.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Talanta
-**Tipo:** Journal Article
-**Autores:** Yu L, Li X, Huang L
-**PMID:** 42933160  **DOI:** 10.1016/j.talanta.2026.130831
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42933160/
-
-### 18. Rapid and visual detection of group B Streptococcus based on an ERA-CasMNPs colorimetric biosensor.
-**Área:** Genética, genómica y medicina molecular
-**Fecha:** 2027
-**Revista:** Talanta
-**Tipo:** Journal Article
-**Autores:** Guo H, Jiang Y, Li D, He K, Chen Y, Li Y, Dai S, He Y
-**PMID:** 42892015  **DOI:** 10.1016/j.talanta.2026.130794
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42892015/
-
-### 19. Identification of neoechinulin B metabolites in vivo by UPLC Q/TOF MS and exploration of its anti HCV mechanism based on network pharmacology and molecular docking.
-**Área:** Farmacología y nuevos tratamientos
-**Fecha:** 2027
-**Revista:** Journal of pharmaceutical and biomedical analysis
-**Tipo:** Journal Article
-**Autores:** Ren X, Lu XH, Chen YF, Tu XP, Li BY, Tao X, Yang X, Zhang FX
-**PMID:** 42887380  **DOI:** 10.1016/j.jpba.2026.117768
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42887380/
-
-### 20. Spatial organization of magnetic nanoparticles in chitosan-gelatin hydrogels enables enhanced magnetic actuation and cell response under dynamic stimulation.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2027
-**Revista:** Bioactive materials
-**Tipo:** Journal Article
-**Autores:** Viteri A, Ginebra MP, García-Torres J
-**PMID:** 42959458  **DOI:** 10.1016/j.bioactmat.2026.10.025
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42959458/
-
-### 21. Extracellular Vesicles for Androgenetic Alopecia: Current Evidence, Mechanisms, and Clinical Prospects.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-09-13
-**Revista:** Int J Nanomedicine
-**Tipo:** No especificado
-**Autores:** Tang WZ, Liao CY, Xu HY, Huang WT, Lan ZH, Wu ZX, Yang YH, Li MS, Liu TH, Wang YH.
-**PMID:** 42756864  **DOI:** 10.2147/ijn.s621203
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756864/
-
-### 22. Chitosan in Modern Pharmacotherapy: Chitosan Nanoparticles and Delivery Systems.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-09-06
-**Revista:** Pharmaceutics
-**Tipo:** No especificado
-**Autores:** Kuršvietienė L, Lažauskas R, Stanevičienė I.
-**PMID:** 42797293  **DOI:** 10.3390/pharmaceutics18091118
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42797293/
-
-### 23. Mitochondria-Targeted Nanotherapies in Aging Neurodegenerative Disorders: Emerging Prospects and Clinical Potential.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-08-19
-**Revista:** Adv Healthc Mater
-**Tipo:** No especificado
-**Autores:** Gadhave DG, Jadhav AB, Waghamode NB, Khot S, Khan R, Hole R, Dhobale SM, Aswar M, Paudel KR.
-**PMID:** 42619255  **DOI:** 10.1002/adhm.71594
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42619255/
-
-### 24. From neuroinflammation to immune reprogramming: Nanozyme-Integrated nanoplatforms for neuroimmune modulation in Parkinson's disease.
-**Área:** Medicina regenerativa y terapias avanzadas
-**Fecha:** 2026-08-17
-**Revista:** Mater Today Bio
-**Tipo:** No especificado
-**Autores:** Zhu S, Wang Z, Shi X, Zhong S, Ashraf GM, Fu K, Li Y.
-**PMID:** 42662413  **DOI:** 10.1016/j.mtbio.2026.103569
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42662413/
-
-### 25. Echo-DM: Ultrasound marker removal via conditional latent diffusion and region-aware fusion.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2027
-**Revista:** Neural networks : the official journal of the International Neural Network Society
-**Tipo:** Journal Article
-**Autores:** Wang Z, Huang T, Jiang W, Li M, Liu J, Chen J, Zou J, Luo Y
-**PMID:** 42906425  **DOI:** 10.1016/j.neunet.2026.109757
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42906425/
-
-### 26. Neurosurgical scalp incisions should preserve at least one vascular axis: Two case reports.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2027
-**Revista:** JPRAS open
-**Tipo:** Case Reports, Journal Article
-**Autores:** Lupon E, Hertzog B, Njessi P, Camuzard O
-**PMID:** 42997735  **DOI:** 10.1016/j.jpra.2026.10.007
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42997735/
-
-### 27. Three-dimensional and dynamic assessment of digital lymphatic vessels using photoacoustic imaging.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2027
-**Revista:** JPRAS open
-**Tipo:** Journal Article
-**Autores:** Suzuki Y, Uno T, Kajita H, Kato T, Takatsume Y, Imanishi N, Kishi K
-**PMID:** 42960185  **DOI:** 10.1016/j.jpra.2026.10.015
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42960185/
-
-### 28. Effects of sitagliptin combined with GTS-21 on improving glycemic control and diabetic nephropathy by anti-apoptosis in Leprdb/db mice.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+### 17. Microbiome changes following immigration: Rethinking "Westernization" as an explanatory concept.
+**Área:** Gastroenterología, hepatología y nutrición
 **Fecha:** 2026
-**Revista:** European journal of pharmacology
+**Revista:** Gut microbes
+**Tipo:** Journal Article, Review
+**Autores:** Sharma R, Holcomb LE, Ishaq SL, O'Doherty KC
+**PMID:** 43010182  **DOI:** 10.1080/19490976.2026.2756705
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43010182/
+
+### 18. Racial, Ethnic, and Immigration-Related Disparities Across the Gastrointestinal Care Continuum: A Scoping Review.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-08
+**Revista:** J Clin Med
+**Tipo:** No especificado
+**Autores:** Thomas R, Belghiti M, Tran HR, Tandon P.
+**PMID:** 42795734  **DOI:** 10.3390/jcm15186961
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42795734/
+
+### 19. Unsolved problems with ENaC: From molecules to mammals.
+**Área:** Nefrología y urología
+**Fecha:** 2027
+**Revista:** The Journal of general physiology
+**Tipo:** Journal Article, Review
+**Autores:** Palmer LG
+**PMID:** 42980615  **DOI:** 10.1085/jgp.202614077
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42980615/
+
+### 20. Genomic and biological characterization of ΦAB114, a temperate siphovirus infecting colistin- and carbapenem-resistant Acinetobacter baumannii.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2027
+**Revista:** Virology
 **Tipo:** Journal Article
-**Autores:** Tian W, Wang W, Tang S, Su L, Cooney R, Tian X, Meng Q
-**PMID:** 42874910  **DOI:** 10.1016/j.ejphar.2026.179426
+**Autores:** Uluçam Atay G, Alpay Karaoğlu Ş, Bozdeveci A, Suyabatmaz Ş, Bayramoğlu G
+**PMID:** 42933130  **DOI:** 10.1016/j.virol.2026.111109
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42874910/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42933130/
 
-### 29. Interstitial Molar Ectopic Pregnancy Despite Euploid Embryo Transfer: A Case Report.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2026
-**Revista:** O&G open
-**Tipo:** Case Reports, Journal Article
-**Autores:** Patel K, Sakkas D, Groszmann Y, Murphy L, Penzias A, Dottino J
-**PMID:** 43012036  **DOI:** 10.1097/og9.0000000000000215
+### 21. Rare-earth-free magnesium-zinc alloy with controlled biodegradation and biocompatibility for novel biodegradable metallic stent.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2027
+**Revista:** Biomaterials
+**Tipo:** Journal Article
+**Autores:** Park Y, Ha Y, Roh HJ, Lee H, Eo SJ, Kang DY, Lee N, Jung HD
+**PMID:** 42896421  **DOI:** 10.1016/j.biomaterials.2026.124691
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43012036/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42896421/
 
-### 30. ESICM LIVES 2026.
-**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
-**Fecha:** 2026-10-09
-**Revista:** Intensive Care Med Exp
+### 22. Artificial Intelligence in Gastroenterology: Towards Explainable, Generalisable and Clinically Actionable Decision Support.
+**Área:** Gastroenterología, hepatología y nutrición
+**Fecha:** 2026-09-30
+**Revista:** Diagnostics (Basel)
+**Tipo:** No especificado
+**Autores:** Baydili İ, Tasci B, Dogan S, Tuncer T.
+**PMID:** 42882337  **DOI:** 10.3390/diagnostics16193182
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42882337/
+
+### 23. Microfluidic integrated nucleic acid test (MINT) enabled by coupling FEN1-aided RPA with wax-purification and bead-carrier.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2027
+**Revista:** Talanta
+**Tipo:** Journal Article
+**Autores:** Xu Z, Gao X, Huang J, Pang S, Wang S, Wang Y, Feng L, Ma Y
+**PMID:** 42901063  **DOI:** 10.1016/j.talanta.2026.130801
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42901063/
+
+### 24. Integrated profiling of β-lactam susceptibility and spoilage-associated enzyme activities in psychrotrophic bacteria from the raw milk production chain.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2027
+**Revista:** International journal of food microbiology
+**Tipo:** Journal Article
+**Autores:** Hu X, Lei Y, Kong Z, Pang X, Shen J, Wang S
+**PMID:** 42914829  **DOI:** 10.1016/j.ijfoodmicro.2026.112128
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42914829/
+
+### 25. Proceedings of the 3rd edition of the International e-Health Forum 2024.
+**Área:** Microbiología, infectología y resistencia antimicrobiana
+**Fecha:** 2026-03-30
+**Revista:** BMC Proc
 **Tipo:** No especificado
 **Autores:** No disponible
-**PMID:** 42855639  **DOI:** 10.1186/s40635-026-00962-w
+**PMID:** 41906146  **DOI:** 10.1186/s12919-026-00366-4
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42855639/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/41906146/
+
+### 26. Beyond stroke: atrial fibrillation and the broader burden of thromboembolic events in the population-based EpiHealth study.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2027
+**Revista:** Scandinavian cardiovascular journal : SCJ
+**Tipo:** Journal Article
+**Autores:** Höiby P, Zarrouk M, Lind L, Basna R, Overton MC, Elmståhl S
+**PMID:** 42862737  **DOI:** 10.1080/14017431.2026.2748120
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42862737/
+
+### 27. Biomimetic sequential targeted nanoplatform for synergistic thrombolysis in ischemic stroke.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Wang J, Wang X, Liu S, Zheng Y, Wang C, Cheng J, Wang X
+**PMID:** 42909374  **DOI:** 10.1016/j.bioactmat.2026.10.014
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42909374/
+
+### 28. Long-term trajectories of invasive hemodynamic parameters and clinical outcomes after durable left ventricular assist device implantation.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2027
+**Revista:** JHLT open
+**Tipo:** Journal Article
+**Autores:** Legtenberg S, Ter Maaten JM, Erasmus ME, Kuijpers M, Douglas YL, Droogh JM, de Felice E, van den Broek SAJ
+**PMID:** 43017512  **DOI:** 10.1016/j.jhlto.2026.100711
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43017512/
+
+### 29. Preliminary experience with controlled hypothermic storage of donor heart in combined heart transplantation.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2027
+**Revista:** JHLT open
+**Tipo:** Journal Article
+**Autores:** Argaw ST, Lora Ronco L, Frering A, Kloeckner M, Coutance G, Coilly A, Vibert E, Snanoudj R
+**PMID:** 42999535  **DOI:** 10.1016/j.jhlto.2026.100707
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42999535/
+
+### 30. Renal Function and 4-Year Outcomes in Edoxaban-Treated Patients: A Sub-Analysis From the ETNA-AF Europe Study.
+**Área:** Cardiología y medicina vascular
+**Fecha:** 2026-11-01
+**Revista:** Eur J Clin Invest
+**Tipo:** No especificado
+**Autores:** De Caterina R, Fronk EM, Nunes J, Lamparter M, Kirchhof P, Zoccali C, ETNA‐AF Europe Investigators.
+**PMID:** 42948863  **DOI:** 10.1111/eci.70268
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42948863/
 
