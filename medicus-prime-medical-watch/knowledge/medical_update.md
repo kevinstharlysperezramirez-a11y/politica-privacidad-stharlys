@@ -1,162 +1,42 @@
 # MEDICUS PRIME — Medical Intelligence Feed
 
-> Actualizado: **2026-11-24T00:39+00:00**
+> Actualizado: **2026-11-24T22:58+00:00**
 > Salida de vigilancia bibliográfica automatizada. Verifica siempre el artículo original antes de utilizar la evidencia clínicamente.
 
 ## ARTÍCULOS DETECTADOS
 
-### 1. Surveillance strategies for the early detection of malignant peripheral nerve sheath tumors in neurofibromatosis type 1: a systematic review. 
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-11-21
-**Revista:** Fam Cancer
+### 1. The performance of ChatGPT and other large language models on multiple-choice questions in biomedical disciplines: A meta-analysis.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+**Fecha:** 2026-05-19
+**Revista:** Anat Sci Educ
 **Tipo:** No especificado
-**Autores:** Damodharan S, Tonsgard J.
-**PMID:** 43066852  **DOI:** 10.1007/s10689-026-00621-9
+**Autores:** Cheverko CM, Mavrych V, Bolgova O, Mohamed FRR, Westrick J, Juarez L, Rush E, Solka KA, Doubleday AF, Byram JN, Becker R, Gomez V, Ganeng BKA, Hoffman LA, Roach VA, Brown KM, DeVaul N, Garnett CN, Herriott HL, Lufler RS, Mussell JC, Balta JY, Pascoe MA, Middleton JW, Duffy S, Stephens GC, Wilson AB.
+**PMID:** 42153764  **DOI:** 10.1002/ase.70262
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43066852/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42153764/
 
-### 2. Effect of soft Chinese martial arts on depressive symptoms among college students: a systematic review and meta-analysis.
-**Área:** Psiquiatría y salud mental
-**Fecha:** 2026-10-20
-**Revista:** Front Psychiatry
+### 2. EEG biomarkers for neurodegenerative diseases: Machine learning applications and clinical trial insights
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-11-13
+**Revista:** Neuroimage Rep
 **Tipo:** No especificado
-**Autores:** Shi L, Wang Q, Li W, Xie W.
-**PMID:** 42979354  **DOI:** 10.3389/fpsyt.2026.1850402
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42979354/
-
-### 3. Endpoint-specific mortality associated with malignancy among adults with sepsis or septic shock: a systematic review and meta-analysis.
-**Área:** Urgencias, cuidados críticos y sepsis
-**Fecha:** 2026-10-30
-**Revista:** Ann Med
-**Tipo:** No especificado
-**Autores:** Chung H, Chou HC, Tsai TY, Chung MC.
-**PMID:** 42960561  **DOI:** 10.1080/07853890.2026.2752656
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42960561/
-
-### 4. Transmission dynamics of Nipah virus in Bangladesh and India, 2001-2026: Systematic review and inference on reproduction number, offspring dispersion, and serial interval.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-11-10
-**Revista:** PLoS Negl Trop Dis
-**Tipo:** No especificado
-**Autores:** Kim S, Mogasale VV, Vesga JF, Kang H, Skrip L, Jung SM, Islam A, Endo A, Edmunds WJ, Abbas K.
-**PMID:** 43008051  **DOI:** 10.1371/journal.pntd.0014876
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43008051/
-
-### 5. Epidemiology of infectious disease outbreaks on cruise ships: a systematic review and meta-analysis.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-11-09
-**Revista:** EClinicalMedicine
-**Tipo:** No especificado
-**Autores:** Wang S, Zhou L, Yin Y, Liu M, Lucey DR, Liu J.
-**PMID:** 43032188  **DOI:** 10.1016/j.eclinm.2026.104325
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43032188/
-
-### 6. Understanding health behaviors and resilience during pandemics: a systematic review of ethical, cognitive, and existential dimensions.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-11-04
-**Revista:** Front Public Health
-**Tipo:** No especificado
-**Autores:** Lazzari C, Garip G, Kotera Y.
-**PMID:** 43054025  **DOI:** 10.3389/fpubh.2026.1970236
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43054025/
-
-### 7. The Efficacy and Safety of Dalfampridine on Cognition and Fatigue in People With Multiple Sclerosis: A Systematic Review and Meta-Analysis.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** International journal of MS care
-**Tipo:** Journal Article
-**Autores:** Halabi MH, Alromayan R, Almutairi M, Alasmari H, AlGhamdi MA, Makkawi S
-**PMID:** 42974622  **DOI:** 10.7224/1537-2073.2026-004
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42974622/
-
-### 8. Exploring the therapeutic role of Chinses herbal medicine in the recurrence rate of uterine fibroids after conservative surgery: a systematic review and meta-analysis.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** Journal of ethnopharmacology
-**Tipo:** Journal Article, Systematic Review, Meta-Analysis, Review
-**Autores:** Liu Z, Liu Y, Li S, Zhang X, Qiang R, Jin F, Guo L, Hou T
-**PMID:** 42962945  **DOI:** 10.1016/j.jep.2026.121203
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42962945/
-
-### 9. Normothermic regional perfusion versus direct procurement with machine perfusion in donation after circulatory death heart transplantation: A systematic review and meta-analysis of early and mid-term outcomes.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027
-**Revista:** JHLT open
-**Tipo:** Journal Article
-**Autores:** AlGhamdi M, Lebreton G, Rao V, Cusimano RJ, Leprince P
-**PMID:** 43060965  **DOI:** 10.1016/j.jhlto.2026.100718
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43060965/
-
-### 10. Efficacy and Safety of Automated Insulin Delivery Systems in Children and Adolescents With Type 1 Diabetes: A Systematic Review of Randomized Controlled Trials
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-11-23
-**Revista:** Cureus
-**Tipo:** No especificado
-**Autores:** Jain R, Upadhyay P.
+**Autores:** Gupta M, Javadiesfahani R, Mastantuono I, Jin C, Valdes A, Dong R, Tropea D.
 **PMID:** —  **DOI:** —
 **Fuente:** Europe PMC
 **Enlace:** —
 
-### 11. Effects of Walnut (<i>Juglans regia</i> L.) Consumption on Glycemic and Anthropometric Indices in Adults: A Systematic Review and Dose-Response Meta-Analysis.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-11-16
-**Revista:** Food Sci Nutr
+### 3. Translation, cross-cultural adaptation of longitudinal curriculum objectives in sexual health to Brazilian medical education.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+**Fecha:** 2026-09-21
+**Revista:** Sex Med
 **Tipo:** No especificado
-**Autores:** Mashayekhi G, Ashtary-Larky D, Karimi M, Asbaghi O, Kalajahi AK, Shouhani Z, Moghadam OF, Rezaeyeh AP, Hosseini A, Naderian M.
-**PMID:** 43047961  **DOI:** 10.1002/fsn3.72586
+**Autores:** Neto TA, de Oliveira Valentino TC, Facio Junior FN.
+**PMID:** 42769748  **DOI:** 10.1093/sexmed/qfag090
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43047961/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42769748/
 
-### 12. H-shaped sponge positioner prevents pressure injuries during prolonged prone ventilation in acute respiratory distress syndrome: a single-center, open-label, randomized controlled trial.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2027 Mar-Apr 01
-**Revista:** Medical gas research
-**Tipo:** Journal Article, Randomized Controlled Trial
-**Autores:** Wang Y, Liu J, Chen S, Tian S, Hu S, Tang B, Zeng L, Luo L
-**PMID:** 43062006  **DOI:** 10.4103/mgr.MEDGASRES-D-25-00150
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43062006/
-
-### 13. Chinese expert consensus on the clinical application of stromal vascular fraction combined with bone marrow flushing for osteonecrosis of the femoral head.
-**Área:** Cirugía, trauma y ortopedia
-**Fecha:** 2026-09-27
-**Revista:** J Orthop Translat
-**Tipo:** No especificado
-**Autores:** Wang X, Zhang J, Cheng L, Peng J.
-**PMID:** 42835990  **DOI:** 10.1016/j.jot.2026.101192
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42835990/
-
-### 14. Prospective Multicenter Evaluation of a Novel Low-Axial-Force Colonic Stent for Malignant Colorectal Obstruction.
-**Área:** Cirugía, trauma y ortopedia
-**Fecha:** 2027
-**Revista:** DEN open
-**Tipo:** Journal Article
-**Autores:** Otsuka R, Saito S, Fujimoto N, Hanabata N, Takao A, Narita K, Kuwai T, Endo S
-**PMID:** 43011506  **DOI:** 10.1002/deo2.70466
-**Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43011506/
-
-### 15. Arterial blood gas parameters as mortality predictors in critically ill patients admitted from the emergency department: a prospective observational cohort study.
-**Área:** Urgencias, cuidados críticos y sepsis
-**Fecha:** 2026-10-30
-**Revista:** J Crit Care Med (Targu Mures)
-**Tipo:** No especificado
-**Autores:** Caliskan K, Duru M.
-**PMID:** 43016844  **DOI:** 10.62838/jccm-2026-0040
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43016844/
-
-### 16. Modern cell-based assays for biomedical research: from conventional methods to AI-driven high content analysis.
-**Área:** Epidemiología, salud pública y prevención
+### 4. Modern cell-based assays for biomedical research: from conventional methods to AI-driven high content analysis.
+**Área:** Inteligencia artificial y tecnología médica
 **Fecha:** 2027
 **Revista:** In vitro models
 **Tipo:** Journal Article, Review
@@ -165,8 +45,8 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/43061281/
 
-### 17. Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities.
-**Área:** Cirugía, trauma y ortopedia
+### 5. Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities.
+**Área:** Inteligencia artificial y tecnología médica
 **Fecha:** 2027
 **Revista:** Journal of diabetes and metabolic disorders
 **Tipo:** Journal Article, Review
@@ -175,133 +55,253 @@
 **Fuente:** PubMed
 **Enlace:** https://pubmed.ncbi.nlm.nih.gov/43065563/
 
-### 18. Machine Learning in Causal Effect Estimation and Causal Evaluation of ML-Enabled Interventions in Nursing-Related Research: A Scoping Review.
-**Área:** Medicina basada en evidencia e investigación clínica
-**Fecha:** 2026-12-01
-**Revista:** Nurs Health Sci
-**Tipo:** No especificado
-**Autores:** Kosmidis D, Vlachopoulos G, Nashwan AJ, de Carvalho RLR, Araujo BS, Armeni D, Sertaridou E, Koutsouki S.
-**PMID:** 42843401  **DOI:** 10.1111/nhs.70431
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42843401/
-
-### 19. Interventions for mental health and substance use in brain injury populations: systematic evidence map and review with interactive data visualization.
-**Área:** Psiquiatría y salud mental
-**Fecha:** 2026-10-12
-**Revista:** Front Digit Health
-**Tipo:** No especificado
-**Autores:** Kennedy CJ, Zhao Y, Kurkimaki S, Gavas N, Spargo EL, Dupriez-Mitchell B, Rees D, Premji Z, Woodin E, Schmidt J, Breese Biagioni J, Garcia-Barrera MA.
-**PMID:** 42935562  **DOI:** 10.3389/fdgth.2026.1748621
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42935562/
-
-### 20. A phenomenological approach to the phenomena of anxiety: a scoping review.
-**Área:** Psiquiatría y salud mental
-**Fecha:** 2026-10-06
-**Revista:** Front Psychol
-**Tipo:** No especificado
-**Autores:** Silva E, Mota WDC, Souza C, Bloc LG.
-**PMID:** 42903797  **DOI:** 10.3389/fpsyg.2026.1921674
-**Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42903797/
-
-### 21. Consent for intensive care research involving adults who lack decision-making capacity: A jurisdictional analysis of Australia's fragmented framework.
-**Área:** Urgencias, cuidados críticos y sepsis
+### 6. Next-generation hyphenated analytical technologies in natural product research: From high-resolution separation and structural elucidation to dereplication, metabolomics and drug discovery.
+**Área:** Inteligencia artificial y tecnología médica
 **Fecha:** 2027
-**Revista:** Critical care and resuscitation : journal of the Australasian Academy of Critical Care Medicine
+**Revista:** Talanta
 **Tipo:** Journal Article, Review
-**Autores:** Bihari S, Galluccio S, McIntyre J, Plummer M, Nair P, Saxena M, Buhr H, Neto AS
-**PMID:** 43068288  **DOI:** 10.1016/j.ccrj.2026.100230
+**Autores:** Dar AA, Mukhtar M, Shameem SA, Singh N
+**PMID:** 43008372  **DOI:** 10.1016/j.talanta.2026.130918
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43068288/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43008372/
 
-### 22. Kidney effects of inhaled nitric oxide in critically ill patients: from pathophysiological considerations to clinical implications.
-**Área:** Urgencias, cuidados críticos y sepsis
+### 7. Bioactive gas-eluting biomaterial platforms: gaseous medicine strategy for peripheral nerve injury.
+**Área:** Medicina regenerativa y terapias avanzadas
 **Fecha:** 2027 Mar-Apr 01
 **Revista:** Medical gas research
 **Tipo:** Journal Article, Review
-**Autores:** Robert A, Gonze A, Bulpa P, Hauquiert B
-**PMID:** 43061996  **DOI:** 10.4103/mgr.MEDGASRES-D-26-00116
+**Autores:** Sun M, Qin L, Fan X, Luo Y, Li S, Wang H, Shi H, Yu M
+**PMID:** 43061998  **DOI:** 10.4103/mgr.MEDGASRES-D-26-00156
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43061996/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43061998/
 
-### 23. Environmental microbial exposure as an under-measured exposome domain: Links to host microbiomes, immune regulation, and disease epidemiology.
-**Área:** Epidemiología, salud pública y prevención
+### 8. Super-speciality medicine in India: A critical review of growth referral gaps and cluster-based reform.
+**Área:** Genética, genómica y medicina molecular
 **Fecha:** 2027
-**Revista:** Journal of environmental health science & engineering
+**Revista:** Health policy OPEN
 **Tipo:** Journal Article, Review
-**Autores:** Parekh Y, Parmar V
-**PMID:** 43069764  **DOI:** 10.1007/s40201-026-01012-z
+**Autores:** Ghosh K
+**PMID:** 43065585  **DOI:** 10.1016/j.hpopen.2026.100195
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43069764/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43065585/
 
-### 24. Understanding diabetes through social determinants of health: An umbrella review in the Eastern Mediterranean Region.
-**Área:** Epidemiología, salud pública y prevención
+### 9. Prediction models for progression to castration-resistant prostate cancer after androgen deprivation therapy: a narrative review (2021-2026).
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-11-05
+**Revista:** Front Oncol
+**Tipo:** No especificado
+**Autores:** Yuan J, Jiang Z, Chen W, Wang S.
+**PMID:** 43061358  **DOI:** 10.3389/fonc.2026.1964985
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43061358/
+
+### 10. Fractionated Ablative Lasers: Principles, Parameters, Clinical Technique, and Complication Management.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
 **Fecha:** 2027
-**Revista:** Journal of diabetes and metabolic disorders
+**Revista:** Facial plastic surgery clinics of North America
 **Tipo:** Journal Article, Review
-**Autores:** Jafarzadeh J, Mohamadi E, Namazi N, Yaftian F, Mostafavi H, Noorimotlagh Z, Bakhtiari A, Olyaeemanesh A
-**PMID:** 43065792  **DOI:** 10.1007/s40200-026-02131-y
+**Autores:** Leake D, Shah A
+**PMID:** 43045408  **DOI:** 10.1016/j.fsc.2026.09.004
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43065792/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43045408/
 
-### 25. Post-licensure Safety of the Live-Attenuated Chikungunya Vaccine in Older Adults: An Integrative Review With Implications for Brazil.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-11-18
-**Revista:** Cureus
+### 11. Integrating teaching of neurological diseases: a scoping review of challenges and strategies.
+**Área:** Anatomía, histología, embriología y ciencias morfofuncionales
+**Fecha:** 2026-08-20
+**Revista:** BMC Med Educ
 **Tipo:** No especificado
-**Autores:** De Sá ME, Braz Machado L, Bertiê Silvestrini H, Binotto Bauer R, Correa Artero E, Coachman Hollenstein G, Carrijo Pires L, Van der Ven I, Kavahara Yoshida B, Gomes Castelo Branco B, Pacheco Dirane V.
-**PMID:** 43055002  **DOI:** 10.7759/cureus.119891
+**Autores:** Gan Q, Le J, Cao L.
+**PMID:** 43040502  **DOI:** 10.1186/s12909-026-10179-w
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43055002/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43040502/
 
-### 26. Assessing policy readiness for climate-informed infectious disease early warning systems in Vietnam: a scoping review and stakeholder consultation.
-**Área:** Epidemiología, salud pública y prevención
-**Fecha:** 2026-11-03
-**Revista:** Glob Health Action
+### 12. Gegen qinlian decoction alleviates DSS-induced colitis through modulation of intestinal stem cell homeostasis and M1 macrophage polarization.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2027
+**Revista:** Journal of ethnopharmacology
+**Tipo:** Journal Article
+**Autores:** Wang M, Yang X, Ji N, Wang X, Cheng Y, Liu Z, Ren L, Leng Z
+**PMID:** 42977005  **DOI:** 10.1016/j.jep.2026.122594
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42977005/
+
+### 13. Logistic regression withstands comparison with machine learning for thyroid nodule malignancy risk stratification under strict temporal validation.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-11-11
+**Revista:** PLOS Digit Health
 **Tipo:** No especificado
-**Autores:** Pham CT, Nguyen HT, Le HHTC, Bui V, Phung H, Phung D, Chu C.
-**PMID:** 42974928  **DOI:** 10.1080/16549716.2026.2757958
+**Autores:** Fernández Alba JJ, Carral San Laureano F, Jiménez Millán AI, González Macías C.
+**PMID:** 43013506  **DOI:** 10.1371/journal.pdig.0001828
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42974928/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43013506/
 
-### 27. A let-7a-5p-engineered extracellular vesicle-laden bioactive scaffold promotes immunomodulation and regeneration of segmental tracheal defects.
-**Área:** Cirugía, trauma y ortopedia
+### 14. Artificial Intelligence in Pancreatic Resection: Current Evidence, Surgical Applications, and a Framework for Clinical Translation.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-11-09
+**Revista:** J Clin Med
+**Tipo:** No especificado
+**Autores:** Heiba K, Kausar A.
+**PMID:** 43030879  **DOI:** 10.3390/jcm15218737
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43030879/
+
+### 15. Artificial intelligence and triple negative breast cancer: can pathomics help oncologists?
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-11-05
+**Revista:** Front Oncol
+**Tipo:** No especificado
+**Autores:** Faa G, Lai E, Suri JS, Solinas C, Dessì M, Saba G, Loi F, Tiwari E, Cau F, Dessena M, Ziranu P, Pretta A, Codipietro C, Graziano S, Saba L, Scartozzi M.
+**PMID:** 43060867  **DOI:** 10.3389/fonc.2026.1883554
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43060867/
+
+### 16. Genetically engineered extracellular vesicles with chimeric antigen receptors of human stem cell-derived neutrophils targeting fibroblast activation protein to modulate tumor microenvironment.
+**Área:** Medicina regenerativa y terapias avanzadas
 **Fecha:** 2027
 **Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Liu B, Wei N, Liang L, Shi Z, Liu P, Zeng T, Zhang H, Zhang H
-**PMID:** 42999915  **DOI:** 10.1016/j.bioactmat.2026.10.008
+**Autores:** Esmonde C, Sun L, Jin G, Michaelides L, Syed F, Bhattarai J, Driscoll T, Quiñones-Hinojosa A
+**PMID:** 43041590  **DOI:** 10.1016/j.bioactmat.2026.10.031
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42999915/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43041590/
 
-### 28. Serrated Pathway-Related Post-Colonoscopy Colorectal Cancer　Detected During Surveillance Colonoscopy: A Case Report.
-**Área:** Cirugía, trauma y ortopedia
+### 17. Sustained delivery of 3D-bioprinted stem cell-derived small extracellular vesicles promotes neural regeneration following traumatic brain injury via the CREB1/PGC-1α/FNDC5 axis.
+**Área:** Medicina regenerativa y terapias avanzadas
 **Fecha:** 2027
-**Revista:** DEN open
+**Revista:** Bioactive materials
 **Tipo:** Journal Article
-**Autores:** Hadatsuki H, Ichijima R, Mizuguchi Y, Toyoshima N, Okita H, Haga T, Kumamoto Y, Tsukamoto S
-**PMID:** 43054811  **DOI:** 10.1002/deo2.70426
+**Autores:** Ai Y, Zhang Q, Chen T, Lin L, Chen Z, Liu G, Liu J, Dong Z
+**PMID:** 42999541  **DOI:** 10.1016/j.bioactmat.2026.10.030
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43054811/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42999541/
 
-### 29. CMKLR1 contributes to diurnal variation in brain injury after cardiac arrest by promoting lactate production in microglia.
-**Área:** Urgencias, cuidados críticos y sepsis
+### 18. Two organs, one storm: CNS and hepatic HLH.
+**Área:** Medicina regenerativa y terapias avanzadas
 **Fecha:** 2027
-**Revista:** Neuropharmacology
+**Revista:** Journal of human immunity
 **Tipo:** Journal Article
-**Autores:** Li T, Fan Z, Wang H, Fan D, Peng F
-**PMID:** 43008846  **DOI:** 10.1016/j.neuropharm.2026.111258
+**Autores:** Diamond T, McCuaig S, Gorman MP, Henderson LA
+**PMID:** 43076604  **DOI:** 10.70962/jhi.20250214
 **Fuente:** PubMed
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43008846/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43076604/
 
-### 30. Artificial intelligence in emergency trauma perioperative management: applications, performance benchmarks, and translation barriers.
-**Área:** Urgencias, cuidados críticos y sepsis
-**Fecha:** 2026-10-26
-**Revista:** Front Surg
+### 19. Artificial Intelligence as a Catalyst for Cell-Based Therapies in Retinal Disease.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2026-10-16
+**Revista:** Cells
 **Tipo:** No especificado
-**Autores:** Yang L, Li C, Wang X, Zeng Y, Zhang H.
-**PMID:** 43005598  **DOI:** 10.3389/fsurg.2026.1970304
+**Autores:** Srivastava GK, Shukla P, Millas SC, Lokanathan Y.
+**PMID:** 42929859  **DOI:** 10.3390/cells15201887
 **Fuente:** Europe PMC
-**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43005598/
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42929859/
+
+### 20. Cellularized Skin Substitute Bioengineering for Regenerative Medicine: Cell Sources, Culture Strategies, and Transition Toward Defined, Xeno-Free Culture Systems.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2026-08-21
+**Revista:** Adv Healthc Mater
+**Tipo:** No especificado
+**Autores:** Lemaître G, Trouillas M, Vinasco-Sandoval T, Giordano C, Lellouch AG, Rachidi W, Lataillade JJ, Fortunel NO.
+**PMID:** 42629982  **DOI:** 10.1002/adhm.71630
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42629982/
+
+### 21. A portable smartphone-integrated chiral molecularly imprinted electrochemical sensing platform based on L-histidine-functionalized Q-HKUST/PEDOT for highly selective detection of L-tyrosine.
+**Área:** Fisiología, bioquímica y biología celular
+**Fecha:** 2027
+**Revista:** Talanta
+**Tipo:** Journal Article
+**Autores:** Yu J, Zhang X, Han S, Wang Y, Chu H, Zong W, Leng Q
+**PMID:** 42987525  **DOI:** 10.1016/j.talanta.2026.130914
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42987525/
+
+### 22. A genetic engineering toolkit for the probiotic yeast Saccharomyces boulardii.
+**Área:** Genética, genómica y medicina molecular
+**Fecha:** 2027
+**Revista:** Synthetic and systems biotechnology
+**Tipo:** Journal Article
+**Autores:** Dong H, Xiao C, Zhang Y
+**PMID:** 43036820  **DOI:** 10.1016/j.synbio.2026.10.013
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43036820/
+
+### 23. Unlocking genetic accessibility in Halomonas bluephagenesis: A high-efficiency transformation chassis enables linear DNA-mediated genome editing.
+**Área:** Genética, genómica y medicina molecular
+**Fecha:** 2027
+**Revista:** Synthetic and systems biotechnology
+**Tipo:** Journal Article
+**Autores:** Xu T, Guo F, Xiang H, Han J
+**PMID:** 43022511  **DOI:** 10.1016/j.synbio.2026.10.009
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43022511/
+
+### 24. A background-suppressed CRISPR/Cas13a-HRCA biosensor for ultrasensitive miR-137 detection toward differential screening of Alzheimer's disease.
+**Área:** Genética, genómica y medicina molecular
+**Fecha:** 2027
+**Revista:** Talanta
+**Tipo:** Journal Article
+**Autores:** Song J, Yue H, Zhang C, Jiao J, Jiao J
+**PMID:** 42971085  **DOI:** 10.1016/j.talanta.2026.130886
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42971085/
+
+### 25. De novo biosynthesis of meroterpenoid grifolic acid in Yarrowia lipolytica.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Synthetic and systems biotechnology
+**Tipo:** Journal Article
+**Autores:** Hong Y, Wang J, Wu Z, Lertphadungkit P, Yao R, Zhou B, Bar-Sela G, Cohen I
+**PMID:** 43061493  **DOI:** 10.1016/j.synbio.2026.10.015
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43061493/
+
+### 26. A benchmarking framework for organoid computing.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Bioactive materials
+**Tipo:** Journal Article
+**Autores:** Xing Y, Gao Y, Hong Z, Tian C, Cai H, Chu H, Yang Y, Liang PY
+**PMID:** 43034668  **DOI:** 10.1016/j.bioactmat.2026.10.027
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43034668/
+
+### 27. Enrichment characteristics and hyperspectral quantitative retrieval of lithium and rare earth element concentrations in coal.
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2027
+**Revista:** Talanta
+**Tipo:** Journal Article
+**Autores:** Zhao H, Cheng S, Wang M, Zhao L, Li C, Sun S, Wei Y, Tian Y
+**PMID:** 42987522  **DOI:** 10.1016/j.talanta.2026.130834
+**Fuente:** PubMed
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42987522/
+
+### 28. World Congress on Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (WCO-IOF-ESCEO 2026).
+**Área:** Inteligencia artificial y tecnología médica
+**Fecha:** 2026-11-20
+**Revista:** Aging Clin Exp Res
+**Tipo:** No especificado
+**Autores:** No disponible
+**PMID:** 43064873  **DOI:** 10.1007/s40520-026-03479-0
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/43064873/
+
+### 29. Extracellular Vesicles for Androgenetic Alopecia: Current Evidence, Mechanisms, and Clinical Prospects.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2026-09-13
+**Revista:** Int J Nanomedicine
+**Tipo:** No especificado
+**Autores:** Tang WZ, Liao CY, Xu HY, Huang WT, Lan ZH, Wu ZX, Yang YH, Li MS, Liu TH, Wang YH.
+**PMID:** 42756864  **DOI:** 10.2147/ijn.s621203
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42756864/
+
+### 30. Chitosan in Modern Pharmacotherapy: Chitosan Nanoparticles and Delivery Systems.
+**Área:** Medicina regenerativa y terapias avanzadas
+**Fecha:** 2026-09-06
+**Revista:** Pharmaceutics
+**Tipo:** No especificado
+**Autores:** Kuršvietienė L, Lažauskas R, Stanevičienė I.
+**PMID:** 42797293  **DOI:** 10.3390/pharmaceutics18091118
+**Fuente:** Europe PMC
+**Enlace:** https://pubmed.ncbi.nlm.nih.gov/42797293/
 
